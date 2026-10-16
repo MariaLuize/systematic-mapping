@@ -7992,3 +7992,10 @@ N1  - Export Date: 05 October 2026
 N1  - Cited By: 19
 AB  - In contrast to conventional remote sensing images, hyperspectral remote sensing images are characterized by a greater number of spectral bands and exceptionally high resolution. The richness of both spectral and spatial information facilitates the precise classification of various objects within the images, establishing hyperspectral imaging as indispensable for remote sensing applications. However, the labor-intensive and time-consuming process of labeling hyperspectral images results in limited labeled samples, while challenges like spectral similarity between different objects and spectral variation within the same object further complicate the development of classification algorithms. Therefore, efficiently exploiting the spatial and spectral information in hyperspectral images is crucial for accomplishing the classification task. To address these challenges, this paper presents a multi-scale feature fusion convolutional neural network (MSFF). The network introduces a dual branch spectral and spatial feature extraction module utilizing 3D depthwise separable convolution for joint spectral and spatial feature extraction, further refined by an attention-based-on-central-pixels (ACP) mechanism. Additionally, a spectral–spatial joint attention module (SSJA) is designed to interactively explore latent dependency between spectral and spatial information through the use of multilayer perceptron and global pooling operations. Finally, a feature fusion module (FF) and an adaptive multi-scale feature extraction module (AMSFE) are incorporated to enable adaptive feature fusion and comprehensive mining of feature information. Experimental results demonstrate that the proposed method performs exceptionally well on the IP, PU, and YRE datasets, delivering superior classification results compared to other methods and underscoring the potential and advantages of MSFF in hyperspectral remote sensing classification.
 ER  -
+
+TY  - JOUR
+AU  - Wu, J.
+AU  - Su, X.
+AU  - Yan, Q.
+AU  - Ji,
+ER  -
