@@ -1,0 +1,6173 @@
+TY  - JOUR
+TI  - MOSS‑GAN: a GAN‑enhanced Mamba model with spatial‑spectral co‑optimization for nearshore green tide detection in UAV hyperspectral imagery
+AU  - Sun L.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-12-15
+VL  - 331
+DO  - 10.1016/j.eswa.2026.133136
+UR  - https://doi.org/10.1016/j.eswa.2026.133136
+ER  - 
+
+TY  - JOUR
+TI  - Multiview representation-guided global-local fusion for hyperspectral image change detection
+AU  - Chen D.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-12-15
+VL  - 331
+DO  - 10.1016/j.eswa.2026.133275
+UR  - https://doi.org/10.1016/j.eswa.2026.133275
+ER  - 
+
+TY  - JOUR
+TI  - Reconstructing cloud-free Sentinel-2 time series under complex degradations with state-driven spatio-temporal modeling
+AU  - LiHe Z.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-12-15
+VL  - 347
+DO  - 10.1016/j.rse.2026.115661
+UR  - https://doi.org/10.1016/j.rse.2026.115661
+ER  - 
+
+TY  - JOUR
+TI  - AGPLwS: Attribute-guided prompt learning with stability for few-shot remote sensing image scene classification
+AU  - Dong Y.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-12-15
+VL  - 331
+DO  - 10.1016/j.eswa.2026.133193
+UR  - https://doi.org/10.1016/j.eswa.2026.133193
+ER  - 
+
+TY  - JOUR
+TI  - SDDCA: State-driven discrete diffusion model with cohesive attention embedding for change detection of remote sensing image
+AU  - Yu C.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-12-15
+VL  - 331
+DO  - 10.1016/j.eswa.2026.133161
+UR  - https://doi.org/10.1016/j.eswa.2026.133161
+ER  - 
+
+TY  - JOUR
+TI  - A knowledge-guided machine learning framework for cross-scale wheat harvest monitoring via sample augmentation
+AU  - Shao M.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-12-15
+VL  - 347
+DO  - 10.1016/j.rse.2026.115671
+UR  - https://doi.org/10.1016/j.rse.2026.115671
+ER  - 
+
+TY  - JOUR
+TI  - Bias-variance trade-off in radiative transfer model inversion drives uncertainty in leaf area index estimation
+AU  - Fan D.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-12-15
+VL  - 347
+DO  - 10.1016/j.rse.2026.115662
+UR  - https://doi.org/10.1016/j.rse.2026.115662
+ER  - 
+
+TY  - JOUR
+TI  - RoadMamba-Net: Intelligent road extraction from high-resolution optical satellite imagery for open-pit mining
+AU  - Fan S.
+JO  - Optics and Laser Technology
+PY  - 2026
+DA  - 2026-12-01
+VL  - 204
+DO  - 10.1016/j.optlastec.2026.116179
+UR  - https://doi.org/10.1016/j.optlastec.2026.116179
+ER  - 
+
+TY  - JOUR
+TI  - When multimodal fusion helps or hurts: Exploring modality synergy and cross-scene transferability for mangrove species mapping
+AU  - Wu H.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-12-01
+VL  - 242
+SP  - 384-398
+DO  - 10.1016/j.isprsjprs.2026.08.036
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.08.036
+ER  - 
+
+TY  - JOUR
+TI  - BlinkChange: Active perception bi-temporal reliable representation for disaster impact understanding from remote sensing imagery
+AU  - Chen H.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-12-01
+VL  - 242
+SP  - 566-584
+DO  - 10.1016/j.isprsjprs.2026.09.014
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.09.014
+ER  - 
+
+TY  - JOUR
+TI  - SF-CFNet: Spatial-frequency collaborative fusion detection network for AI-generated satellite images
+AU  - Tang Y.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-12-01
+VL  - 330
+DO  - 10.1016/j.eswa.2026.133006
+UR  - https://doi.org/10.1016/j.eswa.2026.133006
+ER  - 
+
+TY  - JOUR
+TI  - DescribeEarth: Detailed localized captioning for remote sensing images
+AU  - Li K.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-12-01
+VL  - 242
+SP  - 860-872
+DO  - 10.1016/j.isprsjprs.2026.09.019
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.09.019
+ER  - 
+
+TY  - JOUR
+TI  - PVDINO: Extracting photovoltaic panels from high-resolution remote sensing imagery via vision foundation model and dual-stream edge mining
+AU  - Zhang Z.
+JO  - Applied Energy
+PY  - 2026
+DA  - 2026-12-01
+VL  - 425
+DO  - 10.1016/j.apenergy.2026.128571
+UR  - https://doi.org/10.1016/j.apenergy.2026.128571
+ER  - 
+
+TY  - JOUR
+TI  - Multi-temporal remote sensing and GIS-based geospatial assessment of iron ore mining dynamics and LULC impacts in Bailadila Range, Bastar Craton, Central India
+AU  - Bansal R.
+JO  - Results in Engineering
+PY  - 2026
+DA  - 2026-12-01
+VL  - 32
+DO  - 10.1016/j.rineng.2026.111660
+UR  - https://doi.org/10.1016/j.rineng.2026.111660
+ER  - 
+
+TY  - JOUR
+TI  - Sketch and paint: A structural–temporal aware refinement network for fine-grained crop mapping on satellite image time series
+AU  - Cui W.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-12-01
+VL  - 242
+SP  - 607-627
+DO  - 10.1016/j.isprsjprs.2026.09.009
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.09.009
+ER  - 
+
+TY  - JOUR
+TI  - SaKD: Lightweight infrared small target detection via Spatial-Aware Knowledge Distillation for edge deployment
+AU  - Ma Q.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-12-01
+VL  - 242
+SP  - 745-759
+DO  - 10.1016/j.isprsjprs.2026.09.018
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.09.018
+ER  - 
+
+TY  - JOUR
+TI  - Spot the differences: a registration-robust object-level change detection framework for remote sensing images
+AU  - Song Y.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-12-01
+VL  - 242
+SP  - 505-521
+DO  - 10.1016/j.isprsjprs.2026.09.001
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.09.001
+ER  - 
+
+TY  - JOUR
+TI  - Introducing an automated avalanche debris detection framework from sentinel-2 imagery using multi-index spectral fusion and U-net optimisation
+AU  - Sharma A.
+JO  - Cold Regions Science and Technology
+PY  - 2026
+DA  - 2026-12-01
+VL  - 252
+DO  - 10.1016/j.coldregions.2026.105096
+UR  - https://doi.org/10.1016/j.coldregions.2026.105096
+ER  - 
+
+TY  - JOUR
+TI  - Global Ecosystem Dynamics Investigation-enabled machine learning for aboveground blue-carbon mapping in the Cua Dai estuary, central Vietnam
+AU  - Thu V.T.H.
+JO  - Case Studies in Chemical and Environmental Engineering
+PY  - 2026
+DA  - 2026-12-01
+VL  - 14
+DO  - 10.1016/j.cscee.2026.101465
+UR  - https://doi.org/10.1016/j.cscee.2026.101465
+ER  - 
+
+TY  - JOUR
+TI  - A Hierarchical Context-Fusion and Synergistic Alignment Network for small object detection
+AU  - Zhang B.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-12-01
+VL  - 242
+SP  - 19-35
+DO  - 10.1016/j.isprsjprs.2026.08.034
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.08.034
+ER  - 
+
+TY  - JOUR
+TI  - Attribution-driven background modeling network with context-aware anomaly suppression for hyperspectral anomaly detection
+AU  - Wang C.
+JO  - Information Processing and Management
+PY  - 2026
+DA  - 2026-12-01
+VL  - 63
+IS  - 8
+DO  - 10.1016/j.ipm.2026.104950
+UR  - https://doi.org/10.1016/j.ipm.2026.104950
+ER  - 
+
+TY  - JOUR
+TI  - Synoptic-aware explainable artificial intelligence (SA-XAI) model for bias correction and regionalization of satellite precipitation over complex terrain
+AU  - Tosan M.
+JO  - Atmospheric Research
+PY  - 2026
+DA  - 2026-12-01
+VL  - 342
+DO  - 10.1016/j.atmosres.2026.109213
+UR  - https://doi.org/10.1016/j.atmosres.2026.109213
+ER  - 
+
+TY  - JOUR
+TI  - HELIOS-Net: Hourly daytime estimation of land surface temperature with integration of observational solar-cloud-satellite geometry and deep neural network
+AU  - Kim Y.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-12-01
+VL  - 242
+SP  - 760-777
+DO  - 10.1016/j.isprsjprs.2026.09.028
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.09.028
+ER  - 
+
+TY  - JOUR
+TI  - A novel change homogenizing flood index and an expedited locally tuned Markov random field model for unsupervised rural floodwater detection in sentinel-1 data: An application to flood impact assessment
+AU  - Mohsenifar A.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-12-01
+VL  - 242
+SP  - 455-489
+DO  - 10.1016/j.isprsjprs.2026.08.021
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.08.021
+ER  - 
+
+TY  - JOUR
+TI  - Enhancing identification of geothermal prospection in Yingshan geothermal field using machine learning and thermal infrared remote sensing
+AU  - Zhang X.
+JO  - Geothermics
+PY  - 2026
+DA  - 2026-12-01
+VL  - 142
+DO  - 10.1016/j.geothermics.2026.103818
+UR  - https://doi.org/10.1016/j.geothermics.2026.103818
+ER  - 
+
+TY  - JOUR
+TI  - Integrated multisource remote sensing and geochemical constraints on the petrogenesis and geodynamic evolution of mineralized A-type granites in the Egyptian Nubian Shield
+AU  - Abo Khashaba S.M.
+JO  - Journal of Geochemical Exploration
+PY  - 2026
+DA  - 2026-12-01
+VL  - 291
+DO  - 10.1016/j.gexplo.2026.108196
+UR  - https://doi.org/10.1016/j.gexplo.2026.108196
+ER  - 
+
+TY  - JOUR
+TI  - Four decades of Landsat-based river turbidity reconstruction reveal spatially heterogeneous declines across U.S. rivers
+AU  - Li Y.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-12-01
+VL  - 242
+SP  - 215-234
+DO  - 10.1016/j.isprsjprs.2026.09.007
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.09.007
+ER  - 
+
+TY  - JOUR
+TI  - Identifying diverse iron ores based on feature enhancement and deep learning classification with hyperspectral images
+AU  - Xu Z.
+JO  - Measurement Journal of the International Measurement Confederation
+PY  - 2026
+DA  - 2026-11-15
+VL  - 290
+DO  - 10.1016/j.measurement.2026.122716
+UR  - https://doi.org/10.1016/j.measurement.2026.122716
+ER  - 
+
+TY  - JOUR
+TI  - Daily 1 km satellite-based PM2.5 exposure estimates in Bangladesh, 2020–2025: spatiotemporal patterns and implications for environmental health
+AU  - Cui Z.
+JO  - Environmental Pollution
+PY  - 2026
+DA  - 2026-11-15
+VL  - 409
+DO  - 10.1016/j.envpol.2026.129051
+UR  - https://doi.org/10.1016/j.envpol.2026.129051
+ER  - 
+
+TY  - JOUR
+TI  - Weakly supervised salient object detection in optical remote sensing images based on multi-directional nesting and edge scan fusion
+AU  - Sun M.
+JO  - Neurocomputing
+PY  - 2026
+DA  - 2026-11-07
+VL  - 701
+DO  - 10.1016/j.neucom.2026.134537
+UR  - https://doi.org/10.1016/j.neucom.2026.134537
+ER  - 
+
+TY  - JOUR
+TI  - Towards efficient multi-hazard detection from single satellite imagery via spectral-semantic graph reasoning
+AU  - Ao W.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-11-01
+VL  - 345
+DO  - 10.1016/j.rse.2026.115566
+UR  - https://doi.org/10.1016/j.rse.2026.115566
+ER  - 
+
+TY  - JOUR
+TI  - Diffusion models for hyperspectral image analysis: A comprehensive review
+AU  - Hu X.
+JO  - Neural Networks
+PY  - 2026
+DA  - 2026-11-01
+VL  - 203
+DO  - 10.1016/j.neunet.2026.109109
+UR  - https://doi.org/10.1016/j.neunet.2026.109109
+ER  - 
+
+TY  - JOUR
+TI  - Hyperspectral image classification: A systematic survey of traditional methods, deep networks, and emerging paradigms
+AU  - Sahu S.R.
+JO  - Signal Processing Image Communication
+PY  - 2026
+DA  - 2026-11-01
+VL  - 149
+DO  - 10.1016/j.image.2026.117682
+UR  - https://doi.org/10.1016/j.image.2026.117682
+ER  - 
+
+TY  - JOUR
+TI  - MMDiff: Multi-modal remote sensing image generation via cross-modality spatial feature transfer
+AU  - Tang H.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-11-01
+VL  - 241
+SP  - 93-108
+DO  - 10.1016/j.isprsjprs.2026.08.018
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.08.018
+ER  - 
+
+TY  - JOUR
+TI  - Ultralightweight progressive feature disentanglement and recomposition network for hyperspectral image classification
+AU  - Kong D.
+JO  - Neural Networks
+PY  - 2026
+DA  - 2026-11-01
+VL  - 203
+DO  - 10.1016/j.neunet.2026.109200
+UR  - https://doi.org/10.1016/j.neunet.2026.109200
+ER  - 
+
+TY  - JOUR
+TI  - S2A-TripNet: A spectral-aware triplet network integrating adaptive mining for robust and generalized hyperspectral classification
+AU  - Nirala R.K.
+JO  - Image and Vision Computing
+PY  - 2026
+DA  - 2026-11-01
+VL  - 175
+DO  - 10.1016/j.imavis.2026.106188
+UR  - https://doi.org/10.1016/j.imavis.2026.106188
+ER  - 
+
+TY  - JOUR
+TI  - C2F2T-Net: Cross-modal difference interaction collaborative frequency domain fusion transformer network for collaborative classification of hyperspectral and LiDAR data
+AU  - Zhao Y.
+JO  - Optics and Laser Technology
+PY  - 2026
+DA  - 2026-11-01
+VL  - 203
+DO  - 10.1016/j.optlastec.2026.115452
+UR  - https://doi.org/10.1016/j.optlastec.2026.115452
+ER  - 
+
+TY  - JOUR
+TI  - Explicit spatial localization and task-adaptive balancing for remote sensing image-text retrieval
+AU  - Zheng C.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-11-01
+VL  - 241
+SP  - 109-122
+DO  - 10.1016/j.isprsjprs.2026.08.022
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.08.022
+ER  - 
+
+TY  - JOUR
+TI  - Hybrid data- and model-level enhancements for vision transformer-based object detection in remote sensing imagery
+AU  - Song H.
+JO  - Applied Soft Computing
+PY  - 2026
+DA  - 2026-11-01
+VL  - 203
+DO  - 10.1016/j.asoc.2026.116126
+UR  - https://doi.org/10.1016/j.asoc.2026.116126
+ER  - 
+
+TY  - JOUR
+TI  - Rice leaf pathogen infection alters the spectral–biochemical relationships revealed by radiative transfer model inversion
+AU  - Tian L.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-11-01
+VL  - 345
+DO  - 10.1016/j.rse.2026.115592
+UR  - https://doi.org/10.1016/j.rse.2026.115592
+ER  - 
+
+TY  - JOUR
+TI  - Maximizing the potential of Sentinel-2 satellite observations in mapping Sargassum seaweed in the Wider Caribbean Region
+AU  - Jiao J.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-11-01
+VL  - 345
+DO  - 10.1016/j.rse.2026.115608
+UR  - https://doi.org/10.1016/j.rse.2026.115608
+ER  - 
+
+TY  - JOUR
+TI  - Multi-sensor analysis of LULC change in Shibchar, Bangladesh (2002–2022) using ensemble machine learning in Google Earth Engine
+AU  - Rahman M.M.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-11-01
+VL  - 78
+IS  - 9
+SP  - 8928-8944
+DO  - 10.1016/j.asr.2026.08.075
+UR  - https://doi.org/10.1016/j.asr.2026.08.075
+ER  - 
+
+TY  - JOUR
+TI  - The transition from core urban areas to mega-region urbanization and land surface temperature changes: A case study in Hanoi and Ho Chi Minh City
+AU  - Thi Do A.N.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-11-01
+VL  - 78
+IS  - 9
+SP  - 9164-9193
+DO  - 10.1016/j.asr.2026.08.108
+UR  - https://doi.org/10.1016/j.asr.2026.08.108
+ER  - 
+
+TY  - JOUR
+TI  - Machine learning-assisted spectroscopic approaches for pesticide residue detection in food matrices
+AU  - Ezenwanne B.C.
+JO  - Food Research International
+PY  - 2026
+DA  - 2026-10-31
+VL  - 242
+DO  - 10.1016/j.foodres.2026.120168
+UR  - https://doi.org/10.1016/j.foodres.2026.120168
+ER  - 
+
+TY  - JOUR
+TI  - Integrating Bi-LSTM deep learning and Sentinel-2 remote sensing for advanced spatiotemporal water quality monitoring and anomaly detection
+AU  - Adugna W.T.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-10-15
+VL  - 78
+IS  - 8
+SP  - 7792-7807
+DO  - 10.1016/j.asr.2026.08.013
+UR  - https://doi.org/10.1016/j.asr.2026.08.013
+ER  - 
+
+TY  - JOUR
+TI  - Automatic processing method for SLR data based on dual-layer PSO-BP neural network
+AU  - Lv Z.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-10-15
+VL  - 78
+IS  - 8
+SP  - 8141-8158
+DO  - 10.1016/j.asr.2026.08.035
+UR  - https://doi.org/10.1016/j.asr.2026.08.035
+ER  - 
+
+TY  - JOUR
+TI  - Key challenges and a roadmap for earthquake forecasting using satellite remote sensing data
+AU  - Akhoondzadeh M.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-10-15
+VL  - 78
+IS  - 8
+SP  - 8328-8335
+DO  - 10.1016/j.asr.2026.08.054
+UR  - https://doi.org/10.1016/j.asr.2026.08.054
+ER  - 
+
+TY  - JOUR
+TI  - A novel framework for understanding the Seismo-LAIC mechanism using the Sequential Mann–Kendall anomaly detection method applied to satellite precursors
+AU  - Akhoondzadeh M.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-10-15
+VL  - 78
+IS  - 8
+SP  - 8239-8256
+DO  - 10.1016/j.asr.2026.08.019
+UR  - https://doi.org/10.1016/j.asr.2026.08.019
+ER  - 
+
+TY  - JOUR
+TI  - PVP-adapter: Dual-branch spatial-frequency adaptation for change detection of photovoltaic panels
+AU  - Huang R.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-10-01
+VL  - 240
+SP  - 360-377
+DO  - 10.1016/j.isprsjprs.2026.07.032
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.07.032
+ER  - 
+
+TY  - JOUR
+TI  - Edge-preserving and uncertainty-guided domain adaptation for weakly supervised rooftop photovoltaic mapping
+AU  - Wang S.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-10-01
+VL  - 240
+SP  - 31-53
+DO  - 10.1016/j.isprsjprs.2026.07.008
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.07.008
+ER  - 
+
+TY  - JOUR
+TI  - MapGlue: Multimodal remote sensing image matching
+AU  - Wu P.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-10-01
+VL  - 240
+SP  - 166-183
+DO  - 10.1016/j.isprsjprs.2026.07.007
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.07.007
+ER  - 
+
+TY  - JOUR
+TI  - ASG-TFANet: Adaptive skip gate enhanced temporal-frequency aggregation network for multi-scale remote sensing image segmentation
+AU  - Wang L.
+JO  - Signal Processing Image Communication
+PY  - 2026
+DA  - 2026-10-01
+VL  - 148
+DO  - 10.1016/j.image.2026.117644
+UR  - https://doi.org/10.1016/j.image.2026.117644
+ER  - 
+
+TY  - JOUR
+TI  - Morphological edge detection steganography for quantum remote sensing images based on quantum walks and truncated octahedron in unit cube
+AU  - Xu T.t.
+JO  - Journal of the Franklin Institute
+PY  - 2026
+DA  - 2026-10-01
+VL  - 363
+IS  - 15
+DO  - 10.1016/j.jfranklin.2026.109024
+UR  - https://doi.org/10.1016/j.jfranklin.2026.109024
+ER  - 
+
+TY  - JOUR
+TI  - A systematic approach to assess fused drone-satellite data for vertical water quality profile estimation in a deep reservoir
+AU  - Mishmast Nehi S.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-10-01
+VL  - 679
+DO  - 10.1016/j.jhydrol.2026.136131
+UR  - https://doi.org/10.1016/j.jhydrol.2026.136131
+ER  - 
+
+TY  - JOUR
+TI  - Multi-modal dual-target spatio-temporal graph learning for regional evapotranspiration estimation
+AU  - Gyamfi K.A.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-10-01
+VL  - 678
+DO  - 10.1016/j.jhydrol.2026.136014
+UR  - https://doi.org/10.1016/j.jhydrol.2026.136014
+ER  - 
+
+TY  - JOUR
+TI  - Aerial Image Gravity Direction Estimation (AGE): Robust single-image estimation by fusing foundation model features with camera geometry
+AU  - Zhu C.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-10-01
+VL  - 240
+SP  - 396-409
+DO  - 10.1016/j.isprsjprs.2026.07.019
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.07.019
+ER  - 
+
+TY  - JOUR
+TI  - Monitoring wetland variations using Sentinel-2: Case study of Keta Lagoon complex ramsar site
+AU  - Dzomeku M.E.
+JO  - Journal of Atmospheric and Solar Terrestrial Physics
+PY  - 2026
+DA  - 2026-10-01
+VL  - 287
+DO  - 10.1016/j.jastp.2026.106955
+UR  - https://doi.org/10.1016/j.jastp.2026.106955
+ER  - 
+
+TY  - JOUR
+TI  - Spatio-temporal variability of land cover dynamics and land degradation vulnerability using cellular automata and Artificial Neural Networks
+AU  - Thakur T.K.
+JO  - Physics and Chemistry of the Earth
+PY  - 2026
+DA  - 2026-10-01
+VL  - 144
+DO  - 10.1016/j.pce.2026.104634
+UR  - https://doi.org/10.1016/j.pce.2026.104634
+ER  - 
+
+TY  - JOUR
+TI  - Improving water pixel detection in SWOT Pixel Cloud (PIXC) data over small reservoirs using machine learning methods
+AU  - Shirafkan S.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-10-01
+VL  - 679
+DO  - 10.1016/j.jhydrol.2026.136247
+UR  - https://doi.org/10.1016/j.jhydrol.2026.136247
+ER  - 
+
+TY  - JOUR
+TI  - Monitoring land-centric business processes using remote sensing and satellite data
+AU  - Chan V.
+JO  - Information Systems
+PY  - 2026
+DA  - 2026-10-01
+VL  - 141
+DO  - 10.1016/j.is.2026.102739
+UR  - https://doi.org/10.1016/j.is.2026.102739
+ER  - 
+
+TY  - JOUR
+TI  - Hcropland30: A hybrid 30-m global cropland map generated by leveraging global land cover products and Landsat data via deep learning
+AU  - Hu Q.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-10-01
+VL  - 344
+DO  - 10.1016/j.rse.2026.115552
+UR  - https://doi.org/10.1016/j.rse.2026.115552
+ER  - 
+
+TY  - JOUR
+TI  - LSTM-based weighted approach for TMY generation in extreme Antarctic climate
+AU  - Zhang G.
+JO  - Energy
+PY  - 2026
+DA  - 2026-10-01
+VL  - 361
+DO  - 10.1016/j.energy.2026.142034
+UR  - https://doi.org/10.1016/j.energy.2026.142034
+ER  - 
+
+TY  - JOUR
+TI  - Integrating remote sensing, machine learning, and stable isotopes to diagnose hydrological drivers and water sources of a semi-arid wetland under coal mining disturbance
+AU  - Yin Z.
+JO  - Journal of Hydrology Regional Studies
+PY  - 2026
+DA  - 2026-10-01
+VL  - 67
+DO  - 10.1016/j.ejrh.2026.103825
+UR  - https://doi.org/10.1016/j.ejrh.2026.103825
+ER  - 
+
+TY  - JOUR
+TI  - Satellite observations coupled with a buffer-zone framework for regional methane mapping
+AU  - Burak D.N.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-10-01
+VL  - 78
+IS  - 7
+SP  - 6852-6882
+DO  - 10.1016/j.asr.2026.07.073
+UR  - https://doi.org/10.1016/j.asr.2026.07.073
+ER  - 
+
+TY  - JOUR
+TI  - DADFENet: A dual-branch adaptive and dynamic feature enhancement network for hyperspectral change detection
+AU  - Sheng M.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-09-25
+VL  - 327
+DO  - 10.1016/j.eswa.2026.132851
+UR  - https://doi.org/10.1016/j.eswa.2026.132851
+ER  - 
+
+TY  - JOUR
+TI  - Integrating remote sensing and deep learning models to assess construction area vulnerability in Ho Chi Minh City after the 2025 provincial merger
+AU  - Thi Do A.N.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-09-15
+VL  - 78
+IS  - 6
+SP  - 5846-5866
+DO  - 10.1016/j.asr.2026.07.013
+UR  - https://doi.org/10.1016/j.asr.2026.07.013
+ER  - 
+
+TY  - JOUR
+TI  - Wavelet transform multi-feature enhancement network for hyperspectral image classification
+AU  - Luo S.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-09-15
+VL  - 78
+IS  - 6
+SP  - 5664-5678
+DO  - 10.1016/j.asr.2026.06.120
+UR  - https://doi.org/10.1016/j.asr.2026.06.120
+ER  - 
+
+TY  - JOUR
+TI  - Knowledge-driven random forest models for identifying soybean planting areas from Sentinel-1/2 satellite imagery: An interpretable mapping approach
+AU  - Wan X.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-09-15
+VL  - 78
+IS  - 6
+SP  - 5826-5845
+DO  - 10.1016/j.asr.2026.07.012
+UR  - https://doi.org/10.1016/j.asr.2026.07.012
+ER  - 
+
+TY  - JOUR
+TI  - Hyperspectral image classification using depth-wise separable convolution-based Swin Retentive Network
+AU  - Arya R.K.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-09-15
+VL  - 78
+IS  - 6
+SP  - 5719-5737
+DO  - 10.1016/j.asr.2026.07.003
+UR  - https://doi.org/10.1016/j.asr.2026.07.003
+ER  - 
+
+TY  - JOUR
+TI  - A novel deep learning-based method for adaptive building extraction from high-resolution remote sensing imagery using independent external probabilistic priors
+AU  - Naanjam R.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-09-15
+VL  - 78
+IS  - 6
+SP  - 6002-6020
+DO  - 10.1016/j.asr.2026.07.029
+UR  - https://doi.org/10.1016/j.asr.2026.07.029
+ER  - 
+
+TY  - JOUR
+TI  - Estimating daily air temperature in Zanjan Province using MODIS data and Random Forest: a seasonal and spatial analysis (2018–2022)
+AU  - Angouti R.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-09-15
+VL  - 78
+IS  - 6
+SP  - 5808-5825
+DO  - 10.1016/j.asr.2026.07.011
+UR  - https://doi.org/10.1016/j.asr.2026.07.011
+ER  - 
+
+TY  - JOUR
+TI  - Enhancing financial market prediction through multi-stage signal decomposition and hybrid machine learning
+AU  - Kamwele Mutinda J.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-09-15
+VL  - 326
+DO  - 10.1016/j.eswa.2026.132670
+UR  - https://doi.org/10.1016/j.eswa.2026.132670
+ER  - 
+
+TY  - JOUR
+TI  - LandslideSegFormer: A non-local context-aware dual-branch network for accurate small-scale landslide segmentation from remote sensing imagery
+AU  - Lee X.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-09-01
+VL  - 239
+SP  - 54-75
+DO  - 10.1016/j.isprsjprs.2026.05.047
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.05.047
+ER  - 
+
+TY  - JOUR
+TI  - FreqChange: Frequency-aware spatiotemporal learning with prior guidance for semantic change detection in remote sensing images
+AU  - Huang H.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-09-01
+VL  - 239
+SP  - 124-146
+DO  - 10.1016/j.isprsjprs.2026.05.042
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.05.042
+ER  - 
+
+TY  - JOUR
+TI  - Agricultural parcel polygon reconstruction using boundary line segment assembly
+AU  - Zuo X.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-09-01
+VL  - 239
+SP  - 203-222
+DO  - 10.1016/j.isprsjprs.2026.05.049
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.05.049
+ER  - 
+
+TY  - JOUR
+TI  - SARU: A Shadow-Aware and Removal Unified Framework for remote sensing images with new benchmarks
+AU  - Bo Z.Y.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-09-01
+VL  - 239
+SP  - 39-53
+DO  - 10.1016/j.isprsjprs.2026.05.022
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.05.022
+ER  - 
+
+TY  - JOUR
+TI  - Explainable and uncertainty-aware deep learning methods for satellite-based monitoring of nuclear power plants
+AU  - Hsieh H.Y.
+JO  - Annals of Nuclear Energy
+PY  - 2026
+DA  - 2026-09-01
+VL  - 235
+DO  - 10.1016/j.anucene.2026.112351
+UR  - https://doi.org/10.1016/j.anucene.2026.112351
+ER  - 
+
+TY  - JOUR
+TI  - LMGNet: A lightweight multi-scale perception and global semantic calibration network for remote sensing image semantic segmentation
+AU  - Zhu S.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-09-01
+VL  - 325
+DO  - 10.1016/j.eswa.2026.132646
+UR  - https://doi.org/10.1016/j.eswa.2026.132646
+ER  - 
+
+TY  - JOUR
+TI  - An edge enhancement and high-frequency aware network for single remote sensing image super-resolution
+AU  - Geng W.
+JO  - Displays
+PY  - 2026
+DA  - 2026-09-01
+VL  - 94
+DO  - 10.1016/j.displa.2026.103456
+UR  - https://doi.org/10.1016/j.displa.2026.103456
+ER  - 
+
+TY  - JOUR
+TI  - GSMFA-net: Global semantic-guided multi-scale feature aggregation network for lightweight and effective remote sensing image change detection
+AU  - Liu C.
+JO  - Image and Vision Computing
+PY  - 2026
+DA  - 2026-09-01
+VL  - 173
+DO  - 10.1016/j.imavis.2026.106080
+UR  - https://doi.org/10.1016/j.imavis.2026.106080
+ER  - 
+
+TY  - JOUR
+TI  - γ-GV: Global variation-based γ-approximation with local gradient product for hyperspectral image denoising
+AU  - Liu J.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-09-01
+VL  - 325
+DO  - 10.1016/j.eswa.2026.132605
+UR  - https://doi.org/10.1016/j.eswa.2026.132605
+ER  - 
+
+TY  - JOUR
+TI  - CDHNet: An implicit calibration and difference-guided hierarchical perception change detection network for remote sensing images
+AU  - Cheng H.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-09-01
+VL  - 239
+SP  - 1027-1048
+DO  - 10.1016/j.isprsjprs.2026.06.040
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.06.040
+ER  - 
+
+TY  - JOUR
+TI  - Integrating cloud motion information: A deep learning approach for real-time wind field retrieval using geostationary satellite imagery
+AU  - Zhang W.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-09-01
+VL  - 239
+SP  - 477-491
+DO  - 10.1016/j.isprsjprs.2026.05.029
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.05.029
+ER  - 
+
+TY  - JOUR
+TI  - Assessing reservoir water quality using UAV-based multispectral and thermal imagery integrated with machine and deep learning approaches
+AU  - Khodaei M.S.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-09-01
+VL  - 677
+DO  - 10.1016/j.jhydrol.2026.135892
+UR  - https://doi.org/10.1016/j.jhydrol.2026.135892
+ER  - 
+
+TY  - JOUR
+TI  - UAV multispectral data and mixed-pixel segmentation for citrus water deficit diagnosis: Integrating spectral–texture features with machine learning for precision irrigation management
+AU  - Wu Z.
+JO  - Agricultural Water Management
+PY  - 2026
+DA  - 2026-09-01
+VL  - 334
+DO  - 10.1016/j.agwat.2026.110668
+UR  - https://doi.org/10.1016/j.agwat.2026.110668
+ER  - 
+
+TY  - JOUR
+TI  - EFPINet: enhanced feature preservation and interaction network for SAR ship detection
+AU  - Liu S.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-09-01
+VL  - 78
+IS  - 5
+SP  - 4480-4496
+DO  - 10.1016/j.asr.2026.06.074
+UR  - https://doi.org/10.1016/j.asr.2026.06.074
+ER  - 
+
+TY  - JOUR
+TI  - An end-to-end framework for semi-automated and cost-effective urban drainage system design: integrating deep learning, topology generation, and multi-objective optimization
+AU  - Zhou Q.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-09-01
+VL  - 677
+DO  - 10.1016/j.jhydrol.2026.135844
+UR  - https://doi.org/10.1016/j.jhydrol.2026.135844
+ER  - 
+
+TY  - JOUR
+TI  - UAV-based temporal synergistic estimation of multiple alfalfa qualities integrating physics-informed network and 3D allometric operator
+AU  - Cheng T.
+JO  - Plant Phenomics
+PY  - 2026
+DA  - 2026-09-01
+VL  - 8
+IS  - 3
+DO  - 10.1016/j.plaphe.2026.100244
+UR  - https://doi.org/10.1016/j.plaphe.2026.100244
+ER  - 
+
+TY  - JOUR
+TI  - UMS-DETR: A lightweight Transformer-based framework for real-time ship detection in complex remote sensing scenes
+AU  - Nguyen T.N.
+JO  - Ocean Engineering
+PY  - 2026
+DA  - 2026-09-01
+VL  - 365
+IS  - P2
+DO  - 10.1016/j.oceaneng.2026.127311
+UR  - https://doi.org/10.1016/j.oceaneng.2026.127311
+ER  - 
+
+TY  - JOUR
+TI  - Technological advances, challenges and future prospects for remote sensing-driven climate change monitoring
+AU  - Kirubakaran D.
+JO  - Journal of Trace Elements and Minerals
+PY  - 2026
+DA  - 2026-09-01
+VL  - 17
+DO  - 10.1016/j.jtemin.2026.100318
+UR  - https://doi.org/10.1016/j.jtemin.2026.100318
+ER  - 
+
+TY  - JOUR
+TI  - Rethinking remote sensing change detection with state space models and self-supervised learning
+AU  - Guo X.
+JO  - Image and Vision Computing
+PY  - 2026
+DA  - 2026-09-01
+VL  - 173
+DO  - 10.1016/j.imavis.2026.106047
+UR  - https://doi.org/10.1016/j.imavis.2026.106047
+ER  - 
+
+TY  - JOUR
+TI  - Satellite water quality monitoring of China’s coastal inland waters based on Google Earth Engine
+AU  - Zhao Y.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-09-01
+VL  - 677
+DO  - 10.1016/j.jhydrol.2026.135882
+UR  - https://doi.org/10.1016/j.jhydrol.2026.135882
+ER  - 
+
+TY  - JOUR
+TI  - Multi-image super-resolution in remote sensing: A review of artificial intelligence techniques and challenges
+AU  - Rubin I.
+JO  - Acta Astronautica
+PY  - 2026
+DA  - 2026-09-01
+VL  - 246
+SP  - 643-663
+DO  - 10.1016/j.actaastro.2026.04.043
+UR  - https://doi.org/10.1016/j.actaastro.2026.04.043
+ER  - 
+
+TY  - JOUR
+TI  - Spatio-temporal assessment of ecological restoration in the Jharia Coalfield using multi-temporal Landsat data and spectral indices
+AU  - Moon P.R.
+JO  - Journal for Nature Conservation
+PY  - 2026
+DA  - 2026-09-01
+VL  - 93
+DO  - 10.1016/j.jnc.2026.127361
+UR  - https://doi.org/10.1016/j.jnc.2026.127361
+ER  - 
+
+TY  - JOUR
+TI  - A physics-guided and interpretable machine learning framework for rapid flood inundation mapping in complex flood retention areas
+AU  - Zhu C.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-09-01
+VL  - 677
+DO  - 10.1016/j.jhydrol.2026.135747
+UR  - https://doi.org/10.1016/j.jhydrol.2026.135747
+ER  - 
+
+TY  - JOUR
+TI  - A novel fusion framework for generating 30 m daily seamless soil moisture with reliable performance
+AU  - Liu Y.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-09-01
+VL  - 677
+DO  - 10.1016/j.jhydrol.2026.135791
+UR  - https://doi.org/10.1016/j.jhydrol.2026.135791
+ER  - 
+
+TY  - JOUR
+TI  - Collaborative discrimination of Cadmium and Lead contamination types and levels in Bok Choy based on multi-temporal hyperspectral data and RCBA-HMTL
+AU  - Zou Z.
+JO  - Journal of Hazardous Materials
+PY  - 2026
+DA  - 2026-09-01
+VL  - 515
+DO  - 10.1016/j.jhazmat.2026.143022
+UR  - https://doi.org/10.1016/j.jhazmat.2026.143022
+ER  - 
+
+TY  - JOUR
+TI  - A review of machine learning applications in inland and nearshore water color remote sensing: from preprocessing to object detection and parameter estimation
+AU  - Shi J.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-09-01
+VL  - 677
+DO  - 10.1016/j.jhydrol.2026.135950
+UR  - https://doi.org/10.1016/j.jhydrol.2026.135950
+ER  - 
+
+TY  - JOUR
+TI  - Flood depth mapping with SWOT-derived training data: evaluating the potential of open-source datasets
+AU  - Li Z.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-09-01
+VL  - 677
+DO  - 10.1016/j.jhydrol.2026.136000
+UR  - https://doi.org/10.1016/j.jhydrol.2026.136000
+ER  - 
+
+TY  - JOUR
+TI  - A two-stage data fusion framework for multi-source precipitation estimates integrating gauge, radar, and satellite observations via deep learning and Bayesian model averaging
+AU  - Chao L.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-09-01
+VL  - 677
+DO  - 10.1016/j.jhydrol.2026.135764
+UR  - https://doi.org/10.1016/j.jhydrol.2026.135764
+ER  - 
+
+TY  - JOUR
+TI  - Machine learning and AHP approaches for evaluating land degradation in coal mining landscape
+AU  - Mishra A.
+JO  - Journal of Geochemical Exploration
+PY  - 2026
+DA  - 2026-09-01
+VL  - 288
+DO  - 10.1016/j.gexplo.2026.108117
+UR  - https://doi.org/10.1016/j.gexplo.2026.108117
+ER  - 
+
+TY  - JOUR
+TI  - MiMNet-STASF: a spatiotemporal decoupled network for sub-pixel canopy structure retrieval of urban forests with multi-source long-term remote sensing time series
+AU  - Qin J.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-09-01
+VL  - 239
+SP  - 309-333
+DO  - 10.1016/j.isprsjprs.2026.06.013
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.06.013
+ER  - 
+
+TY  - JOUR
+TI  - Short-term ionospheric modeling over the Indian region using long short-term memory networks
+AU  - Prajapati P.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-09-01
+VL  - 78
+IS  - 5
+SP  - 4972-4982
+DO  - 10.1016/j.asr.2026.06.081
+UR  - https://doi.org/10.1016/j.asr.2026.06.081
+ER  - 
+
+TY  - JOUR
+TI  - Hemispheric-scale mapping of thaw slumps using a cloud-native and transferable deep learning framework
+AU  - Lou P.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-09-01
+VL  - 239
+SP  - 105-123
+DO  - 10.1016/j.isprsjprs.2026.06.002
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.06.002
+ER  - 
+
+TY  - JOUR
+TI  - Assessing deep learning architectures for land cover and crop type mapping over complex regions using small spatial contexts
+AU  - Naboureh A.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-09-01
+VL  - 78
+IS  - 5
+SP  - 4519-4528
+DO  - 10.1016/j.asr.2026.06.076
+UR  - https://doi.org/10.1016/j.asr.2026.06.076
+ER  - 
+
+TY  - JOUR
+TI  - GICL-Net: A graph-interactive collaborative learning network for joint classification of HSI and LiDAR
+AU  - Zhu H.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2026
+DA  - 2026-09-01
+VL  - 153
+DO  - 10.1016/j.jag.2026.105525
+UR  - https://doi.org/10.1016/j.jag.2026.105525
+ER  - 
+
+TY  - JOUR
+TI  - STaPL: Scale Transfer with Pseudo-Labelling for satellite-based mapping of agricultural practices
+AU  - Ma Y.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-09-01
+VL  - 343
+DO  - 10.1016/j.rse.2026.115500
+UR  - https://doi.org/10.1016/j.rse.2026.115500
+ER  - 
+
+TY  - JOUR
+TI  - EPDNet: Euler phase and frequency multi-dimensional perception-driven method for semantic segmentation of remote sensing images
+AU  - Chen W.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-08-15
+VL  - 78
+IS  - 4
+SP  - 3138-3165
+DO  - 10.1016/j.asr.2026.05.048
+UR  - https://doi.org/10.1016/j.asr.2026.05.048
+ER  - 
+
+TY  - JOUR
+TI  - A hyperspectral target detection method by combining robust dictionaries and constrained energy minimization regularized low-rank and sparse representation model
+AU  - Lin S.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-08-15
+VL  - 78
+IS  - 4
+SP  - 3523-3544
+DO  - 10.1016/j.asr.2026.06.019
+UR  - https://doi.org/10.1016/j.asr.2026.06.019
+ER  - 
+
+TY  - JOUR
+TI  - An adaptive method for ocean front detection using spatial–frequency fusion and uncertainty-aware attention
+AU  - Gao L.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-08-15
+VL  - 342
+DO  - 10.1016/j.rse.2026.115483
+UR  - https://doi.org/10.1016/j.rse.2026.115483
+ER  - 
+
+TY  - JOUR
+TI  - Machine-learning-based estimation of ground-level NO2 concentrations across Southeastern Europe using multi-source satellite, reanalysis, and emission data
+AU  - Bilgiç E.
+JO  - Environmental Pollution
+PY  - 2026
+DA  - 2026-08-15
+VL  - 403
+DO  - 10.1016/j.envpol.2026.128461
+UR  - https://doi.org/10.1016/j.envpol.2026.128461
+ER  - 
+
+TY  - JOUR
+TI  - CMRNet: A multispectral detection framework driven by dynamic intelligence for coastal environments
+AU  - Li P.
+JO  - Ocean Engineering
+PY  - 2026
+DA  - 2026-08-15
+VL  - 363
+DO  - 10.1016/j.oceaneng.2026.126689
+UR  - https://doi.org/10.1016/j.oceaneng.2026.126689
+ER  - 
+
+TY  - JOUR
+TI  - Improving detailed wetland classification with JM-based sample augmentation in multi-sensor remote sensing
+AU  - Jiao X.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-08-15
+VL  - 78
+IS  - 4
+SP  - 3182-3199
+DO  - 10.1016/j.asr.2026.05.079
+UR  - https://doi.org/10.1016/j.asr.2026.05.079
+ER  - 
+
+TY  - JOUR
+TI  - Precise waterbody mapping at the city scale using a novel connectivity preservation and boundary refinement network based on medium-resolution remote sensing imagery
+AU  - Zhai H.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-08-01
+VL  - 676
+DO  - 10.1016/j.jhydrol.2026.135669
+UR  - https://doi.org/10.1016/j.jhydrol.2026.135669
+ER  - 
+
+TY  - JOUR
+TI  - Daily inference of reservoir surface water area at large scales via a systematic deep learning framework synergistically integrating multisource remote sensing imagery
+AU  - Feng Y.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-08-01
+VL  - 676
+DO  - 10.1016/j.jhydrol.2026.135712
+UR  - https://doi.org/10.1016/j.jhydrol.2026.135712
+ER  - 
+
+TY  - JOUR
+TI  - Exploiting foundational spatial semantic prior for accurate few-shot hyperspectral image classification
+AU  - Zhao X.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-08-01
+VL  - 322
+DO  - 10.1016/j.eswa.2026.132252
+UR  - https://doi.org/10.1016/j.eswa.2026.132252
+ER  - 
+
+TY  - JOUR
+TI  - A novel deep learning semi-observational analog framework for diagnosing convection over Morocco using satellite imagery and ERA5-reanalysis
+AU  - Alaoui B.
+JO  - Atmospheric Research
+PY  - 2026
+DA  - 2026-08-01
+VL  - 338
+DO  - 10.1016/j.atmosres.2026.108969
+UR  - https://doi.org/10.1016/j.atmosres.2026.108969
+ER  - 
+
+TY  - JOUR
+TI  - A novel hybrid knowledge distillation model for high-resolution image semantic segmentation
+AU  - Liu B.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-08-01
+VL  - 78
+IS  - 3
+SP  - 2426-2441
+DO  - 10.1016/j.asr.2026.05.066
+UR  - https://doi.org/10.1016/j.asr.2026.05.066
+ER  - 
+
+TY  - JOUR
+TI  - Navigating Hierarchies in Hyperbolic Space: A Knowledge-Driven Graph Network for Semantic Segmentation of Remote Sensing Imagery
+AU  - Cui W.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2026
+DA  - 2026-08-01
+VL  - 152
+DO  - 10.1016/j.jag.2026.105435
+UR  - https://doi.org/10.1016/j.jag.2026.105435
+ER  - 
+
+TY  - JOUR
+TI  - Improved causal attention mechanism and semi-supervised learning integrated deep learning model for blueberry ripeness detection
+AU  - Zhang R.
+JO  - Computers and Electronics in Agriculture
+PY  - 2026
+DA  - 2026-08-01
+VL  - 250
+DO  - 10.1016/j.compag.2026.111910
+UR  - https://doi.org/10.1016/j.compag.2026.111910
+ER  - 
+
+TY  - JOUR
+TI  - Assessment of vulnerability to mitigate risks in aquaculture areas across 28 coastal provinces of Vietnam: facilitating the selection of optimal farming locations
+AU  - Le T.Q.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-08-01
+VL  - 78
+IS  - 3
+SP  - 2312-2338
+DO  - 10.1016/j.asr.2026.05.057
+UR  - https://doi.org/10.1016/j.asr.2026.05.057
+ER  - 
+
+TY  - JOUR
+TI  - Evaluating deep learning model for multispectral feature mapping of fecal coliform contamination in major rivers of South Korea
+AU  - Suh S.M.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-08-01
+VL  - 341
+DO  - 10.1016/j.rse.2026.115458
+UR  - https://doi.org/10.1016/j.rse.2026.115458
+ER  - 
+
+TY  - JOUR
+TI  - Beyond single and earthbound: Exploring multi-image grounding in remote sensing with Large Vision-Language Models
+AU  - An X.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-08-01
+VL  - 238
+SP  - 589-605
+DO  - 10.1016/j.isprsjprs.2026.05.023
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.05.023
+ER  - 
+
+TY  - JOUR
+TI  - Forward temporal forecasting of land-cover transitions from multispectral observations in mining-influenced zones of the Pra River Basin, Ghana: A spatial panel learning approach
+AU  - Essel-Yorke K.A.
+JO  - Remote Sensing Applications Society and Environment
+PY  - 2026
+DA  - 2026-08-01
+VL  - 43
+DO  - 10.1016/j.rsase.2026.102240
+UR  - https://doi.org/10.1016/j.rsase.2026.102240
+ER  - 
+
+TY  - JOUR
+TI  - xLSTM for multi-source cotton yield estimation and temporal interpretability across agro-ecological regions in Türkiye
+AU  - Yardımcı F.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-08-01
+VL  - 78
+IS  - 3
+SP  - 2139-2153
+DO  - 10.1016/j.asr.2026.05.025
+UR  - https://doi.org/10.1016/j.asr.2026.05.025
+ER  - 
+
+TY  - JOUR
+TI  - Multi-source remote sensing fusion for European tree species classification: Explore the role of GEE-derived indices by explainable AI
+AU  - Ganjirad M.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-08-01
+VL  - 78
+IS  - 3
+SP  - 2442-2468
+DO  - 10.1016/j.asr.2026.05.067
+UR  - https://doi.org/10.1016/j.asr.2026.05.067
+ER  - 
+
+TY  - JOUR
+TI  - Motion consistency-guided spatiotemporal learning: a robust framework for low-altitude infrared object detection
+AU  - Zhong L.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-08-01
+VL  - 238
+SP  - 712-735
+DO  - 10.1016/j.isprsjprs.2026.05.026
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.05.026
+ER  - 
+
+TY  - JOUR
+TI  - Mitigating terrain-induced scattering and speckle bias in SAR-based biomass estimation: a causal analysis and machine learning approach
+AU  - Raj A.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-08-01
+VL  - 78
+IS  - 3
+SP  - 1936-1954
+DO  - 10.1016/j.asr.2026.05.011
+UR  - https://doi.org/10.1016/j.asr.2026.05.011
+ER  - 
+
+TY  - JOUR
+TI  - DLGCNet: Multimodal remote sensing semantic segmentation via dual diagonal low-rank adaptation and graph convolutional feature fusion
+AU  - Zeng J.
+JO  - Knowledge Based Systems
+PY  - 2026
+DA  - 2026-07-19
+VL  - 347
+DO  - 10.1016/j.knosys.2026.116299
+UR  - https://doi.org/10.1016/j.knosys.2026.116299
+ER  - 
+
+TY  - JOUR
+TI  - Detection of tea heat stress in UAV multi-spectral remote sensing images based on spatial-frequency two stream network
+AU  - Wei Z.
+JO  - Computers and Electronics in Agriculture
+PY  - 2026
+DA  - 2026-07-15
+VL  - 249
+DO  - 10.1016/j.compag.2026.111846
+UR  - https://doi.org/10.1016/j.compag.2026.111846
+ER  - 
+
+TY  - JOUR
+TI  - HyperKANODE: Kolmogorov-Arnold network with neural ordinary differential equations for hyperspectral image classification
+AU  - Zhang Z.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-07-15
+VL  - 320
+DO  - 10.1016/j.eswa.2026.132148
+UR  - https://doi.org/10.1016/j.eswa.2026.132148
+ER  - 
+
+TY  - JOUR
+TI  - Hyperspectral image classification using an optimized multi-layer perceptron-autoencoder bidirectional long short-term memory with Bhattacharyya wingsuit flying search optimization
+AU  - Arya R.K.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-07-15
+VL  - 78
+IS  - 2
+SP  - 888-900
+DO  - 10.1016/j.asr.2026.04.086
+UR  - https://doi.org/10.1016/j.asr.2026.04.086
+ER  - 
+
+TY  - JOUR
+TI  - Precision-aware adaptive suboptimality suppression for pose recovery of non-cooperative on-orbit targets
+AU  - Peng L.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-07-15
+VL  - 78
+IS  - 2
+SP  - 1627-1643
+DO  - 10.1016/j.asr.2026.04.101
+UR  - https://doi.org/10.1016/j.asr.2026.04.101
+ER  - 
+
+TY  - JOUR
+TI  - Physically interpretable machine learning for robust façade bio-colonisation detection: Comparative insights from hyperspectral and RGB imaging under hard visual interference
+AU  - Hu X.
+JO  - Building and Environment
+PY  - 2026
+DA  - 2026-07-15
+VL  - 300
+DO  - 10.1016/j.buildenv.2026.114712
+UR  - https://doi.org/10.1016/j.buildenv.2026.114712
+ER  - 
+
+TY  - JOUR
+TI  - CSSH-Mamba: coupled spectral-spatial heterogeneous Mamba features for unsound maize seeds identification
+AU  - Zhao K.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-07-15
+VL  - 320
+DO  - 10.1016/j.eswa.2026.132253
+UR  - https://doi.org/10.1016/j.eswa.2026.132253
+ER  - 
+
+TY  - JOUR
+TI  - Quantifying drought impacts on wetlands in arid regions using a change-based drought severity index (WCDI) and Sentinel-1/2 data fusion within Google Earth Engine: evidence from two wetlands in central Iran
+AU  - Sarvari Z.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-07-15
+VL  - 78
+IS  - 2
+SP  - 973-999
+DO  - 10.1016/j.asr.2026.04.096
+UR  - https://doi.org/10.1016/j.asr.2026.04.096
+ER  - 
+
+TY  - JOUR
+TI  - MTFormer: Joint Uncertainty-Aware Abrupt-Change distance Transform and multi-task Transformer for agricultural parcel segmentation
+AU  - Fang K.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-07-05
+VL  - 319
+DO  - 10.1016/j.eswa.2026.132068
+UR  - https://doi.org/10.1016/j.eswa.2026.132068
+ER  - 
+
+TY  - JOUR
+TI  - EuroMineNet: A multitemporal Sentinel-2 benchmark for spatiotemporal mining footprint analysis in the European Union (2015–2024)
+AU  - Yu W.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-07-01
+VL  - 237
+SP  - 409-425
+DO  - 10.1016/j.isprsjprs.2026.04.046
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.04.046
+ER  - 
+
+TY  - JOUR
+TI  - Hyperspectral image classification via efficient global spectral supertoken clustering
+AU  - Liu P.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-07-01
+VL  - 237
+SP  - 545-556
+DO  - 10.1016/j.isprsjprs.2026.04.041
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.04.041
+ER  - 
+
+TY  - JOUR
+TI  - Physically-aware deep learning for reconstructing gap-free sea surface temperature in the South China Sea
+AU  - Su C.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-07-01
+VL  - 237
+SP  - 253-270
+DO  - 10.1016/j.isprsjprs.2026.04.016
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.04.016
+ER  - 
+
+TY  - JOUR
+TI  - Improving perceptual quality in low-bitrate remote sensing image compression via codebook priors and adversarial learning
+AU  - Li J.
+JO  - Displays
+PY  - 2026
+DA  - 2026-07-01
+VL  - 93
+DO  - 10.1016/j.displa.2026.103445
+UR  - https://doi.org/10.1016/j.displa.2026.103445
+ER  - 
+
+TY  - JOUR
+TI  - Flood inundation monitoring with multi-source satellite imagery based on deep learning and explainable frameworks
+AU  - Yu H.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-07-01
+VL  - 673
+DO  - 10.1016/j.jhydrol.2026.135409
+UR  - https://doi.org/10.1016/j.jhydrol.2026.135409
+ER  - 
+
+TY  - JOUR
+TI  - Field-scale mapping of soil available phosphorus in cropland via interpretable machine learning and multispectral remote sensing
+AU  - Qiu J.
+JO  - Soil and Tillage Research
+PY  - 2026
+DA  - 2026-07-01
+VL  - 259
+DO  - 10.1016/j.still.2026.107091
+UR  - https://doi.org/10.1016/j.still.2026.107091
+ER  - 
+
+TY  - JOUR
+TI  - Disentangling representation and cross-domain adaptation for unsupervised change detection in multimodal remote sensing images
+AU  - Zhang E.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-07-01
+VL  - 237
+SP  - 22-33
+DO  - 10.1016/j.isprsjprs.2026.04.011
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.04.011
+ER  - 
+
+TY  - JOUR
+TI  - MHamba: Morphological State Space Module and heterogeneous feature learning for ship detection
+AU  - Wu W.
+JO  - Displays
+PY  - 2026
+DA  - 2026-07-01
+VL  - 93
+DO  - 10.1016/j.displa.2026.103440
+UR  - https://doi.org/10.1016/j.displa.2026.103440
+ER  - 
+
+TY  - JOUR
+TI  - Hydro-environmental dynamics of Kaptai Lake using satellite derived biophysical metrics and an ensemble Machine Learning Framework
+AU  - Rafi K.R.
+JO  - Journal of Contaminant Hydrology
+PY  - 2026
+DA  - 2026-07-01
+VL  - 281
+DO  - 10.1016/j.jconhyd.2026.104989
+UR  - https://doi.org/10.1016/j.jconhyd.2026.104989
+ER  - 
+
+TY  - JOUR
+TI  - Early detection and firmness prediction of apple fruit infested by Bactrocera dorsalis using hyperspectral imaging combined with 1D convolutional neural network
+AU  - Shao Y.
+JO  - Vibrational Spectroscopy
+PY  - 2026
+DA  - 2026-07-01
+VL  - 145
+DO  - 10.1016/j.vibspec.2026.103935
+UR  - https://doi.org/10.1016/j.vibspec.2026.103935
+ER  - 
+
+TY  - JOUR
+TI  - Hydro-meteorological drivers of spatiotemporal variability in lake water storage across China: Evidence from ICESat-2
+AU  - Xu H.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-07-01
+VL  - 673
+DO  - 10.1016/j.jhydrol.2026.135449
+UR  - https://doi.org/10.1016/j.jhydrol.2026.135449
+ER  - 
+
+TY  - JOUR
+TI  - Support fully-connected tensor networks machine and its safe screening rule
+AU  - Wang H.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-06-25
+VL  - 317
+DO  - 10.1016/j.eswa.2026.131865
+UR  - https://doi.org/10.1016/j.eswa.2026.131865
+ER  - 
+
+TY  - JOUR
+TI  - Deep feature learning framework embedded with latent relationship penalty term for remote sensing image classification
+AU  - Huang Y.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-06-15
+VL  - 77
+IS  - 12
+SP  - 11801-11817
+DO  - 10.1016/j.asr.2026.04.016
+UR  - https://doi.org/10.1016/j.asr.2026.04.016
+ER  - 
+
+TY  - JOUR
+TI  - Best practice of land use land cover classification using machine learning techniques and future land use prediction through artificial neural network
+AU  - Doğruyol P.G.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-06-15
+VL  - 77
+IS  - 12
+SP  - 11766-11783
+DO  - 10.1016/j.asr.2026.04.014
+UR  - https://doi.org/10.1016/j.asr.2026.04.014
+ER  - 
+
+TY  - JOUR
+TI  - Modeling social unrest: The geographical influence on social unrest prediction
+AU  - Bedi S.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-06-15
+VL  - 316
+DO  - 10.1016/j.eswa.2026.131640
+UR  - https://doi.org/10.1016/j.eswa.2026.131640
+ER  - 
+
+TY  - JOUR
+TI  - Machine learning-based estimation and model transferability of soil organic carbon using ground, airborne and satellite hyperspectral remote sensing
+AU  - Kaushik M.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-06-15
+VL  - 77
+IS  - 12
+SP  - 11614-11628
+DO  - 10.1016/j.asr.2026.03.093
+UR  - https://doi.org/10.1016/j.asr.2026.03.093
+ER  - 
+
+TY  - JOUR
+TI  - A physically constrained and interpretable deep learning framework for PM2.5 inversion under sparse monitoring conditions in arid regions
+AU  - Zhang X.
+JO  - Environmental Pollution
+PY  - 2026
+DA  - 2026-06-15
+VL  - 399
+DO  - 10.1016/j.envpol.2026.128233
+UR  - https://doi.org/10.1016/j.envpol.2026.128233
+ER  - 
+
+TY  - JOUR
+TI  - Integrating satellite embeddings and national forest inventory data to map above-ground biomass of temperate deciduous old-growth forests
+AU  - Sohrabi H.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-06-15
+VL  - 77
+IS  - 12
+SP  - 11837-11850
+DO  - 10.1016/j.asr.2026.04.018
+UR  - https://doi.org/10.1016/j.asr.2026.04.018
+ER  - 
+
+TY  - JOUR
+TI  - Direction-aware frequency domain network for fine-grained cloud removal in remote sensing images
+AU  - Jia J.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-06-10
+VL  - 315
+DO  - 10.1016/j.eswa.2026.131681
+UR  - https://doi.org/10.1016/j.eswa.2026.131681
+ER  - 
+
+TY  - JOUR
+TI  - SaDHT: A Scale-aware Deep Hierarchical Transformer for hyperspectral-LiDAR data fusion classification
+AU  - Zhu J.
+JO  - Knowledge Based Systems
+PY  - 2026
+DA  - 2026-06-07
+VL  - 342
+DO  - 10.1016/j.knosys.2026.115928
+UR  - https://doi.org/10.1016/j.knosys.2026.115928
+ER  - 
+
+TY  - JOUR
+TI  - ConvLSTM-GCN-transformer: Spatiotemporal graph-attention model for vegetation index map forecasting
+AU  - Bouaziz M.C.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-06-05
+VL  - 314
+DO  - 10.1016/j.eswa.2026.131596
+UR  - https://doi.org/10.1016/j.eswa.2026.131596
+ER  - 
+
+TY  - JOUR
+TI  - A novel Adaptive MNF-based preprocessing approach for hyperspectral image classification using 3D CNN
+AU  - Athul Ghosh P.
+JO  - Infrared Physics and Technology
+PY  - 2026
+DA  - 2026-06-01
+VL  - 156
+DO  - 10.1016/j.infrared.2026.106644
+UR  - https://doi.org/10.1016/j.infrared.2026.106644
+ER  - 
+
+TY  - JOUR
+TI  - Adapting vision foundation models with lightweight trident decoder for remote sensing change detection
+AU  - Ye W.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-06-01
+VL  - 313
+DO  - 10.1016/j.eswa.2026.131472
+UR  - https://doi.org/10.1016/j.eswa.2026.131472
+ER  - 
+
+TY  - JOUR
+TI  - Mapping glacial lakes with glacial-lake compact efficient neural network (GCE-Net): perspectives on balancing model size and performance
+AU  - Wang Q.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-06-01
+VL  - 672
+DO  - 10.1016/j.jhydrol.2026.135318
+UR  - https://doi.org/10.1016/j.jhydrol.2026.135318
+ER  - 
+
+TY  - JOUR
+TI  - Lithological classification via a novel multiscale-edge-global feature fusion network on GF-5B hyperspectral data
+AU  - Liu H.
+JO  - Egyptian Journal of Remote Sensing and Space Science
+PY  - 2026
+DA  - 2026-06-01
+VL  - 29
+IS  - 2
+SP  - 296-307
+DO  - 10.1016/j.ejrs.2026.04.001
+UR  - https://doi.org/10.1016/j.ejrs.2026.04.001
+ER  - 
+
+TY  - JOUR
+TI  - Semi-automated detection of Holocene archaeological structures along the southern edge of the Nefud desert
+AU  - Hatton A.
+JO  - Journal of Archaeological Science Reports
+PY  - 2026
+DA  - 2026-06-01
+VL  - 72
+DO  - 10.1016/j.jasrep.2026.105734
+UR  - https://doi.org/10.1016/j.jasrep.2026.105734
+ER  - 
+
+TY  - JOUR
+TI  - Geodata fusion and deep learning-based improved lithological mapping: A case study from the autonomous district of Yamoussoukro
+AU  - Kouame J.P.
+JO  - Science of Remote Sensing
+PY  - 2026
+DA  - 2026-06-01
+VL  - 13
+DO  - 10.1016/j.srs.2026.100411
+UR  - https://doi.org/10.1016/j.srs.2026.100411
+ER  - 
+
+TY  - JOUR
+TI  - HaloSeg: Halo transformer embedding U-Net for local-global feature induced semantic segmentation of high-resolution remote sensing images
+AU  - Zhai H.
+JO  - Applied Soft Computing
+PY  - 2026
+DA  - 2026-06-01
+VL  - 196
+DO  - 10.1016/j.asoc.2026.115036
+UR  - https://doi.org/10.1016/j.asoc.2026.115036
+ER  - 
+
+TY  - JOUR
+TI  - The synergy of active and passive satellite sensors for robust sea-fog detection: A two-stage machine-learning model with constraints from ICOADS
+AU  - Yan L.
+JO  - Atmospheric Research
+PY  - 2026
+DA  - 2026-06-01
+VL  - 336
+DO  - 10.1016/j.atmosres.2026.108892
+UR  - https://doi.org/10.1016/j.atmosres.2026.108892
+ER  - 
+
+TY  - JOUR
+TI  - Machine learning–based spatiotemporal mapping and risk zoning of soil salinization in an arid inland river basin: A case study of the Weigan River Basin, northwestern China
+AU  - Wang Y.
+JO  - Agricultural Water Management
+PY  - 2026
+DA  - 2026-06-01
+VL  - 330
+DO  - 10.1016/j.agwat.2026.110412
+UR  - https://doi.org/10.1016/j.agwat.2026.110412
+ER  - 
+
+TY  - JOUR
+TI  - DIRV: a novel deep learning-informed interpretable framework for vegetation species diversity assessment in multi-wetland scenes using multi-modal UAV images
+AU  - Fu B.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-06-01
+VL  - 313
+DO  - 10.1016/j.eswa.2026.131647
+UR  - https://doi.org/10.1016/j.eswa.2026.131647
+ER  - 
+
+TY  - JOUR
+TI  - GEOIMIA: A new automated forest thinning framework for selective harvesting at the individual tree level in mixed-species forests
+AU  - Yang K.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-06-01
+VL  - 236
+SP  - 397-420
+DO  - 10.1016/j.isprsjprs.2026.04.006
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.04.006
+ER  - 
+
+TY  - JOUR
+TI  - Total column water vapor retrievals from the Geostationary Environment Monitoring Spectrometer (GEMS)
+AU  - Cha H.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-06-01
+VL  - 339
+DO  - 10.1016/j.rse.2026.115401
+UR  - https://doi.org/10.1016/j.rse.2026.115401
+ER  - 
+
+TY  - JOUR
+TI  - Local attention alignment fusion network for domain adaptive water body segmentation
+AU  - Liu H.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-05-25
+VL  - 312
+DO  - 10.1016/j.eswa.2026.131382
+UR  - https://doi.org/10.1016/j.eswa.2026.131382
+ER  - 
+
+TY  - JOUR
+TI  - Robust hyperspectral reconstruction from satellite and airborne observations via a deep hierarchical fusion network across heterogeneous scenarios
+AU  - Ji F.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-05-15
+VL  - 338
+DO  - 10.1016/j.rse.2026.115385
+UR  - https://doi.org/10.1016/j.rse.2026.115385
+ER  - 
+
+TY  - JOUR
+TI  - Regression-derived probabilistic feature generation for hyperspectral image classification using a lightweight framework
+AU  - Saadi Esfangareh R.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-05-15
+VL  - 77
+IS  - 10
+SP  - 10260-10274
+DO  - 10.1016/j.asr.2026.03.055
+UR  - https://doi.org/10.1016/j.asr.2026.03.055
+ER  - 
+
+TY  - JOUR
+TI  - Super-resolution generative adversarial network based dual channel convolutional neural network for hyperspectral image classification
+AU  - Kumar B.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-05-15
+VL  - 77
+IS  - 10
+SP  - 10019-10036
+DO  - 10.1016/j.asr.2026.02.026
+UR  - https://doi.org/10.1016/j.asr.2026.02.026
+ER  - 
+
+TY  - JOUR
+TI  - A concise real-time identification method of maize phenological period based on remote sensing time information and segmented machine learning algorithm
+AU  - Zhu B.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-05-15
+VL  - 338
+DO  - 10.1016/j.rse.2026.115349
+UR  - https://doi.org/10.1016/j.rse.2026.115349
+ER  - 
+
+TY  - JOUR
+TI  - National-scale mapping of plastic-mulched farmlands in China based on deep semantic segmentation and Sentinel-2 imagery
+AU  - Niu B.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-05-15
+VL  - 338
+DO  - 10.1016/j.rse.2026.115368
+UR  - https://doi.org/10.1016/j.rse.2026.115368
+ER  - 
+
+TY  - JOUR
+TI  - A physics-based AI algorithm integrating radiative transfer and machine learning for joint retrieval of aerosol layer height and optical thickness from hyperspectral satellite observations over the ocean
+AU  - Yao R.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-05-15
+VL  - 338
+DO  - 10.1016/j.rse.2026.115379
+UR  - https://doi.org/10.1016/j.rse.2026.115379
+ER  - 
+
+TY  - JOUR
+TI  - A transferable spatiotemporal deep learning framework integrating soil moisture dynamics for high-resolution cropland soil organic matter mapping across regions
+AU  - Luo C.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-05-15
+VL  - 338
+DO  - 10.1016/j.rse.2026.115365
+UR  - https://doi.org/10.1016/j.rse.2026.115365
+ER  - 
+
+TY  - JOUR
+TI  - A preliminary assessment of ocean wave parameter retrieval and wave energy estimation using spaceborne BDS-R data
+AU  - Bu J.
+JO  - Ocean Engineering
+PY  - 2026
+DA  - 2026-05-15
+VL  - 355
+IS  - P2
+DO  - 10.1016/j.oceaneng.2026.124886
+UR  - https://doi.org/10.1016/j.oceaneng.2026.124886
+ER  - 
+
+TY  - JOUR
+TI  - A framework to identify winter fallow arable lands through machine learning methods
+AU  - Li D.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-05-15
+VL  - 77
+IS  - 10
+SP  - 10209-10224
+DO  - 10.1016/j.asr.2026.02.086
+UR  - https://doi.org/10.1016/j.asr.2026.02.086
+ER  - 
+
+TY  - JOUR
+TI  - Ultra high-resolution mapping of urban surface temperature with multidimensional feature integration: a machine learning framework
+AU  - Firozjaei M.K.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-05-15
+VL  - 77
+IS  - 10
+SP  - 9970-9990
+DO  - 10.1016/j.asr.2026.02.023
+UR  - https://doi.org/10.1016/j.asr.2026.02.023
+ER  - 
+
+TY  - JOUR
+TI  - Cross-scene adversarial learning with Gaussian mixture model for hyperspectral anomaly detection
+AU  - Hou S.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-05-05
+VL  - 309
+DO  - 10.1016/j.eswa.2026.131193
+UR  - https://doi.org/10.1016/j.eswa.2026.131193
+ER  - 
+
+TY  - JOUR
+TI  - A hyperspectral co-design framework guided by occlusion sensitivity for early mould detection in bamboo
+AU  - Lin Z.
+JO  - Spectrochimica Acta Part A Molecular and Biomolecular Spectroscopy
+PY  - 2026
+DA  - 2026-05-05
+VL  - 352
+DO  - 10.1016/j.saa.2026.127546
+UR  - https://doi.org/10.1016/j.saa.2026.127546
+ER  - 
+
+TY  - JOUR
+TI  - Identification of marine algal blooms by SDGSAT-1 multispectral imagery
+AU  - Jiang S.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-05-01
+VL  - 337
+DO  - 10.1016/j.rse.2026.115340
+UR  - https://doi.org/10.1016/j.rse.2026.115340
+ER  - 
+
+TY  - JOUR
+TI  - DHT-SWNet: Frequency-aware ship and wake detection in multi-source optical remote sensing imagery
+AU  - Zhang J.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-05-01
+VL  - 235
+SP  - 399-415
+DO  - 10.1016/j.isprsjprs.2026.03.012
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.03.012
+ER  - 
+
+TY  - JOUR
+TI  - In-season maize nitrogen status diagnosis and yield prediction from unmanned aerial vehicle (UAV) mounted hyperspectral images
+AU  - Zhang Y.
+JO  - Italian Journal of Agronomy
+PY  - 2026
+DA  - 2026-05-01
+VL  - 21
+IS  - 2
+DO  - 10.1016/j.ijagro.2026.100095
+UR  - https://doi.org/10.1016/j.ijagro.2026.100095
+ER  - 
+
+TY  - JOUR
+TI  - Machine learning-based detection of fusarium wilt in tomato using ground-based and satellite hyperspectral imagery
+AU  - Chaitra H.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-05-01
+VL  - 77
+IS  - 9
+SP  - 8679-8694
+DO  - 10.1016/j.asr.2026.03.018
+UR  - https://doi.org/10.1016/j.asr.2026.03.018
+ER  - 
+
+TY  - JOUR
+TI  - Multi-granularity Prompt Learning with vision-language model for few-shot remote sensing image scene classification
+AU  - Zhang T.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-05-01
+VL  - 235
+SP  - 349-362
+DO  - 10.1016/j.isprsjprs.2026.03.013
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.03.013
+ER  - 
+
+TY  - JOUR
+TI  - A novel near real-time approach for salient object detection in hyperspectral images using distinctiveness and spatial cohesion
+AU  - Lone Z.A.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-05-01
+VL  - 77
+IS  - 9
+SP  - 8926-8938
+DO  - 10.1016/j.asr.2026.02.091
+UR  - https://doi.org/10.1016/j.asr.2026.02.091
+ER  - 
+
+TY  - JOUR
+TI  - Landcover classification and change detection using remote sensing and machine learning: a case study of Western Fiji
+AU  - Gurjar Y.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-05-01
+VL  - 77
+IS  - 9
+SP  - 8521-8537
+DO  - 10.1016/j.asr.2026.03.024
+UR  - https://doi.org/10.1016/j.asr.2026.03.024
+ER  - 
+
+TY  - JOUR
+TI  - Future land use change and carbon storage dynamics: a machine learning-based spatial scenario approach
+AU  - Roradeh H.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-05-01
+VL  - 77
+IS  - 9
+SP  - 8782-8803
+DO  - 10.1016/j.asr.2026.02.099
+UR  - https://doi.org/10.1016/j.asr.2026.02.099
+ER  - 
+
+TY  - JOUR
+TI  - Unifying semantic segmentation and change detection in urban villages: The ZY-UV benchmark and MutualTemp framework
+AU  - Zhang X.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-05-01
+VL  - 235
+SP  - 470-487
+DO  - 10.1016/j.isprsjprs.2026.03.028
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.03.028
+ER  - 
+
+TY  - JOUR
+TI  - Cloud removal in remote sensing images using the G2R framework and SSMamba
+AU  - Zhang C.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-05-01
+VL  - 337
+DO  - 10.1016/j.rse.2026.115321
+UR  - https://doi.org/10.1016/j.rse.2026.115321
+ER  - 
+
+TY  - JOUR
+TI  - Meta-learning with limited samples for mangrove monitoring across complex coastal spectral domains
+AU  - Zhang R.
+JO  - Ocean and Coastal Management
+PY  - 2026
+DA  - 2026-05-01
+VL  - 276
+DO  - 10.1016/j.ocecoaman.2026.108173
+UR  - https://doi.org/10.1016/j.ocecoaman.2026.108173
+ER  - 
+
+TY  - JOUR
+TI  - Feature-model strategies for remapping 1:1,000,000 vegetation map: application to the Tibetan Plateau
+AU  - Wu F.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-05-01
+VL  - 77
+IS  - 9
+SP  - 8982-8996
+DO  - 10.1016/j.asr.2026.02.087
+UR  - https://doi.org/10.1016/j.asr.2026.02.087
+ER  - 
+
+TY  - JOUR
+TI  - Advanced machine learning based gold prospectivity mapping in the Dharwar Craton, India: A hybrid knowledge-data driven paradigm integrating ensemble and deep learning
+AU  - Mitra S.
+JO  - Geosystems and Geoenvironment
+PY  - 2026
+DA  - 2026-05-01
+VL  - 5
+IS  - 2
+DO  - 10.1016/j.geogeo.2025.100473
+UR  - https://doi.org/10.1016/j.geogeo.2025.100473
+ER  - 
+
+TY  - JOUR
+TI  - Flood susceptibility prediction in the Indo-China Peninsula using 21 years of inundation occurrence data and machine learning
+AU  - Huang G.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-05-01
+VL  - 670
+DO  - 10.1016/j.jhydrol.2026.135176
+UR  - https://doi.org/10.1016/j.jhydrol.2026.135176
+ER  - 
+
+TY  - JOUR
+TI  - A novel non-destructive testing method for the uniaxial compressive strength of cemented paste backfill based on hyperspectral imaging and artificial intelligence
+AU  - Na Q.
+JO  - NDT and E International
+PY  - 2026
+DA  - 2026-05-01
+VL  - 160
+DO  - 10.1016/j.ndteint.2026.103654
+UR  - https://doi.org/10.1016/j.ndteint.2026.103654
+ER  - 
+
+TY  - JOUR
+TI  - Urban expansion and climate variability drive hypoxia: A Landsat-based 1986–2024 dissolved oxygen climatology in China’s Greater Bay area
+AU  - Zhu X.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-05-01
+VL  - 671
+DO  - 10.1016/j.jhydrol.2026.135307
+UR  - https://doi.org/10.1016/j.jhydrol.2026.135307
+ER  - 
+
+TY  - JOUR
+TI  - Lithological mapping in semi-arid shallow-covered areas using a multi-scale temporal dual attention network
+AU  - Lu J.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2026
+DA  - 2026-05-01
+VL  - 149
+DO  - 10.1016/j.jag.2026.105292
+UR  - https://doi.org/10.1016/j.jag.2026.105292
+ER  - 
+
+TY  - JOUR
+TI  - Iceberg detection from global open ocean sentinel-1 wave mode SAR data with YOLO deep learning
+AU  - Xie T.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-05-01
+VL  - 337
+DO  - 10.1016/j.rse.2026.115344
+UR  - https://doi.org/10.1016/j.rse.2026.115344
+ER  - 
+
+TY  - JOUR
+TI  - 3D-OceanNet: A remote sensing data–driven model for predicting three–dimensional ocean temperature and salinity fields
+AU  - Cao X.
+JO  - Ocean Engineering
+PY  - 2026
+DA  - 2026-05-01
+VL  - 354
+DO  - 10.1016/j.oceaneng.2026.125016
+UR  - https://doi.org/10.1016/j.oceaneng.2026.125016
+ER  - 
+
+TY  - JOUR
+TI  - Downscaling GRACE(−FO) with mass-conserving XGBoost approach reveals high-resolution patterns and drivers of hydrometeorological-induced mass changes in High Mountain Asia
+AU  - Wu H.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-05-01
+VL  - 671
+DO  - 10.1016/j.jhydrol.2026.135235
+UR  - https://doi.org/10.1016/j.jhydrol.2026.135235
+ER  - 
+
+TY  - JOUR
+TI  - Decoding urban sprawl in Bhubaneswar (2000–2025): a spatio-temporal LULC and landscape fragmentation analysis
+AU  - Beuria R.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-05-01
+VL  - 77
+IS  - 9
+SP  - 8804-8826
+DO  - 10.1016/j.asr.2026.02.098
+UR  - https://doi.org/10.1016/j.asr.2026.02.098
+ER  - 
+
+TY  - JOUR
+TI  - Enhancing farmland soil carbon mapping: Integrating radar backscatter model and machine learning
+AU  - Wei Y.
+JO  - Soil and Tillage Research
+PY  - 2026
+DA  - 2026-05-01
+VL  - 258
+DO  - 10.1016/j.still.2025.107055
+UR  - https://doi.org/10.1016/j.still.2025.107055
+ER  - 
+
+TY  - JOUR
+TI  - Spatiotemporal dynamics and drivers of water and carbon use efficiency in the Yellow River basin with harmonized MODIS and GLASS data
+AU  - Zhou S.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-05-01
+VL  - 671
+DO  - 10.1016/j.jhydrol.2026.135291
+UR  - https://doi.org/10.1016/j.jhydrol.2026.135291
+ER  - 
+
+TY  - JOUR
+TI  - Label-free mangrove mapping from temporally consistent PlanetScope imagery with interpretable deep unfolding network
+AU  - Nie X.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-05-01
+VL  - 235
+SP  - 19-37
+DO  - 10.1016/j.isprsjprs.2026.02.035
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.02.035
+ER  - 
+
+TY  - JOUR
+TI  - Comparative evaluation of ASTER, Landsat 8, and Sentinel-2A data for lithological mapping in the Emet–Hisarcık Borate Basin (Türkiye) using machine learning
+AU  - Acar R.U.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-05-01
+VL  - 77
+IS  - 9
+SP  - 8863-8883
+DO  - 10.1016/j.asr.2026.02.094
+UR  - https://doi.org/10.1016/j.asr.2026.02.094
+ER  - 
+
+TY  - JOUR
+TI  - A framework to detect tillage practices from space: A demonstration in the US Midwest
+AU  - Wu X.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-05-01
+VL  - 337
+DO  - 10.1016/j.rse.2026.115323
+UR  - https://doi.org/10.1016/j.rse.2026.115323
+ER  - 
+
+TY  - JOUR
+TI  - Prediction of land surface temperature dynamics over Lucknow via Google Earth Engine and machine learning approach
+AU  - Bhushan K.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-05-01
+VL  - 77
+IS  - 9
+SP  - 8827-8844
+DO  - 10.1016/j.asr.2026.02.096
+UR  - https://doi.org/10.1016/j.asr.2026.02.096
+ER  - 
+
+TY  - JOUR
+TI  - Assessment of urban spatial patterns and land use efficiency in Tiruchirappalli city, Tamil Nadu, India
+AU  - Alagu Venkatesh T.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-05-01
+VL  - 77
+IS  - 9
+SP  - 8717-8736
+DO  - 10.1016/j.asr.2026.03.007
+UR  - https://doi.org/10.1016/j.asr.2026.03.007
+ER  - 
+
+TY  - JOUR
+TI  - HCKNet: Hypergraph convolution and Kolmogorov-Arnold hybrid network for hyperspectral and LiDAR data classification
+AU  - Chen Y.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-04-25
+VL  - 307
+DO  - 10.1016/j.eswa.2025.131028
+UR  - https://doi.org/10.1016/j.eswa.2025.131028
+ER  - 
+
+TY  - JOUR
+TI  - Prototype similarity-constraint enhancement network: A few-Shot class-Incremental learning for hyperspectral image classification
+AU  - Yang L.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-04-15
+VL  - 306
+DO  - 10.1016/j.eswa.2025.130911
+UR  - https://doi.org/10.1016/j.eswa.2025.130911
+ER  - 
+
+TY  - JOUR
+TI  - Cos-UMamba: Optimizing salient object detection with cosine scanning and bias-corrected feature fusion in optical remote sensing images
+AU  - Wang Z.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-04-15
+VL  - 306
+DO  - 10.1016/j.eswa.2025.130863
+UR  - https://doi.org/10.1016/j.eswa.2025.130863
+ER  - 
+
+TY  - JOUR
+TI  - Whale identification and size estimation in satellite imagery via intelligent subtle perception
+AU  - Wang S.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-04-05
+VL  - 305
+DO  - 10.1016/j.eswa.2025.130778
+UR  - https://doi.org/10.1016/j.eswa.2025.130778
+ER  - 
+
+TY  - JOUR
+TI  - Predictive modeling of mangrove vegetation using spatiotemporal-PINNs approach
+AU  - Chrisnanto Y.H.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-04-05
+VL  - 305
+DO  - 10.1016/j.eswa.2025.130766
+UR  - https://doi.org/10.1016/j.eswa.2025.130766
+ER  - 
+
+TY  - JOUR
+TI  - RoofX-Net: A tailored approach to accurate multi-type rooftop segmentation in remote sensing images using edge and scale awareness
+AU  - Chen K.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-04-01
+VL  - 234
+SP  - 46-59
+DO  - 10.1016/j.isprsjprs.2026.02.015
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.02.015
+ER  - 
+
+TY  - JOUR
+TI  - Corrigendum to “Joint cascaded 3DCNN and SDTA encoding for tree species classification using UAV-based hyperspectral image in mining areas”. [Comput. Electr. Agricult. 244 (2026) 1–16/111438] (Computers and Electronics in Agriculture (2026) 244, (S0168169926000335), (10.1016/j.compag.2026.111438))
+AU  - Deng Y.
+JO  - Computers and Electronics in Agriculture
+PY  - 2026
+DA  - 2026-04-01
+VL  - 245
+DO  - 10.1016/j.compag.2026.111561
+UR  - https://doi.org/10.1016/j.compag.2026.111561
+ER  - 
+
+TY  - JOUR
+TI  - Multi-scale localized enhanced self-attention transformer for semantic change detection in multispectral image
+AU  - Zou C.
+JO  - Signal Processing Image Communication
+PY  - 2026
+DA  - 2026-04-01
+VL  - 143
+DO  - 10.1016/j.image.2026.117513
+UR  - https://doi.org/10.1016/j.image.2026.117513
+ER  - 
+
+TY  - JOUR
+TI  - D2Mamba: A mamba-based method for floodway obstructions segmentation from multispectral satellite imagery
+AU  - Fu S.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-04-01
+VL  - 669
+DO  - 10.1016/j.jhydrol.2026.135069
+UR  - https://doi.org/10.1016/j.jhydrol.2026.135069
+ER  - 
+
+TY  - JOUR
+TI  - Spatial multi-semantic features guided spectral-friendly transformer network for hyperspectral image classification
+AU  - Yu X.
+JO  - Pattern Recognition
+PY  - 2026
+DA  - 2026-04-01
+VL  - 172
+DO  - 10.1016/j.patcog.2025.112337
+UR  - https://doi.org/10.1016/j.patcog.2025.112337
+ER  - 
+
+TY  - JOUR
+TI  - Opt Deep CSSAN: Optimized Deep Convolutional Spectral-Spatial Attention Network for hyperspectral image classification
+AU  - A N.
+JO  - Computational Biology and Chemistry
+PY  - 2026
+DA  - 2026-04-01
+VL  - 121
+DO  - 10.1016/j.compbiolchem.2025.108769
+UR  - https://doi.org/10.1016/j.compbiolchem.2025.108769
+ER  - 
+
+TY  - JOUR
+TI  - Leveraging sUAS-Sentinel-2 synergy for cross-scale mapping of canopy cover and aboveground biomass across Mongolia and Kazakhstan
+AU  - Kolluru V.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-04-01
+VL  - 336
+DO  - 10.1016/j.rse.2026.115302
+UR  - https://doi.org/10.1016/j.rse.2026.115302
+ER  - 
+
+TY  - JOUR
+TI  - Contextual information-focused deep learning network for urban road extraction from remote sensing data
+AU  - Zhao L.
+JO  - Applied Soft Computing
+PY  - 2026
+DA  - 2026-04-01
+VL  - 192
+DO  - 10.1016/j.asoc.2026.114762
+UR  - https://doi.org/10.1016/j.asoc.2026.114762
+ER  - 
+
+TY  - JOUR
+TI  - Mapping snow algae in West Antarctic Peninsula from Sentinel-2 images using a machine learning based approach
+AU  - Li Y.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2026
+DA  - 2026-04-01
+VL  - 234
+SP  - 275-290
+DO  - 10.1016/j.isprsjprs.2026.02.026
+UR  - https://doi.org/10.1016/j.isprsjprs.2026.02.026
+ER  - 
+
+TY  - JOUR
+TI  - A big data ensemble machine learning framework for robust land use/land cover classification with landsat time-series
+AU  - Mensah E.
+JO  - Remote Sensing Applications Society and Environment
+PY  - 2026
+DA  - 2026-04-01
+VL  - 42
+DO  - 10.1016/j.rsase.2026.102095
+UR  - https://doi.org/10.1016/j.rsase.2026.102095
+ER  - 
+
+TY  - JOUR
+TI  - Time cumulative effects and machine learning–driven forecasting of cyanobacterial blooms in data-sparse eutrophic lakes
+AU  - Zhang K.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-04-01
+VL  - 668
+DO  - 10.1016/j.jhydrol.2026.134966
+UR  - https://doi.org/10.1016/j.jhydrol.2026.134966
+ER  - 
+
+TY  - JOUR
+TI  - Spectral contrast polarity inversion as a transfer failure mechanism in deep learning sand dune segmentation: A cross-desert evaluation using Sentinel-1 and Sentinel-2
+AU  - El Bouchti N.
+JO  - Remote Sensing Applications Society and Environment
+PY  - 2026
+DA  - 2026-04-01
+VL  - 42
+DO  - 10.1016/j.rsase.2026.102060
+UR  - https://doi.org/10.1016/j.rsase.2026.102060
+ER  - 
+
+TY  - JOUR
+TI  - Metric learning networks for accurate mineral detection with different augmentation techniques
+AU  - Jabłońska K.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-04-01
+VL  - 304
+DO  - 10.1016/j.eswa.2025.130692
+UR  - https://doi.org/10.1016/j.eswa.2025.130692
+ER  - 
+
+TY  - JOUR
+TI  - Hybrid decomposition-based deep learning and boosting models for accurate prediction of evaporation potential in multi-climate regions
+AU  - Farzad R.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-04-01
+VL  - 77
+IS  - 7
+SP  - 7560-7575
+DO  - 10.1016/j.asr.2026.01.088
+UR  - https://doi.org/10.1016/j.asr.2026.01.088
+ER  - 
+
+TY  - JOUR
+TI  - Multisource data integration and machine learning for REE-bearing bauxite mapping
+AU  - Torres J.D.P.
+JO  - Remote Sensing Applications Society and Environment
+PY  - 2026
+DA  - 2026-04-01
+VL  - 42
+DO  - 10.1016/j.rsase.2026.102092
+UR  - https://doi.org/10.1016/j.rsase.2026.102092
+ER  - 
+
+TY  - JOUR
+TI  - Adaptive graph contrastive learning with hard negative mining for multimodal hyperspectral and LiDAR classification
+AU  - Wu L.
+JO  - Iscience
+PY  - 2026
+DA  - 2026-03-20
+VL  - 29
+IS  - 3
+DO  - 10.1016/j.isci.2026.114914
+UR  - https://doi.org/10.1016/j.isci.2026.114914
+ER  - 
+
+TY  - JOUR
+TI  - Joint cascaded 3DCNN and SDTA encoding for tree species classification using UAV-based hyperspectral image in mining areas
+AU  - Deng Y.
+JO  - Computers and Electronics in Agriculture
+PY  - 2026
+DA  - 2026-03-15
+VL  - 244
+DO  - 10.1016/j.compag.2026.111438
+UR  - https://doi.org/10.1016/j.compag.2026.111438
+ER  - 
+
+TY  - JOUR
+TI  - AMGAN: A multimodal generative adversarial network for near-daily alfalfa multispectral image reconstruction
+AU  - Yu T.
+JO  - Computers and Electronics in Agriculture
+PY  - 2026
+DA  - 2026-03-15
+VL  - 244
+DO  - 10.1016/j.compag.2026.111468
+UR  - https://doi.org/10.1016/j.compag.2026.111468
+ER  - 
+
+TY  - JOUR
+TI  - Improved prediction of winter wheat yield at regional scale with limited ground samples by unmanned aerial vehicle and satellite synergy
+AU  - Xiong Y.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-03-15
+VL  - 335
+DO  - 10.1016/j.rse.2026.115271
+UR  - https://doi.org/10.1016/j.rse.2026.115271
+ER  - 
+
+TY  - JOUR
+TI  - A benchmark dataset for Landsat-to-Sentinel image generation using deep learning-driven super-resolution techniques
+AU  - Wang P.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-03-15
+VL  - 77
+IS  - 6
+SP  - 6855-6880
+DO  - 10.1016/j.asr.2026.01.049
+UR  - https://doi.org/10.1016/j.asr.2026.01.049
+ER  - 
+
+TY  - JOUR
+TI  - Physics-guided deep learning for geostationary satellite-based estimation of dead fuel moisture content in Southwest China
+AU  - Fan C.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-03-15
+VL  - 335
+DO  - 10.1016/j.rse.2026.115259
+UR  - https://doi.org/10.1016/j.rse.2026.115259
+ER  - 
+
+TY  - JOUR
+TI  - Detection and visualization of water content distribution in Chuju based on hyperspectral imaging technology and machine learning
+AU  - Yang Y.W.
+JO  - Spectrochimica Acta Part A Molecular and Biomolecular Spectroscopy
+PY  - 2026
+DA  - 2026-03-15
+VL  - 349
+DO  - 10.1016/j.saa.2025.127302
+UR  - https://doi.org/10.1016/j.saa.2025.127302
+ER  - 
+
+TY  - JOUR
+TI  - Application of hyperspectral imaging to the automatic assessment of polyphenol oxidase and peroxidase enzymatic activity levels in bell pepper cultivars
+AU  - Amoghin M.L.
+JO  - Spectrochimica Acta Part A Molecular and Biomolecular Spectroscopy
+PY  - 2026
+DA  - 2026-03-15
+VL  - 349
+DO  - 10.1016/j.saa.2025.127279
+UR  - https://doi.org/10.1016/j.saa.2025.127279
+ER  - 
+
+TY  - JOUR
+TI  - DCIBCD: A dual-branch cooperative interaction method for interference-resistant binary change detection
+AU  - Yuan Q.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-03-10
+VL  - 301
+DO  - 10.1016/j.eswa.2025.130210
+UR  - https://doi.org/10.1016/j.eswa.2025.130210
+ER  - 
+
+TY  - JOUR
+TI  - Machine learning for non-destructive nutrient diagnosis in citrus: comparing spectral analysis and hyperspectral imaging with CNNs
+AU  - Blanco-Alvarez I.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-03-10
+VL  - 301
+DO  - 10.1016/j.eswa.2025.130517
+UR  - https://doi.org/10.1016/j.eswa.2025.130517
+ER  - 
+
+TY  - JOUR
+TI  - Fast contamination recognition network: a knowledge distillation based hyperspectral outdoor insulator contamination level recognition network
+AU  - Zhou J.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-03-05
+VL  - 300
+DO  - 10.1016/j.eswa.2025.130401
+UR  - https://doi.org/10.1016/j.eswa.2025.130401
+ER  - 
+
+TY  - JOUR
+TI  - AFSNet: Remote sensing change detection with progressive difference feature aggregation and full-scale connection
+AU  - Fu Y.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-03-05
+VL  - 300
+DO  - 10.1016/j.eswa.2025.129994
+UR  - https://doi.org/10.1016/j.eswa.2025.129994
+ER  - 
+
+TY  - JOUR
+TI  - Enhanced mapping of soil organic carbon in China’s Black Soil Region using spectral-temporal-spatial fusion of multi-sensor satellite data
+AU  - Lv J.
+JO  - Soil and Tillage Research
+PY  - 2026
+DA  - 2026-03-01
+VL  - 257
+DO  - 10.1016/j.still.2025.106965
+UR  - https://doi.org/10.1016/j.still.2025.106965
+ER  - 
+
+TY  - JOUR
+TI  - A probabilistic deep learning framework for retrieving chlorophyll-a from hyperspectral imagery: Integrating channel attention and mixture density networks
+AU  - Li W.
+JO  - Ecological Informatics
+PY  - 2026
+DA  - 2026-03-01
+VL  - 94
+DO  - 10.1016/j.ecoinf.2026.103677
+UR  - https://doi.org/10.1016/j.ecoinf.2026.103677
+ER  - 
+
+TY  - JOUR
+TI  - Development, pre-training, and fine-tuning of the CoordConv-Unet model for significant wave height retrieval from Himawari-8 satellite imagery
+AU  - Zhang W.
+JO  - Ocean Engineering
+PY  - 2026
+DA  - 2026-03-01
+VL  - 348
+DO  - 10.1016/j.oceaneng.2025.124045
+UR  - https://doi.org/10.1016/j.oceaneng.2025.124045
+ER  - 
+
+TY  - JOUR
+TI  - A hybrid fusion network using convolutional vision transformers for landslide identification
+AU  - Sreelakshmi S.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-03-01
+VL  - 298
+DO  - 10.1016/j.eswa.2025.129688
+UR  - https://doi.org/10.1016/j.eswa.2025.129688
+ER  - 
+
+TY  - JOUR
+TI  - Unbiased representation learning via feature decoupling network for cross-scene hyperspectral image classification
+AU  - Zhao H.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-03-01
+VL  - 298
+DO  - 10.1016/j.eswa.2025.129690
+UR  - https://doi.org/10.1016/j.eswa.2025.129690
+ER  - 
+
+TY  - JOUR
+TI  - HiF2-FSLF: Hierarchical frequency fusion few-Shot learning framework for hyperspectral and lidar classification
+AU  - Wang X.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-03-01
+VL  - 299
+DO  - 10.1016/j.eswa.2025.130164
+UR  - https://doi.org/10.1016/j.eswa.2025.130164
+ER  - 
+
+TY  - JOUR
+TI  - Complementary information-guided interactive fusion network for HSI and LiDAR data joint classification
+AU  - Xu S.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-03-01
+VL  - 298
+DO  - 10.1016/j.eswa.2025.129549
+UR  - https://doi.org/10.1016/j.eswa.2025.129549
+ER  - 
+
+TY  - JOUR
+TI  - Multi-scenario building change detection in remote sensing images using CNN-Mamba hybrid network and consistency enhancement learning
+AU  - Li W.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-03-01
+VL  - 298
+DO  - 10.1016/j.eswa.2025.129843
+UR  - https://doi.org/10.1016/j.eswa.2025.129843
+ER  - 
+
+TY  - JOUR
+TI  - Stacked ensemble model for flood layer extraction using EOS-04 satellite in Fine Resolution Stripmap (FRS) mode
+AU  - Sai Bhageerath Y.V.
+JO  - Egyptian Journal of Remote Sensing and Space Science
+PY  - 2026
+DA  - 2026-03-01
+VL  - 29
+IS  - 1
+SP  - 60-71
+DO  - 10.1016/j.ejrs.2026.01.005
+UR  - https://doi.org/10.1016/j.ejrs.2026.01.005
+ER  - 
+
+TY  - JOUR
+TI  - Enhancing cloud detection across multiple satellite sensors using a combined Swin Transformer and UPerNet deep learning model
+AU  - Pang S.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-03-01
+VL  - 334
+DO  - 10.1016/j.rse.2025.115206
+UR  - https://doi.org/10.1016/j.rse.2025.115206
+ER  - 
+
+TY  - JOUR
+TI  - AnyTime-CD: Self-supervised change detection in arbitrary-length dense time series of high-resolution remote sensing images
+AU  - Qu Y.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-03-01
+VL  - 334
+DO  - 10.1016/j.rse.2026.115239
+UR  - https://doi.org/10.1016/j.rse.2026.115239
+ER  - 
+
+TY  - JOUR
+TI  - AI-powered UAV remote sensing for drought stress phenotyping: Automated chlorophyll estimation in individual plants using deep learning and instance segmentation
+AU  - Shen Z.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-03-01
+VL  - 299
+DO  - 10.1016/j.eswa.2025.130141
+UR  - https://doi.org/10.1016/j.eswa.2025.130141
+ER  - 
+
+TY  - JOUR
+TI  - SIFNet: A spectrum-image fusion neural network in hyperspectral imaging for intelligent quality assessment of crude tea to ensure tea product availability
+AU  - Li D.
+JO  - Computers and Electronics in Agriculture
+PY  - 2026
+DA  - 2026-03-01
+VL  - 243
+DO  - 10.1016/j.compag.2026.111441
+UR  - https://doi.org/10.1016/j.compag.2026.111441
+ER  - 
+
+TY  - JOUR
+TI  - FDFR-Net: A fruit ripeness classification method using multimodal learning technique
+AU  - Wang Y.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-03-01
+VL  - 299
+DO  - 10.1016/j.eswa.2025.130126
+UR  - https://doi.org/10.1016/j.eswa.2025.130126
+ER  - 
+
+TY  - JOUR
+TI  - AgriFM: A multi-source temporal remote sensing foundation model for Agriculture mapping
+AU  - Li W.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-03-01
+VL  - 334
+DO  - 10.1016/j.rse.2026.115234
+UR  - https://doi.org/10.1016/j.rse.2026.115234
+ER  - 
+
+TY  - JOUR
+TI  - Strategies for predictive digital soil mapping by geophysical, remote sensing and machine learning approaches
+AU  - Veloso G.V.
+JO  - Catena
+PY  - 2026
+DA  - 2026-03-01
+VL  - 264
+DO  - 10.1016/j.catena.2026.109822
+UR  - https://doi.org/10.1016/j.catena.2026.109822
+ER  - 
+
+TY  - JOUR
+TI  - Fast production of large lithologic maps using lithologic sample generation strategies based on 3D spatial positioning
+AU  - Zhang T.
+JO  - Geoscience Frontiers
+PY  - 2026
+DA  - 2026-03-01
+VL  - 17
+IS  - 2
+DO  - 10.1016/j.gsf.2025.102217
+UR  - https://doi.org/10.1016/j.gsf.2025.102217
+ER  - 
+
+TY  - JOUR
+TI  - Analyzing climatic anomalies and ecological impacts on wetlands environmental conditions using LSTM and remote sensing imagery
+AU  - Dodangeh P.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-02-15
+VL  - 77
+IS  - 4
+SP  - 4616-4646
+DO  - 10.1016/j.asr.2025.12.034
+UR  - https://doi.org/10.1016/j.asr.2025.12.034
+ER  - 
+
+TY  - JOUR
+TI  - Machine learning reveals accelerated sea surface warming and future projections in Türkiye’s semi-enclosed seas
+AU  - Erkoç M.H.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-02-15
+VL  - 77
+IS  - 4
+SP  - 4647-4662
+DO  - 10.1016/j.asr.2025.12.035
+UR  - https://doi.org/10.1016/j.asr.2025.12.035
+ER  - 
+
+TY  - JOUR
+TI  - Global analysis of mineral aerosol and industrial effects on lake water quality using spectral indices and machine learning
+AU  - Lu H.
+JO  - Water Research
+PY  - 2026
+DA  - 2026-02-15
+VL  - 290
+DO  - 10.1016/j.watres.2025.125055
+UR  - https://doi.org/10.1016/j.watres.2025.125055
+ER  - 
+
+TY  - JOUR
+TI  - Decadal changes and influencing factors of global industrial heat sources
+AU  - Xie Y.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2026
+DA  - 2026-02-01
+VL  - 146
+DO  - 10.1016/j.jag.2025.105058
+UR  - https://doi.org/10.1016/j.jag.2025.105058
+ER  - 
+
+TY  - JOUR
+TI  - Deep recurrent neural network-based satellite indirect pose tracking with adaptive Huber loss
+AU  - Chen Z.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-02-01
+VL  - 77
+IS  - 3
+SP  - 3858-3871
+DO  - 10.1016/j.asr.2025.11.021
+UR  - https://doi.org/10.1016/j.asr.2025.11.021
+ER  - 
+
+TY  - JOUR
+TI  - From human mobility to building functions: A deep learning approach for urban building classification in Megacity Tokyo
+AU  - Hu Z.
+JO  - Cities
+PY  - 2026
+DA  - 2026-02-01
+VL  - 169
+DO  - 10.1016/j.cities.2025.106557
+UR  - https://doi.org/10.1016/j.cities.2025.106557
+ER  - 
+
+TY  - JOUR
+TI  - A review of satellite remote sensing for pollution control and carbon reduction in China
+AU  - Zhao S.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2026
+DA  - 2026-02-01
+VL  - 146
+DO  - 10.1016/j.jag.2026.105109
+UR  - https://doi.org/10.1016/j.jag.2026.105109
+ER  - 
+
+TY  - JOUR
+TI  - Enabling multi-decadal braided river monitoring through FloodMamba-Net and task-equivalent Landsat-to-Sentinel-2 data synthesis
+AU  - Song X.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-02-01
+VL  - 665
+DO  - 10.1016/j.jhydrol.2025.134737
+UR  - https://doi.org/10.1016/j.jhydrol.2025.134737
+ER  - 
+
+TY  - JOUR
+TI  - AnytimeFormer: Fusing irregular and asynchronous SAR-optical time series to reconstruct reflectance at any given time
+AU  - Tang K.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-01-15
+VL  - 333
+DO  - 10.1016/j.rse.2025.115120
+UR  - https://doi.org/10.1016/j.rse.2025.115120
+ER  - 
+
+TY  - JOUR
+TI  - Faster, better, and more accurate mapping of burned areas using Sentinel-2 multispectral images
+AU  - Liu P.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-01-15
+VL  - 333
+DO  - 10.1016/j.rse.2025.115137
+UR  - https://doi.org/10.1016/j.rse.2025.115137
+ER  - 
+
+TY  - JOUR
+TI  - A novel automated technique based on ensemble learning for prediction of soil moisture using satellite images
+AU  - Singh A.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-01-15
+VL  - 77
+IS  - 2
+SP  - 1750-1765
+DO  - 10.1016/j.asr.2025.10.101
+UR  - https://doi.org/10.1016/j.asr.2025.10.101
+ER  - 
+
+TY  - JOUR
+TI  - IMFF: A dual-space optimization network via multi-level feature fusion and boundary-aware learning for high-resolution remote sensing scene classification
+AU  - Yuan J.
+JO  - Expert Systems with Applications
+PY  - 2026
+DA  - 2026-01-15
+VL  - 296
+DO  - 10.1016/j.eswa.2025.129163
+UR  - https://doi.org/10.1016/j.eswa.2025.129163
+ER  - 
+
+TY  - JOUR
+TI  - Nationwide mapping and characterization of land subsidence in the United States using InSAR
+AU  - Xiong Z.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-01-15
+VL  - 333
+DO  - 10.1016/j.rse.2025.115134
+UR  - https://doi.org/10.1016/j.rse.2025.115134
+ER  - 
+
+TY  - JOUR
+TI  - Remote sensing-based bathymetry mapping in shallow lakes: comparative analysis of Sentinel-2 and Landsat-8 imagery integrated with machine learning techniques
+AU  - Karimi N.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-01-15
+VL  - 77
+IS  - 2
+SP  - 1439-1463
+DO  - 10.1016/j.asr.2025.10.028
+UR  - https://doi.org/10.1016/j.asr.2025.10.028
+ER  - 
+
+TY  - JOUR
+TI  - Advanced predictive modelling of urban expansion and land surface temperature dynamics using multi-scale machine learning approaches
+AU  - Bindajam A.A.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-01-15
+VL  - 77
+IS  - 2
+SP  - 1679-1702
+DO  - 10.1016/j.asr.2025.10.080
+UR  - https://doi.org/10.1016/j.asr.2025.10.080
+ER  - 
+
+TY  - JOUR
+TI  - ISFE-Net: An important spatial feature extraction network for UAV-Based hyperspectral water quality monitoring in rivers
+AU  - Chen J.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-01-01
+VL  - 664
+DO  - 10.1016/j.jhydrol.2025.134542
+UR  - https://doi.org/10.1016/j.jhydrol.2025.134542
+ER  - 
+
+TY  - JOUR
+TI  - Hyperspectral remote sensing and machine learning techniques for assessing soil contamination by potentially toxic elements: A case study from the Zeïda mining area, Morocco
+AU  - Jamal M.
+JO  - Journal of African Earth Sciences
+PY  - 2026
+DA  - 2026-01-01
+VL  - 234
+DO  - 10.1016/j.jafrearsci.2025.105912
+UR  - https://doi.org/10.1016/j.jafrearsci.2025.105912
+ER  - 
+
+TY  - JOUR
+TI  - DSENet: dynamic sparse enhancement network for road extraction from high resolution remote sensing images
+AU  - Li H.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-01-01
+DO  - 10.1016/j.asr.2026.08.087
+UR  - https://doi.org/10.1016/j.asr.2026.08.087
+ER  - 
+
+TY  - JOUR
+TI  - IACF-Net:Interactive adaptive cross fusion network for collaborative classification of hyperspectral and LiDAR data
+AU  - Zhao Y.
+JO  - Infrared Physics and Technology
+PY  - 2026
+DA  - 2026-01-01
+VL  - 153
+DO  - 10.1016/j.infrared.2025.106318
+UR  - https://doi.org/10.1016/j.infrared.2025.106318
+ER  - 
+
+TY  - JOUR
+TI  - Quantitative Analysis of Land Use Land Cover Change in the Coal Mining Region of Vidarbha using Convolutional Neural Network
+AU  - Pawade D.
+JO  - Procedia Computer Science
+PY  - 2026
+DA  - 2026-01-01
+VL  - 283
+SP  - 4012-4020
+DO  - 10.1016/j.procs.2026.06.462
+UR  - https://doi.org/10.1016/j.procs.2026.06.462
+ER  - 
+
+TY  - JOUR
+TI  - Mapping of hydrothermal alteration zones linked to the volcanogenic-hosted massive sulphide deposits in the Betul Belt, Madhya Pradesh, India, using PRISMA hyperspectral imagery
+AU  - Imran S.
+JO  - Remote Sensing Applications Society and Environment
+PY  - 2026
+DA  - 2026-01-01
+VL  - 41
+DO  - 10.1016/j.rsase.2025.101842
+UR  - https://doi.org/10.1016/j.rsase.2025.101842
+ER  - 
+
+TY  - JOUR
+TI  - SE-enhanced U-net framework for tea plantation mapping from multi-temporal satellite embeddings
+AU  - Sreedharan S.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-01-01
+DO  - 10.1016/j.asr.2026.09.044
+UR  - https://doi.org/10.1016/j.asr.2026.09.044
+ER  - 
+
+TY  - JOUR
+TI  - Estimation of dam water volume in northern Sinaloa, Mexico using Landsat imagery and artificial intelligence models
+AU  - González-Márquez L.C.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-01-01
+VL  - 77
+IS  - 1
+SP  - 410-421
+DO  - 10.1016/j.asr.2025.09.101
+UR  - https://doi.org/10.1016/j.asr.2025.09.101
+ER  - 
+
+TY  - JOUR
+TI  - Quantifying the impact of dam-related barriers on river fragmentation and water quality across China
+AU  - He M.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-01-01
+VL  - 664
+DO  - 10.1016/j.jhydrol.2025.134541
+UR  - https://doi.org/10.1016/j.jhydrol.2025.134541
+ER  - 
+
+TY  - JOUR
+TI  - Soybean Growth Stage Classification from Hyperspectral Images using Hybrid Feature Extraction and Enhanced CNN
+AU  - Rachel Stefna Angeline A.
+JO  - Procedia Computer Science
+PY  - 2026
+DA  - 2026-01-01
+VL  - 283
+SP  - 4222-4231
+DO  - 10.1016/j.procs.2026.06.481
+UR  - https://doi.org/10.1016/j.procs.2026.06.481
+ER  - 
+
+TY  - JOUR
+TI  - Monthly monitoring of urban development and renewal at the block-level in China using Sentinel-2 time series
+AU  - He H.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-01-01
+VL  - 332
+DO  - 10.1016/j.rse.2025.115070
+UR  - https://doi.org/10.1016/j.rse.2025.115070
+ER  - 
+
+TY  - JOUR
+TI  - Geospatial analysis of Lake Urmia’s drying: predicting land surface temperature changes using remote sensing and machine learning
+AU  - babaei M.
+JO  - Advances in Space Research
+PY  - 2026
+DA  - 2026-01-01
+VL  - 77
+IS  - 1
+SP  - 526-548
+DO  - 10.1016/j.asr.2025.10.013
+UR  - https://doi.org/10.1016/j.asr.2025.10.013
+ER  - 
+
+TY  - JOUR
+TI  - STARNet deep learning model for precision irrigation management support: UAV hyperspectral monitoring of spatial heterogeneity of soil moisture content in arid apple orchards
+AU  - Guo F.
+JO  - Soil and Tillage Research
+PY  - 2026
+DA  - 2026-01-01
+VL  - 265
+DO  - 10.1016/j.still.2026.107442
+UR  - https://doi.org/10.1016/j.still.2026.107442
+ER  - 
+
+TY  - JOUR
+TI  - An enhanced feature fusion method for urban functional zone mapping with SDGSAT-1 day-night imagery and multi-dimensional geospatial data
+AU  - Jiang H.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-01-01
+VL  - 332
+DO  - 10.1016/j.rse.2025.115050
+UR  - https://doi.org/10.1016/j.rse.2025.115050
+ER  - 
+
+TY  - JOUR
+TI  - MSAI-Path: Predicting Microsatellite Instability From Routine Histology Slides Without Reinventing the Wheel
+AU  - Baumann E.
+JO  - Modern Pathology
+PY  - 2026
+DA  - 2026-01-01
+VL  - 39
+IS  - 1
+DO  - 10.1016/j.modpat.2025.100932
+UR  - https://doi.org/10.1016/j.modpat.2025.100932
+ER  - 
+
+TY  - JOUR
+TI  - Optimal selection and fusion framework of multi-source soil moisture data based on climate zoning and cross attention
+AU  - Wang E.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-01-01
+VL  - 664
+DO  - 10.1016/j.jhydrol.2025.134350
+UR  - https://doi.org/10.1016/j.jhydrol.2025.134350
+ER  - 
+
+TY  - JOUR
+TI  - A deep learning-based framework for extracting spatial patterns of farmland shelterbelts in the three-north region of China using Sentinel-2 data
+AU  - Ma H.
+JO  - Remote Sensing of Environment
+PY  - 2026
+DA  - 2026-01-01
+VL  - 332
+DO  - 10.1016/j.rse.2025.115095
+UR  - https://doi.org/10.1016/j.rse.2025.115095
+ER  - 
+
+TY  - JOUR
+TI  - Sorting carbonate clay-type lithium ores using a deep learning model with adaptive spectral-texture feature fusion
+AU  - Zhang Q.
+JO  - Geoscience Frontiers
+PY  - 2026
+DA  - 2026-01-01
+VL  - 17
+IS  - 1
+DO  - 10.1016/j.gsf.2025.102185
+UR  - https://doi.org/10.1016/j.gsf.2025.102185
+ER  - 
+
+TY  - JOUR
+TI  - An advanced deep learning framework for mapping glacial lakes and its application in the Hindu Kush-Karakoram-Himalaya region
+AU  - Zhang H.
+JO  - Journal of Hydrology
+PY  - 2026
+DA  - 2026-01-01
+VL  - 664
+DO  - 10.1016/j.jhydrol.2025.134507
+UR  - https://doi.org/10.1016/j.jhydrol.2025.134507
+ER  - 
+
+TY  - JOUR
+TI  - Reconstructing historical cloud ice water fraction using machine learning and multi-source satellite data from 1983 to 2009
+AU  - Xiao D.
+JO  - Atmospheric Research
+PY  - 2026
+DA  - 2026-01-01
+VL  - 330
+DO  - 10.1016/j.atmosres.2025.108571
+UR  - https://doi.org/10.1016/j.atmosres.2025.108571
+ER  - 
+
+TY  - JOUR
+TI  - Reconstructing aquifer dynamics with machine learning: Linking irrigation expansion to groundwater decline in a data-scarce hyper-arid region
+AU  - Chucuya S.
+JO  - Agricultural Water Management
+PY  - 2025
+DA  - 2025-12-20
+VL  - 322
+DO  - 10.1016/j.agwat.2025.110018
+UR  - https://doi.org/10.1016/j.agwat.2025.110018
+ER  - 
+
+TY  - JOUR
+TI  - Neural disaster simulation for transferable building damage assessment
+AU  - Zheng Z.
+JO  - Remote Sensing of Environment
+PY  - 2025
+DA  - 2025-12-15
+VL  - 331
+DO  - 10.1016/j.rse.2025.114979
+UR  - https://doi.org/10.1016/j.rse.2025.114979
+ER  - 
+
+TY  - JOUR
+TI  - Breaking the limitations of scenes and sensors variability: A novel unsupervised domain adaptive instance segmentation framework for agricultural field extraction
+AU  - Wei R.
+JO  - Remote Sensing of Environment
+PY  - 2025
+DA  - 2025-12-15
+VL  - 331
+DO  - 10.1016/j.rse.2025.115051
+UR  - https://doi.org/10.1016/j.rse.2025.115051
+ER  - 
+
+TY  - JOUR
+TI  - Satellite imagery pre-processing and feature extraction for the mapping of coastal ecosystems using Google Earth Engine: A workflow for practitioners
+AU  - Badruzzaman A.
+JO  - Methodsx
+PY  - 2025
+DA  - 2025-12-01
+VL  - 15
+DO  - 10.1016/j.mex.2025.103516
+UR  - https://doi.org/10.1016/j.mex.2025.103516
+ER  - 
+
+TY  - JOUR
+TI  - HSCRN: A hyperspectral image classification network based on dynamic context and feature refinement
+AU  - Wang Y.
+JO  - Optics and Laser Technology
+PY  - 2025
+DA  - 2025-12-01
+VL  - 192
+DO  - 10.1016/j.optlastec.2025.113395
+UR  - https://doi.org/10.1016/j.optlastec.2025.113395
+ER  - 
+
+TY  - JOUR
+TI  - Deep multimodal unmixing of hyperspectral images using Convolutional Block Attention Module (CBAM) and LiDAR features
+AU  - Sreejam M.
+JO  - Egyptian Journal of Remote Sensing and Space Science
+PY  - 2025
+DA  - 2025-12-01
+VL  - 28
+IS  - 4
+SP  - 666-680
+DO  - 10.1016/j.ejrs.2025.10.002
+UR  - https://doi.org/10.1016/j.ejrs.2025.10.002
+ER  - 
+
+TY  - JOUR
+TI  - Comparative analysis of one-dimensional convolutional neural network and predictive raster averaging for MVT Pb–Zn mineralization using the weighted class distribution evaluation framework
+AU  - Qaderi S.
+JO  - Applied Geochemistry
+PY  - 2025
+DA  - 2025-12-01
+VL  - 194
+DO  - 10.1016/j.apgeochem.2025.106595
+UR  - https://doi.org/10.1016/j.apgeochem.2025.106595
+ER  - 
+
+TY  - JOUR
+TI  - Reliable, large-scale, and automated remote sensing mapping of coastal aquaculture ponds based on Sentinel-1/2 and ensemble learning algorithms
+AU  - Hu X.
+JO  - Expert Systems with Applications
+PY  - 2025
+DA  - 2025-12-01
+VL  - 293
+DO  - 10.1016/j.eswa.2025.128740
+UR  - https://doi.org/10.1016/j.eswa.2025.128740
+ER  - 
+
+TY  - JOUR
+TI  - Automated classification and mapping for alluvial geomorphic units: Current approaches and future directions
+AU  - Dawson M.
+JO  - Earth Science Reviews
+PY  - 2025
+DA  - 2025-12-01
+VL  - 271
+DO  - 10.1016/j.earscirev.2025.105292
+UR  - https://doi.org/10.1016/j.earscirev.2025.105292
+ER  - 
+
+TY  - JOUR
+TI  - Hyperspectral image denoising through hybrid spectral transformer network
+AU  - Yadav D.P.
+JO  - Advances in Space Research
+PY  - 2025
+DA  - 2025-12-01
+VL  - 76
+IS  - 11
+SP  - 6673-6693
+DO  - 10.1016/j.asr.2025.09.028
+UR  - https://doi.org/10.1016/j.asr.2025.09.028
+ER  - 
+
+TY  - JOUR
+TI  - Geo-scenes dissecting urban fabric: Understanding and recognition combining AI, remotely sensed data and multimodal spatial semantics
+AU  - Bao H.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2025
+DA  - 2025-12-01
+VL  - 230
+SP  - 716-737
+DO  - 10.1016/j.isprsjprs.2025.10.011
+UR  - https://doi.org/10.1016/j.isprsjprs.2025.10.011
+ER  - 
+
+TY  - JOUR
+TI  - Open-set mineral identification from CRISM hyperspectral data
+AU  - Dhoundiyal S.
+JO  - Planetary and Space Science
+PY  - 2025
+DA  - 2025-12-01
+VL  - 269
+DO  - 10.1016/j.pss.2025.106218
+UR  - https://doi.org/10.1016/j.pss.2025.106218
+ER  - 
+
+TY  - JOUR
+TI  - Applying deep learning for boat detection and numerical modeling to assess sand mining impacts on river morphology: A case study in the Vietnamese Mekong Delta
+AU  - Vu T.H.
+JO  - Geomorphology
+PY  - 2025
+DA  - 2025-12-01
+VL  - 490
+DO  - 10.1016/j.geomorph.2025.110010
+UR  - https://doi.org/10.1016/j.geomorph.2025.110010
+ER  - 
+
+TY  - JOUR
+TI  - Near real-time satellite soil moisture estimation via residual learning integrated with sensor networks
+AU  - Sengupta S.
+JO  - Journal of Hydrology
+PY  - 2025
+DA  - 2025-12-01
+VL  - 663
+DO  - 10.1016/j.jhydrol.2025.134302
+UR  - https://doi.org/10.1016/j.jhydrol.2025.134302
+ER  - 
+
+TY  - JOUR
+TI  - Revealing P3HT:PCBM blend characteristics: a hyperspectral imaging and deep neural network approach
+AU  - Wang Y.
+JO  - Optics and Laser Technology
+PY  - 2025
+DA  - 2025-12-01
+VL  - 192
+DO  - 10.1016/j.optlastec.2025.113905
+UR  - https://doi.org/10.1016/j.optlastec.2025.113905
+ER  - 
+
+TY  - JOUR
+TI  - Weight optimized stacked LSTM with conditional random fields using self-adaptive generalized normal distribution optimizer for crop yield forecasting
+AU  - Basha S.S.
+JO  - Applied Soft Computing
+PY  - 2025
+DA  - 2025-12-01
+VL  - 184
+DO  - 10.1016/j.asoc.2025.113760
+UR  - https://doi.org/10.1016/j.asoc.2025.113760
+ER  - 
+
+TY  - JOUR
+TI  - Mapping above-ground biomass in old-growth deciduous forests using open-access satellite data, field plots, and machine learning algorithms
+AU  - Zeinali Yadegari L.
+JO  - Advances in Space Research
+PY  - 2025
+DA  - 2025-12-01
+VL  - 76
+IS  - 11
+SP  - 6566-6584
+DO  - 10.1016/j.asr.2025.09.013
+UR  - https://doi.org/10.1016/j.asr.2025.09.013
+ER  - 
+
+TY  - JOUR
+TI  - Assessing predictability of spatio-temporal soil-moisture heterogeneity with satellite-data using GeoDetector and ensemble machine learning models considering environmental and climatic factors
+AU  - Kanji S.
+JO  - Journal of Hydrology
+PY  - 2025
+DA  - 2025-12-01
+VL  - 663
+DO  - 10.1016/j.jhydrol.2025.134312
+UR  - https://doi.org/10.1016/j.jhydrol.2025.134312
+ER  - 
+
+TY  - JOUR
+TI  - Deep learning-based multimodal fusion for quality prediction of chili paste using hyperspectral imaging and near-infrared spectroscopy
+AU  - Li M.
+JO  - Food Chemistry
+PY  - 2025
+DA  - 2025-11-30
+VL  - 493
+DO  - 10.1016/j.foodchem.2025.145712
+UR  - https://doi.org/10.1016/j.foodchem.2025.145712
+ER  - 
+
+TY  - JOUR
+TI  - Few-Shot hyperspectral image classification with mamba and manifold convolution fusion network
+AU  - Cao H.
+JO  - Knowledge Based Systems
+PY  - 2025
+DA  - 2025-11-25
+VL  - 330
+DO  - 10.1016/j.knosys.2025.114531
+UR  - https://doi.org/10.1016/j.knosys.2025.114531
+ER  - 
+
+TY  - JOUR
+TI  - Application of object-based image analysis and some machine learning models in gully erosion susceptibility mapping
+AU  - Yaghobi S.
+JO  - Advances in Space Research
+PY  - 2025
+DA  - 2025-11-15
+VL  - 76
+IS  - 10
+SP  - 5988-6011
+DO  - 10.1016/j.asr.2025.08.049
+UR  - https://doi.org/10.1016/j.asr.2025.08.049
+ER  - 
+
+TY  - JOUR
+TI  - Estimating 1-km PM2.5 concentration in Beijing-Tianjin-Hebei region based on a lightweight spatiotemporal algorithm: STLWPNet
+AU  - Zeng Q.
+JO  - Atmospheric Environment
+PY  - 2025
+DA  - 2025-11-15
+VL  - 361
+DO  - 10.1016/j.atmosenv.2025.121470
+UR  - https://doi.org/10.1016/j.atmosenv.2025.121470
+ER  - 
+
+TY  - JOUR
+TI  - GLMambaNet: Mamba-based decoder with local detail enhancement for semantic segmentation of remote sensing imagery
+AU  - Zhu Z.
+JO  - Image and Vision Computing
+PY  - 2025
+DA  - 2025-11-01
+VL  - 163
+DO  - 10.1016/j.imavis.2025.105774
+UR  - https://doi.org/10.1016/j.imavis.2025.105774
+ER  - 
+
+TY  - JOUR
+TI  - Aerosol optical depth retrieval from Geostationary Environment Monitoring Spectrometer (GEMS): Advancing the first hyperspectral geostationary air quality mission using deep learning
+AU  - Choi H.
+JO  - Science of the Total Environment
+PY  - 2025
+DA  - 2025-11-01
+VL  - 1002
+DO  - 10.1016/j.scitotenv.2025.180535
+UR  - https://doi.org/10.1016/j.scitotenv.2025.180535
+ER  - 
+
+TY  - JOUR
+TI  - PAMSNet: A point annotation-driven multi-source network for remote sensing semantic segmentation
+AU  - Zhao Y.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2025
+DA  - 2025-11-01
+VL  - 229
+SP  - 1-16
+DO  - 10.1016/j.isprsjprs.2025.07.035
+UR  - https://doi.org/10.1016/j.isprsjprs.2025.07.035
+ER  - 
+
+TY  - JOUR
+TI  - UHPLC-based C-phycocyanin quantification method to support the validation of remote sensing models for harmful cyanobacterial blooms
+AU  - Canuti E.
+JO  - Journal of Chromatography B Analytical Technologies in the Biomedical and Life Sciences
+PY  - 2025
+DA  - 2025-11-01
+VL  - 1265
+DO  - 10.1016/j.jchromb.2025.124759
+UR  - https://doi.org/10.1016/j.jchromb.2025.124759
+ER  - 
+
+TY  - JOUR
+TI  - Development of a litho-structural map for the Upper Mereb area, Eritrea, using multi-source remote sensing data and machine learning models
+AU  - Asghede K.M.
+JO  - Remote Sensing Applications Society and Environment
+PY  - 2025
+DA  - 2025-11-01
+VL  - 40
+DO  - 10.1016/j.rsase.2025.101722
+UR  - https://doi.org/10.1016/j.rsase.2025.101722
+ER  - 
+
+TY  - JOUR
+TI  - Advanced AI-driven methane emission detection, quantification, and localization in Canada: A hybrid multi-source fusion framework
+AU  - Yazdinejad A.
+JO  - Science of the Total Environment
+PY  - 2025
+DA  - 2025-10-10
+VL  - 998
+DO  - 10.1016/j.scitotenv.2025.180142
+UR  - https://doi.org/10.1016/j.scitotenv.2025.180142
+ER  - 
+
+TY  - JOUR
+TI  - A novel knowledge-based multi-modal semi-supervised framework for 3D change detection and mining volume estimation in open-pit mines using GF7 satellite images
+AU  - Dong D.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2025
+DA  - 2025-10-01
+VL  - 228
+SP  - 519-536
+DO  - 10.1016/j.isprsjprs.2025.07.034
+UR  - https://doi.org/10.1016/j.isprsjprs.2025.07.034
+ER  - 
+
+TY  - JOUR
+TI  - Revealing critical mineralogical insights in extreme environments using deep learning technique on hyperspectral PRISMA satellite imagery: Dry Valleys, South Victoria Land, Antarctica
+AU  - Habashi J.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2025
+DA  - 2025-10-01
+VL  - 228
+SP  - 83-121
+DO  - 10.1016/j.isprsjprs.2025.07.005
+UR  - https://doi.org/10.1016/j.isprsjprs.2025.07.005
+ER  - 
+
+TY  - JOUR
+TI  - A symmetrical parallel two-stream adaptive segmentation network for remote sensing images
+AU  - Li B.
+JO  - Digital Signal Processing A Review Journal
+PY  - 2025
+DA  - 2025-10-01
+VL  - 165
+DO  - 10.1016/j.dsp.2025.105319
+UR  - https://doi.org/10.1016/j.dsp.2025.105319
+ER  - 
+
+TY  - JOUR
+TI  - Research on self-collected UAV forage hyperspectral imagery based on three-dimension auto-encoding multi-scale feature extraction
+AU  - Liu Y.
+JO  - Expert Systems with Applications
+PY  - 2025
+DA  - 2025-10-01
+VL  - 291
+DO  - 10.1016/j.eswa.2025.128514
+UR  - https://doi.org/10.1016/j.eswa.2025.128514
+ER  - 
+
+TY  - JOUR
+TI  - Shapley values reveal geomorphic controls on exposed bedrock-gravel differentiation
+AU  - Zhang X.
+JO  - Geoderma
+PY  - 2025
+DA  - 2025-10-01
+VL  - 462
+DO  - 10.1016/j.geoderma.2025.117525
+UR  - https://doi.org/10.1016/j.geoderma.2025.117525
+ER  - 
+
+TY  - JOUR
+TI  - Multi-scale subspace co-clustering network with adaptive multi-scale enhancement for remote sensing scene classification
+AU  - Ye L.
+JO  - Knowledge Based Systems
+PY  - 2025
+DA  - 2025-09-05
+VL  - 325
+DO  - 10.1016/j.knosys.2025.113897
+UR  - https://doi.org/10.1016/j.knosys.2025.113897
+ER  - 
+
+TY  - JOUR
+TI  - A proposed concept for classifying uniaxial compressive strength (UCS) from SWIR hyperspectral data
+AU  - Wellman E.C.
+JO  - Engineering Geology
+PY  - 2025
+DA  - 2025-09-01
+VL  - 356
+DO  - 10.1016/j.enggeo.2025.108300
+UR  - https://doi.org/10.1016/j.enggeo.2025.108300
+ER  - 
+
+TY  - JOUR
+TI  - Assessment of the impact of artisanal gold mining on agriculture and natural resources using Landsat imagery - A case study on Central Côte d'Ivoire
+AU  - Assoumane Ayouba S.
+JO  - Scientific African
+PY  - 2025
+DA  - 2025-09-01
+VL  - 29
+DO  - 10.1016/j.sciaf.2025.e02922
+UR  - https://doi.org/10.1016/j.sciaf.2025.e02922
+ER  - 
+
+TY  - JOUR
+TI  - CTFN: Multi-scale CNN and transformer with graph encodings fusion network for hyperspectral image classification
+AU  - Yang A.
+JO  - Expert Systems with Applications
+PY  - 2025
+DA  - 2025-09-01
+VL  - 288
+DO  - 10.1016/j.eswa.2025.128063
+UR  - https://doi.org/10.1016/j.eswa.2025.128063
+ER  - 
+
+TY  - JOUR
+TI  - Knowledge distillation based adaptive deformable perceptron for remote sensing image road extraction
+AU  - Yuan Q.
+JO  - Advances in Space Research
+PY  - 2025
+DA  - 2025-09-01
+VL  - 76
+IS  - 5
+SP  - 2703-2719
+DO  - 10.1016/j.asr.2025.06.046
+UR  - https://doi.org/10.1016/j.asr.2025.06.046
+ER  - 
+
+TY  - JOUR
+TI  - Modeling mining-induced land degradation in Itagunmodi: A multi-temporal machine learning approach with random forest and gradient boosting
+AU  - Ibukun J.A.
+JO  - Trees Forests and People
+PY  - 2025
+DA  - 2025-09-01
+VL  - 21
+DO  - 10.1016/j.tfp.2025.100926
+UR  - https://doi.org/10.1016/j.tfp.2025.100926
+ER  - 
+
+TY  - JOUR
+TI  - Climate-driven projections of cyanobacterial harmful algal bloom expansion in coastal waters
+AU  - Al-Wardy M.
+JO  - Science of the Total Environment
+PY  - 2025
+DA  - 2025-08-25
+VL  - 992
+DO  - 10.1016/j.scitotenv.2025.179940
+UR  - https://doi.org/10.1016/j.scitotenv.2025.179940
+ER  - 
+
+TY  - JOUR
+TI  - Deep learning delineates alluvial fans driven by topographic knowledge and imagery
+AU  - Huang T.
+JO  - Catena
+PY  - 2025
+DA  - 2025-08-01
+VL  - 256
+DO  - 10.1016/j.catena.2025.109089
+UR  - https://doi.org/10.1016/j.catena.2025.109089
+ER  - 
+
+TY  - JOUR
+TI  - Drone multispectral imaging captures the effects of soil mineral nitrogen on canopy structure and nitrogen use efficiency in wheat
+AU  - Wang J.
+JO  - Computers and Electronics in Agriculture
+PY  - 2025
+DA  - 2025-08-01
+VL  - 235
+DO  - 10.1016/j.compag.2025.110342
+UR  - https://doi.org/10.1016/j.compag.2025.110342
+ER  - 
+
+TY  - JOUR
+TI  - Nearshore seabed topography reconstruction method based on convolutional neural network
+AU  - Sun Y.
+JO  - Expert Systems with Applications
+PY  - 2025
+DA  - 2025-07-25
+VL  - 284
+DO  - 10.1016/j.eswa.2025.127982
+UR  - https://doi.org/10.1016/j.eswa.2025.127982
+ER  - 
+
+TY  - JOUR
+TI  - In vitro plant spectral response reveals dust stress
+AU  - Darvishi Boloorani A.
+JO  - Agricultural and Forest Meteorology
+PY  - 2025
+DA  - 2025-07-15
+VL  - 370
+DO  - 10.1016/j.agrformet.2025.110599
+UR  - https://doi.org/10.1016/j.agrformet.2025.110599
+ER  - 
+
+TY  - JOUR
+TI  - SagMSI: A graph convolutional network framework for precise spatial segmentation in mass spectrometry imaging
+AU  - Shah M.
+JO  - Analytica Chimica Acta
+PY  - 2025
+DA  - 2025-07-08
+VL  - 1358
+DO  - 10.1016/j.aca.2025.344098
+UR  - https://doi.org/10.1016/j.aca.2025.344098
+ER  - 
+
+TY  - JOUR
+TI  - Band selection using oppositional whale optimization for hyperspectral image classification
+AU  - Kumar B L N P.
+JO  - Vibrational Spectroscopy
+PY  - 2025
+DA  - 2025-07-01
+VL  - 139
+DO  - 10.1016/j.vibspec.2025.103830
+UR  - https://doi.org/10.1016/j.vibspec.2025.103830
+ER  - 
+
+TY  - JOUR
+TI  - Dynamic semantic-geometric guidance and structure transfer network for cross-scene hyperspectral image classification
+AU  - Xu Q.
+JO  - Neural Networks
+PY  - 2025
+DA  - 2025-07-01
+VL  - 187
+DO  - 10.1016/j.neunet.2025.107374
+UR  - https://doi.org/10.1016/j.neunet.2025.107374
+ER  - 
+
+TY  - JOUR
+TI  - Innovative soil classification approach for achieving global biodiversity framework utilizing integrated data fusion of EMIT and multispectral satellite observations: Case study of Imam Turki bin Abdullah Royal Reserve, Kingdom of Saudi Arabia
+AU  - Morgan H.
+JO  - Ecological Informatics
+PY  - 2025
+DA  - 2025-07-01
+VL  - 87
+DO  - 10.1016/j.ecoinf.2025.103123
+UR  - https://doi.org/10.1016/j.ecoinf.2025.103123
+ER  - 
+
+TY  - JOUR
+TI  - Hyperspectral and LiDAR space-borne data for assessing mountain forest volume and biomass
+AU  - Ceriani R.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2025
+DA  - 2025-07-01
+VL  - 141
+DO  - 10.1016/j.jag.2025.104614
+UR  - https://doi.org/10.1016/j.jag.2025.104614
+ER  - 
+
+TY  - JOUR
+TI  - Assimilation of satellite-derived profile observations for enhanced estimation of water quality variables in a deep reservoir
+AU  - Shahi F.S.
+JO  - Science of the Total Environment
+PY  - 2025
+DA  - 2025-06-20
+VL  - 982
+DO  - 10.1016/j.scitotenv.2025.179643
+UR  - https://doi.org/10.1016/j.scitotenv.2025.179643
+ER  - 
+
+TY  - JOUR
+TI  - Spatial predictive modeling of soil organic carbon stocks in Norwegian forests
+AU  - Hagenbo A.
+JO  - Science of the Total Environment
+PY  - 2025
+DA  - 2025-06-10
+VL  - 980
+DO  - 10.1016/j.scitotenv.2025.179451
+UR  - https://doi.org/10.1016/j.scitotenv.2025.179451
+ER  - 
+
+TY  - JOUR
+TI  - Saliency supervised masked autoencoder pretrained salient location mining network for remote sensing image salient object detection
+AU  - Fu Y.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2025
+DA  - 2025-06-01
+VL  - 224
+SP  - 222-234
+DO  - 10.1016/j.isprsjprs.2025.03.025
+UR  - https://doi.org/10.1016/j.isprsjprs.2025.03.025
+ER  - 
+
+TY  - JOUR
+TI  - SFD-YOLO: A novel framework for subsidence funnels detection in China based on large-scale SAR interferograms
+AU  - Guo J.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2025
+DA  - 2025-06-01
+VL  - 140
+DO  - 10.1016/j.jag.2025.104605
+UR  - https://doi.org/10.1016/j.jag.2025.104605
+ER  - 
+
+TY  - JOUR
+TI  - Advancements in satellite-based methane point source monitoring: A systematic review
+AU  - Mohammadimanesh F.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2025
+DA  - 2025-06-01
+VL  - 224
+SP  - 94-112
+DO  - 10.1016/j.isprsjprs.2025.03.020
+UR  - https://doi.org/10.1016/j.isprsjprs.2025.03.020
+ER  - 
+
+TY  - JOUR
+TI  - High spatial-resolution satellite mapping of suspended particulate matter in global coastal waters using particle composition-adaptive algorithms
+AU  - Teng W.
+JO  - Remote Sensing of Environment
+PY  - 2025
+DA  - 2025-06-01
+VL  - 323
+DO  - 10.1016/j.rse.2025.114745
+UR  - https://doi.org/10.1016/j.rse.2025.114745
+ER  - 
+
+TY  - JOUR
+TI  - A BOX-YOLOv8 framework for automated hyperspectral core analysis
+AU  - Zhu H.
+JO  - Geoderma
+PY  - 2025
+DA  - 2025-06-01
+VL  - 458
+DO  - 10.1016/j.geoderma.2025.117325
+UR  - https://doi.org/10.1016/j.geoderma.2025.117325
+ER  - 
+
+TY  - JOUR
+TI  - Non-Euclidean Spectral-Spatial feature mining network with Gated GCN-CNN for hyperspectral image classification
+AU  - Zhang Z.
+JO  - Expert Systems with Applications
+PY  - 2025
+DA  - 2025-05-05
+VL  - 272
+DO  - 10.1016/j.eswa.2025.126811
+UR  - https://doi.org/10.1016/j.eswa.2025.126811
+ER  - 
+
+TY  - JOUR
+TI  - Mapping potential zones of Lithium-bearing pegmatites using ASTER and Sentinel-2 remote sensing imagery in the Tagablor Pegmatite Field, Central Afghanistan
+AU  - Arian H.
+JO  - Remote Sensing Applications Society and Environment
+PY  - 2025
+DA  - 2025-04-01
+VL  - 38
+DO  - 10.1016/j.rsase.2025.101625
+UR  - https://doi.org/10.1016/j.rsase.2025.101625
+ER  - 
+
+TY  - JOUR
+TI  - Design, Performance, and Applications of AMMIS: A Novel Airborne Multimodular Imaging Spectrometer for High-Resolution Earth Observations
+AU  - Jia J.
+JO  - Engineering
+PY  - 2025
+DA  - 2025-04-01
+VL  - 47
+SP  - 38-56
+DO  - 10.1016/j.eng.2024.11.001
+UR  - https://doi.org/10.1016/j.eng.2024.11.001
+ER  - 
+
+TY  - JOUR
+TI  - Satellite-based remote sensing analysis for the exploration of MVT Pb-Zn mineralization using an integrated approach of minimum distance classification, deep autoencoder and fuzzy logic modeling
+AU  - Qaderi S.
+JO  - Remote Sensing Applications Society and Environment
+PY  - 2025
+DA  - 2025-04-01
+VL  - 38
+DO  - 10.1016/j.rsase.2025.101561
+UR  - https://doi.org/10.1016/j.rsase.2025.101561
+ER  - 
+
+TY  - JOUR
+TI  - Two-step fusion framework for generating 10 m resolution soil moisture with high accuracy in the cotton fields of southern Xinjiang
+AU  - Li S.
+JO  - Industrial Crops and Products
+PY  - 2025
+DA  - 2025-04-01
+VL  - 226
+DO  - 10.1016/j.indcrop.2025.120582
+UR  - https://doi.org/10.1016/j.indcrop.2025.120582
+ER  - 
+
+TY  - JOUR
+TI  - AI-DeepFrothNet: Continuous monitoring and tracking of froth flotation working condition by root cause analysis and optimized predictive control
+AU  - Abouda K.A.
+JO  - Computers and Electrical Engineering
+PY  - 2025
+DA  - 2025-04-01
+VL  - 123
+DO  - 10.1016/j.compeleceng.2025.110251
+UR  - https://doi.org/10.1016/j.compeleceng.2025.110251
+ER  - 
+
+TY  - JOUR
+TI  - Exploration of grade distribution in iron mines based on rough set extreme learning machine and multispectral
+AU  - Xie H.
+JO  - Expert Systems with Applications
+PY  - 2025
+DA  - 2025-03-15
+VL  - 265
+DO  - 10.1016/j.eswa.2024.125938
+UR  - https://doi.org/10.1016/j.eswa.2024.125938
+ER  - 
+
+TY  - JOUR
+TI  - Multi-modal deep learning approaches to semantic segmentation of mining footprints with multispectral satellite imagery
+AU  - Saputra M.R.U.
+JO  - Remote Sensing of Environment
+PY  - 2025
+DA  - 2025-03-01
+VL  - 318
+DO  - 10.1016/j.rse.2024.114584
+UR  - https://doi.org/10.1016/j.rse.2024.114584
+ER  - 
+
+TY  - JOUR
+TI  - A large-scale VHR parcel dataset and a novel hierarchical semantic boundary-guided network for agricultural parcel delineation
+AU  - Zhao H.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2025
+DA  - 2025-03-01
+VL  - 221
+SP  - 1-19
+DO  - 10.1016/j.isprsjprs.2025.01.034
+UR  - https://doi.org/10.1016/j.isprsjprs.2025.01.034
+ER  - 
+
+TY  - JOUR
+TI  - M3ICNet: A cross-modal resolution preserving building damage detection method with optical and SAR remote sensing imagery and two heterogeneous image disaster datasets
+AU  - Zhang H.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2025
+DA  - 2025-03-01
+VL  - 221
+SP  - 224-250
+DO  - 10.1016/j.isprsjprs.2025.02.004
+UR  - https://doi.org/10.1016/j.isprsjprs.2025.02.004
+ER  - 
+
+TY  - JOUR
+TI  - Enhanced lithological mapping via remote sensing: Employing SVM, random trees, ANN, with MNF and PCA transformations
+AU  - El-Omairi M.A.
+JO  - Egyptian Journal of Remote Sensing and Space Science
+PY  - 2025
+DA  - 2025-03-01
+VL  - 28
+IS  - 1
+SP  - 34-52
+DO  - 10.1016/j.ejrs.2024.12.001
+UR  - https://doi.org/10.1016/j.ejrs.2024.12.001
+ER  - 
+
+TY  - JOUR
+TI  - Stacking ensemble learning algorithm based rapid inverse modelling of copper grade using imaging spectral data
+AU  - Wang J.
+JO  - Chemometrics and Intelligent Laboratory Systems
+PY  - 2025
+DA  - 2025-02-15
+VL  - 257
+DO  - 10.1016/j.chemolab.2024.105308
+UR  - https://doi.org/10.1016/j.chemolab.2024.105308
+ER  - 
+
+TY  - JOUR
+TI  - A deep learning approach for accurate assessment of conveyor belt wear state based on multispectral imaging
+AU  - Zhou M.
+JO  - Optics and Laser Technology
+PY  - 2025
+DA  - 2025-02-01
+VL  - 181
+DO  - 10.1016/j.optlastec.2024.111782
+UR  - https://doi.org/10.1016/j.optlastec.2024.111782
+ER  - 
+
+TY  - JOUR
+TI  - An integrated neighborhood and scale information network for open-pit mine change detection in high-resolution remote sensing images
+AU  - Xie Z.
+JO  - Computers and Geosciences
+PY  - 2025
+DA  - 2025-02-01
+VL  - 196
+DO  - 10.1016/j.cageo.2025.105880
+UR  - https://doi.org/10.1016/j.cageo.2025.105880
+ER  - 
+
+TY  - JOUR
+TI  - ChangeRD: A registration-integrated change detection framework for unaligned remote sensing images
+AU  - Jing W.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2025
+DA  - 2025-02-01
+VL  - 220
+SP  - 64-74
+DO  - 10.1016/j.isprsjprs.2024.11.019
+UR  - https://doi.org/10.1016/j.isprsjprs.2024.11.019
+ER  - 
+
+TY  - JOUR
+TI  - RF-DET: Refocusing on the small-scale objects using aggregated context for accurate power transmitting components detection on UAV oblique imagery
+AU  - Yan Z.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2025
+DA  - 2025-02-01
+VL  - 220
+SP  - 692-711
+DO  - 10.1016/j.isprsjprs.2025.01.005
+UR  - https://doi.org/10.1016/j.isprsjprs.2025.01.005
+ER  - 
+
+TY  - JOUR
+TI  - A deep data fusion-based reconstruction of water index time series for intermittent rivers and ephemeral streams monitoring
+AU  - Fei J.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2025
+DA  - 2025-02-01
+VL  - 220
+SP  - 339-353
+DO  - 10.1016/j.isprsjprs.2024.12.015
+UR  - https://doi.org/10.1016/j.isprsjprs.2024.12.015
+ER  - 
+
+TY  - JOUR
+TI  - Machine learning-based monitoring of land cover and reclamation plantations on coal-mined landscape using Sentinel 2 data
+AU  - Pandey M.
+JO  - Environmental and Sustainability Indicators
+PY  - 2025
+DA  - 2025-02-01
+VL  - 25
+DO  - 10.1016/j.indic.2025.100585
+UR  - https://doi.org/10.1016/j.indic.2025.100585
+ER  - 
+
+TY  - JOUR
+TI  - Inversion monitoring of heavy metal pollution in corn crops based on ZY-1 02D hyperspectral imaging
+AU  - Zhang J.
+JO  - Microchemical Journal
+PY  - 2025
+DA  - 2025-01-01
+VL  - 208
+DO  - 10.1016/j.microc.2024.112305
+UR  - https://doi.org/10.1016/j.microc.2024.112305
+ER  - 
+
+TY  - JOUR
+TI  - Enhancing earth target classification in hyperspectral imagery using graph convolutional neural networks and graph-regularized sparse coding
+AU  - T S G.
+JO  - Remote Sensing Applications Society and Environment
+PY  - 2025
+DA  - 2025-01-01
+VL  - 37
+DO  - 10.1016/j.rsase.2024.101419
+UR  - https://doi.org/10.1016/j.rsase.2024.101419
+ER  - 
+
+TY  - JOUR
+TI  - Deep Contrastive Graph Learning Framework for Hyperspectral Image Classification
+AU  - Khemiri C.
+JO  - Procedia Computer Science
+PY  - 2025
+DA  - 2025-01-01
+VL  - 270
+SP  - 3588-3597
+DO  - 10.1016/j.procs.2025.09.484
+UR  - https://doi.org/10.1016/j.procs.2025.09.484
+ER  - 
+
+TY  - JOUR
+TI  - Computationally Efficient Hyperspectral Image Classification Using Deep Autoencoder and Multistage 2 Dimensional Convolutional Autoencoder Architectures
+AU  - Burnase S.R.
+JO  - Procedia Computer Science
+PY  - 2025
+DA  - 2025-01-01
+VL  - 260
+SP  - 1017-1025
+DO  - 10.1016/j.procs.2025.03.286
+UR  - https://doi.org/10.1016/j.procs.2025.03.286
+ER  - 
+
+TY  - JOUR
+TI  - Monitoring of ecological environment changes in open-pit mines on the Loess Plateau from 1990 to 2023 based on RSEI
+AU  - Wang X.
+JO  - Ecological Indicators
+PY  - 2025
+DA  - 2025-01-01
+VL  - 170
+DO  - 10.1016/j.ecolind.2024.113064
+UR  - https://doi.org/10.1016/j.ecolind.2024.113064
+ER  - 
+
+TY  - JOUR
+TI  - Advanced Feature Extraction for Earth Observation Data Processing
+AU  - Izquierdo-Verdiguiere E.
+JO  - Comprehensive Remote Sensing
+PY  - 2025
+DA  - 2025-01-01
+SP  - V2-63
+DO  - 10.1016/B978-0-443-13220-9.20009-7
+UR  - https://doi.org/10.1016/B978-0-443-13220-9.20009-7
+ER  - 
+
+TY  - JOUR
+TI  - Evaluation of support vector machine classifiers for lithological mapping using PRISMA hyperspectral remote sensing data: Sahand–Bazman magmatic arc, central Iran
+AU  - Rahmani N.
+JO  - Remote Sensing Applications Society and Environment
+PY  - 2025
+DA  - 2025-01-01
+VL  - 37
+DO  - 10.1016/j.rsase.2025.101449
+UR  - https://doi.org/10.1016/j.rsase.2025.101449
+ER  - 
+
+TY  - JOUR
+TI  - Superpixel-based plastic litter detection in UAV hyperspectral imaging using spectral-textural features
+AU  - Settembre G.
+JO  - Procedia Computer Science
+PY  - 2025
+DA  - 2025-01-01
+VL  - 270
+SP  - 4997-5006
+DO  - 10.1016/j.procs.2025.09.626
+UR  - https://doi.org/10.1016/j.procs.2025.09.626
+ER  - 
+
+TY  - JOUR
+TI  - Surface Reflectance/Bidirectional Reflectance Distribution Function
+AU  - He T.
+JO  - Comprehensive Remote Sensing
+PY  - 2025
+DA  - 2025-01-01
+SP  - V3-30
+DO  - 10.1016/B978-0-443-13220-9.00097-4
+UR  - https://doi.org/10.1016/B978-0-443-13220-9.00097-4
+ER  - 
+
+TY  - JOUR
+TI  - Satellite Detection of Inland Surface Water
+AU  - Pi X.
+JO  - Comprehensive Remote Sensing
+PY  - 2025
+DA  - 2025-01-01
+SP  - V6-159
+DO  - 10.1016/B978-0-443-13220-9.00089-5
+UR  - https://doi.org/10.1016/B978-0-443-13220-9.00089-5
+ER  - 
+
+TY  - JOUR
+TI  - EO for Poverty: Developing Metrics to Support Decision Making Using Earth Observation
+AU  - Watmough G.R.
+JO  - Comprehensive Remote Sensing
+PY  - 2025
+DA  - 2025-01-01
+SP  - V9-325
+DO  - 10.1016/B978-0-443-13220-9.00033-0
+UR  - https://doi.org/10.1016/B978-0-443-13220-9.00033-0
+ER  - 
+
+TY  - JOUR
+TI  - A Brief Review of Statistical and Machine Learning Integration Methods for Multiple High-Level Satellite Land Products
+AU  - Liang S.
+JO  - Comprehensive Remote Sensing
+PY  - 2025
+DA  - 2025-01-01
+SP  - V2-241
+DO  - 10.1016/B978-0-443-13220-9.00093-7
+UR  - https://doi.org/10.1016/B978-0-443-13220-9.00093-7
+ER  - 
+
+TY  - JOUR
+TI  - Airborne radiometric data for digital soil mapping of peat at broad and local scales
+AU  - O'Leary D.
+JO  - Geoderma
+PY  - 2025
+DA  - 2025-01-01
+VL  - 453
+DO  - 10.1016/j.geoderma.2024.117129
+UR  - https://doi.org/10.1016/j.geoderma.2024.117129
+ER  - 
+
+TY  - JOUR
+TI  - BRDF Correction
+AU  - Wang Z.
+JO  - Comprehensive Remote Sensing
+PY  - 2025
+DA  - 2025-01-01
+SP  - V2-37
+DO  - 10.1016/B978-0-443-13220-9.00057-3
+UR  - https://doi.org/10.1016/B978-0-443-13220-9.00057-3
+ER  - 
+
+TY  - JOUR
+TI  - Vegetation Trait Mapping With Optical Remote Sensing: Recent Advances in Methods and Applications
+AU  - Verrelst J.
+JO  - Comprehensive Remote Sensing
+PY  - 2025
+DA  - 2025-01-01
+SP  - V3-66
+DO  - 10.1016/B978-0-443-13220-9.00073-1
+UR  - https://doi.org/10.1016/B978-0-443-13220-9.00073-1
+ER  - 
+
+TY  - JOUR
+TI  - The Numerical Prediction of Severe Convective Storms: Advances in Research and Applications, Remaining Challenges, and Outlook for the Future
+AU  - Gao J.
+JO  - Encyclopedia of Atmospheric Sciences
+PY  - 2025
+DA  - 2025-01-01
+SP  - V1-393
+DO  - 10.1016/B978-0-323-96026-7.00127-2
+UR  - https://doi.org/10.1016/B978-0-323-96026-7.00127-2
+ER  - 
+
+TY  - JOUR
+TI  - CROPUP: Historical products are all you need? An end-to-end cross-year crop map updating framework without the need for in situ samples
+AU  - Lei L.
+JO  - Remote Sensing of Environment
+PY  - 2024
+DA  - 2024-12-15
+VL  - 315
+DO  - 10.1016/j.rse.2024.114430
+UR  - https://doi.org/10.1016/j.rse.2024.114430
+ER  - 
+
+TY  - JOUR
+TI  - Leveraging machine learning and Landsat time series for high-resolution mapping of mining-induced vegetation changes in Ouagadougou, Burkina Faso
+AU  - Himmy O.
+JO  - Environmental Challenges
+PY  - 2024
+DA  - 2024-12-01
+VL  - 17
+DO  - 10.1016/j.envc.2024.101026
+UR  - https://doi.org/10.1016/j.envc.2024.101026
+ER  - 
+
+TY  - JOUR
+TI  - Optimizing Exploration: Synergistic approaches to minimize false positives in pegmatite prospecting – A comprehensive guide for remote sensing and mineral exploration
+AU  - Santos D.
+JO  - Ore Geology Reviews
+PY  - 2024
+DA  - 2024-12-01
+VL  - 175
+DO  - 10.1016/j.oregeorev.2024.106347
+UR  - https://doi.org/10.1016/j.oregeorev.2024.106347
+ER  - 
+
+TY  - JOUR
+TI  - Detecting Vietnam War bomb craters in declassified historical KH-9 satellite imagery
+AU  - Barthelme P.
+JO  - Science of Remote Sensing
+PY  - 2024
+DA  - 2024-12-01
+VL  - 10
+DO  - 10.1016/j.srs.2024.100143
+UR  - https://doi.org/10.1016/j.srs.2024.100143
+ER  - 
+
+TY  - JOUR
+TI  - Analysis of vegetation dynamics from 2001 to 2020 in China's Ganzhou rare earth mining area using time series remote sensing and SHAP-enhanced machine learning
+AU  - Ming L.
+JO  - Ecological Informatics
+PY  - 2024
+DA  - 2024-12-01
+VL  - 84
+DO  - 10.1016/j.ecoinf.2024.102887
+UR  - https://doi.org/10.1016/j.ecoinf.2024.102887
+ER  - 
+
+TY  - JOUR
+TI  - Ecological condition of seagrass meadows around sea-based tin mining activities in the waters of Bangka Belitung Islands, Indonesia
+AU  - Adi W.
+JO  - Marine Pollution Bulletin
+PY  - 2024
+DA  - 2024-12-01
+VL  - 209
+DO  - 10.1016/j.marpolbul.2024.117151
+UR  - https://doi.org/10.1016/j.marpolbul.2024.117151
+ER  - 
+
+TY  - JOUR
+TI  - Unlocking the potential of remote sensing for arsenic contamination detection and management: Challenges and perspectives
+AU  - Agarwal V.
+JO  - Current Opinion in Environmental Science and Health
+PY  - 2024
+DA  - 2024-12-01
+VL  - 42
+DO  - 10.1016/j.coesh.2024.100578
+UR  - https://doi.org/10.1016/j.coesh.2024.100578
+ER  - 
+
+TY  - JOUR
+TI  - Applications of satellite platforms and machine learning for mapping and monitoring grasslands and pastures: A systematic and comprehensive review
+AU  - Pinna D.
+JO  - Smart Agricultural Technology
+PY  - 2024
+DA  - 2024-12-01
+VL  - 9
+DO  - 10.1016/j.atech.2024.100571
+UR  - https://doi.org/10.1016/j.atech.2024.100571
+ER  - 
+
+TY  - JOUR
+TI  - Geo-environmental monitoring of coastal and land resources for Coatzacoalcos coastal region
+AU  - Devarajan A.
+JO  - Journal of South American Earth Sciences
+PY  - 2024
+DA  - 2024-11-15
+VL  - 148
+DO  - 10.1016/j.jsames.2024.105119
+UR  - https://doi.org/10.1016/j.jsames.2024.105119
+ER  - 
+
+TY  - JOUR
+TI  - The evaluation of Small River water pollution caused by tailing spill in the Northeast of China using high-resolution images
+AU  - Hu Y.
+JO  - Environmental Impact Assessment Review
+PY  - 2024
+DA  - 2024-11-01
+VL  - 109
+DO  - 10.1016/j.eiar.2024.107633
+UR  - https://doi.org/10.1016/j.eiar.2024.107633
+ER  - 
+
+TY  - JOUR
+TI  - A new attention-based deep metric model for crop type mapping in complex agricultural landscapes using multisource remote sensing data
+AU  - Zheng Y.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2024
+DA  - 2024-11-01
+VL  - 134
+DO  - 10.1016/j.jag.2024.104204
+UR  - https://doi.org/10.1016/j.jag.2024.104204
+ER  - 
+
+TY  - JOUR
+TI  - Carbon footprints of tailings dams' disasters: A study in the Brumadinho region (Brazil)
+AU  - Mendes R.G.
+JO  - Science of the Total Environment
+PY  - 2024
+DA  - 2024-11-01
+VL  - 949
+DO  - 10.1016/j.scitotenv.2024.175026
+UR  - https://doi.org/10.1016/j.scitotenv.2024.175026
+ER  - 
+
+TY  - JOUR
+TI  - Geochemical characteristics and mapping of Reşadiye (Tokat-Türkiye) bentonite deposits using machine learning and sub-pixel mixture algorithms
+AU  - Canbaz O.
+JO  - Geochemistry
+PY  - 2024
+DA  - 2024-11-01
+VL  - 84
+IS  - 4
+DO  - 10.1016/j.chemer.2024.126123
+UR  - https://doi.org/10.1016/j.chemer.2024.126123
+ER  - 
+
+TY  - JOUR
+TI  - A remote sensing analysis method for soil heavy metal pollution sources at site scale considering source-sink relationships
+AU  - Wang Y.
+JO  - Science of the Total Environment
+PY  - 2024
+DA  - 2024-10-10
+VL  - 946
+DO  - 10.1016/j.scitotenv.2024.174021
+UR  - https://doi.org/10.1016/j.scitotenv.2024.174021
+ER  - 
+
+TY  - JOUR
+TI  - Machine learning in soil nutrient dynamics of alpine grasslands
+AU  - Jiang L.
+JO  - Science of the Total Environment
+PY  - 2024
+DA  - 2024-10-10
+VL  - 946
+DO  - 10.1016/j.scitotenv.2024.174295
+UR  - https://doi.org/10.1016/j.scitotenv.2024.174295
+ER  - 
+
+TY  - JOUR
+TI  - Dynamic monitoring of ecological restoration of abandoned mines based on GF-2 remote sensing images- Take Dawukou Ditch of Helan Mountain as an example
+AU  - Mao Z.
+JO  - Ecological Engineering
+PY  - 2024
+DA  - 2024-10-01
+VL  - 207
+DO  - 10.1016/j.ecoleng.2024.107304
+UR  - https://doi.org/10.1016/j.ecoleng.2024.107304
+ER  - 
+
+TY  - JOUR
+TI  - Mapping and analyzing the spatiotemporal dynamics of forest aboveground biomass in the ChangZhuTan urban agglomeration using a time series of Landsat images and meteorological data from 2010 to 2020
+AU  - Liu Z.
+JO  - Science of the Total Environment
+PY  - 2024
+DA  - 2024-09-20
+VL  - 944
+DO  - 10.1016/j.scitotenv.2024.173940
+UR  - https://doi.org/10.1016/j.scitotenv.2024.173940
+ER  - 
+
+TY  - JOUR
+TI  - Fine mapping of Hubei open pit mines via a multi-branch global–local-feature-based ConvFormer and a high-resolution benchmark
+AU  - Zhang X.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2024
+DA  - 2024-09-01
+VL  - 133
+DO  - 10.1016/j.jag.2024.104111
+UR  - https://doi.org/10.1016/j.jag.2024.104111
+ER  - 
+
+TY  - JOUR
+TI  - Explaining the decisions and the functioning of a convolutional spatiotemporal land cover classifier with channel attention and redescription mining
+AU  - Pelous E.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2024
+DA  - 2024-09-01
+VL  - 215
+SP  - 256-270
+DO  - 10.1016/j.isprsjprs.2024.06.021
+UR  - https://doi.org/10.1016/j.isprsjprs.2024.06.021
+ER  - 
+
+TY  - JOUR
+TI  - Data and knowledge-driven deep multiview fusion network based on diffusion model for hyperspectral image classification
+AU  - Zhang J.
+JO  - Expert Systems with Applications
+PY  - 2024
+DA  - 2024-09-01
+VL  - 249
+DO  - 10.1016/j.eswa.2024.123796
+UR  - https://doi.org/10.1016/j.eswa.2024.123796
+ER  - 
+
+TY  - JOUR
+TI  - Recent advances in mass spectrometry imaging combined with artificial intelligence for spatially clarifying molecular profiles: Toward biomedical applications
+AU  - Zhang H.
+JO  - Trac Trends in Analytical Chemistry
+PY  - 2024
+DA  - 2024-09-01
+VL  - 178
+DO  - 10.1016/j.trac.2024.117834
+UR  - https://doi.org/10.1016/j.trac.2024.117834
+ER  - 
+
+TY  - JOUR
+TI  - MCCANet: A multispectral class-constraint attentional neural network for object detection in mining scenes
+AU  - Wu Z.
+JO  - Expert Systems with Applications
+PY  - 2024
+DA  - 2024-08-01
+VL  - 247
+DO  - 10.1016/j.eswa.2024.123233
+UR  - https://doi.org/10.1016/j.eswa.2024.123233
+ER  - 
+
+TY  - JOUR
+TI  - Iron ore rock classification and mine remote sensing inversion based on spectroscopy and improved extreme learning machine
+AU  - Li Z.
+JO  - Infrared Physics and Technology
+PY  - 2024
+DA  - 2024-08-01
+VL  - 140
+DO  - 10.1016/j.infrared.2024.105400
+UR  - https://doi.org/10.1016/j.infrared.2024.105400
+ER  - 
+
+TY  - JOUR
+TI  - A temporal-spatial deep learning network for winter wheat mapping using time-series Sentinel-2 imagery
+AU  - Fan L.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2024
+DA  - 2024-08-01
+VL  - 214
+SP  - 48-64
+DO  - 10.1016/j.isprsjprs.2024.06.005
+UR  - https://doi.org/10.1016/j.isprsjprs.2024.06.005
+ER  - 
+
+TY  - JOUR
+TI  - Mapping a tropical regolith architecture: A comparative LANDSAT-8 and SENTINEL-2 analysis
+AU  - Silva B.C.d.
+JO  - Journal of South American Earth Sciences
+PY  - 2024
+DA  - 2024-08-01
+VL  - 141
+DO  - 10.1016/j.jsames.2024.104951
+UR  - https://doi.org/10.1016/j.jsames.2024.104951
+ER  - 
+
+TY  - JOUR
+TI  - Deep learning prediction of rainfall-driven debris flows considering the similar critical thresholds within comparable background conditions
+AU  - Jiang H.
+JO  - Environmental Modelling and Software
+PY  - 2024
+DA  - 2024-08-01
+VL  - 179
+DO  - 10.1016/j.envsoft.2024.106130
+UR  - https://doi.org/10.1016/j.envsoft.2024.106130
+ER  - 
+
+TY  - JOUR
+TI  - Optimizing alteration mineral detection: A fusion of multispectral and hyperspectral remote sensing techniques in the Sar-e-Chah-e Shur, Iran
+AU  - Habashi J.
+JO  - Remote Sensing Applications Society and Environment
+PY  - 2024
+DA  - 2024-08-01
+VL  - 35
+DO  - 10.1016/j.rsase.2024.101249
+UR  - https://doi.org/10.1016/j.rsase.2024.101249
+ER  - 
+
+TY  - JOUR
+TI  - Vectorized building extraction from high-resolution remote sensing images using spatial cognitive graph convolution model
+AU  - Du Z.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2024
+DA  - 2024-07-01
+VL  - 213
+SP  - 53-71
+DO  - 10.1016/j.isprsjprs.2024.05.015
+UR  - https://doi.org/10.1016/j.isprsjprs.2024.05.015
+ER  - 
+
+TY  - JOUR
+TI  - FieldSeg-DA2.0: Further enhancing the spatiotemporal transferability of an individual arable field (IAF) extraction network using multisource remote sensing and land cover data
+AU  - Tian C.
+JO  - Computers and Electronics in Agriculture
+PY  - 2024
+DA  - 2024-07-01
+VL  - 222
+DO  - 10.1016/j.compag.2024.109050
+UR  - https://doi.org/10.1016/j.compag.2024.109050
+ER  - 
+
+TY  - JOUR
+TI  - Simultaneous extraction of spatial and attributional building information across large-scale urban landscapes from high-resolution satellite imagery
+AU  - Qian Z.
+JO  - Sustainable Cities and Society
+PY  - 2024
+DA  - 2024-07-01
+VL  - 106
+DO  - 10.1016/j.scs.2024.105393
+UR  - https://doi.org/10.1016/j.scs.2024.105393
+ER  - 
+
+TY  - JOUR
+TI  - Pixel-based spatiotemporal statistics from remotely sensed imagery improves spatial predictions and sampling strategies of alluvial soils
+AU  - Mancini M.
+JO  - Geoderma
+PY  - 2024
+DA  - 2024-07-01
+VL  - 447
+DO  - 10.1016/j.geoderma.2024.116919
+UR  - https://doi.org/10.1016/j.geoderma.2024.116919
+ER  - 
+
+TY  - JOUR
+TI  - A systematic review of hyperspectral imaging in precision agriculture: Analysis of its current state and future prospects
+AU  - Ram B.G.
+JO  - Computers and Electronics in Agriculture
+PY  - 2024
+DA  - 2024-07-01
+VL  - 222
+DO  - 10.1016/j.compag.2024.109037
+UR  - https://doi.org/10.1016/j.compag.2024.109037
+ER  - 
+
+TY  - JOUR
+TI  - EarthVQANet: Multi-task visual question answering for remote sensing image understanding
+AU  - Wang J.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2024
+DA  - 2024-06-01
+VL  - 212
+SP  - 422-439
+DO  - 10.1016/j.isprsjprs.2024.05.001
+UR  - https://doi.org/10.1016/j.isprsjprs.2024.05.001
+ER  - 
+
+TY  - JOUR
+TI  - A graph-based neural network approach to integrate multi-source data for urban building function classification
+AU  - Kong B.
+JO  - Computers Environment and Urban Systems
+PY  - 2024
+DA  - 2024-06-01
+VL  - 110
+DO  - 10.1016/j.compenvurbsys.2024.102094
+UR  - https://doi.org/10.1016/j.compenvurbsys.2024.102094
+ER  - 
+
+TY  - JOUR
+TI  - A remote sensing based index for assessing long-term ecological impact in arid mined land
+AU  - Meng D.
+JO  - Environmental and Sustainability Indicators
+PY  - 2024
+DA  - 2024-06-01
+VL  - 22
+DO  - 10.1016/j.indic.2024.100364
+UR  - https://doi.org/10.1016/j.indic.2024.100364
+ER  - 
+
+TY  - JOUR
+TI  - Disentangling the drivers of deforestation and forest degradation in the Miombo landscape: A case study from Mozambique
+AU  - Nogueira Lisboa S.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2024
+DA  - 2024-06-01
+VL  - 130
+DO  - 10.1016/j.jag.2024.103904
+UR  - https://doi.org/10.1016/j.jag.2024.103904
+ER  - 
+
+TY  - JOUR
+TI  - Deep Siamese Network for annual change detection in Beijing using Landsat satellite data
+AU  - Bao H.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2024
+DA  - 2024-06-01
+VL  - 130
+DO  - 10.1016/j.jag.2024.103897
+UR  - https://doi.org/10.1016/j.jag.2024.103897
+ER  - 
+
+TY  - JOUR
+TI  - Methods and datasets on semantic segmentation for Unmanned Aerial Vehicle remote sensing images: A review
+AU  - Cheng J.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2024
+DA  - 2024-05-01
+VL  - 211
+SP  - 1-34
+DO  - 10.1016/j.isprsjprs.2024.03.012
+UR  - https://doi.org/10.1016/j.isprsjprs.2024.03.012
+ER  - 
+
+TY  - JOUR
+TI  - GlobalMind: Global multi-head interactive self-attention network for hyperspectral change detection
+AU  - Hu M.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2024
+DA  - 2024-05-01
+VL  - 211
+SP  - 465-483
+DO  - 10.1016/j.isprsjprs.2024.04.002
+UR  - https://doi.org/10.1016/j.isprsjprs.2024.04.002
+ER  - 
+
+TY  - JOUR
+TI  - Flood susceptibility mapping using a novel integration of multi-temporal sentinel-1 data and eXtreme deep learning model
+AU  - Al-Ruzouq R.
+JO  - Geoscience Frontiers
+PY  - 2024
+DA  - 2024-05-01
+VL  - 15
+IS  - 3
+DO  - 10.1016/j.gsf.2024.101780
+UR  - https://doi.org/10.1016/j.gsf.2024.101780
+ER  - 
+
+TY  - JOUR
+TI  - Assessing the impact of gold mining on forest cover in the Surinamese Amazon from 1997 to 2019: A semi-automated satellite-based approach
+AU  - Quash Y.
+JO  - Ecological Informatics
+PY  - 2024
+DA  - 2024-05-01
+VL  - 80
+DO  - 10.1016/j.ecoinf.2023.102442
+UR  - https://doi.org/10.1016/j.ecoinf.2023.102442
+ER  - 
+
+TY  - JOUR
+TI  - Lithological mapping of Nidar ophiolite complex, Ladakh using high-resolution data
+AU  - Chauhan M.
+JO  - Advances in Space Research
+PY  - 2024
+DA  - 2024-04-15
+VL  - 73
+IS  - 8
+SP  - 4091-4105
+DO  - 10.1016/j.asr.2024.01.006
+UR  - https://doi.org/10.1016/j.asr.2024.01.006
+ER  - 
+
+TY  - JOUR
+TI  - NCGLF2: Network combining global and local features for fusion of multisource remote sensing data
+AU  - Tu B.
+JO  - Information Fusion
+PY  - 2024
+DA  - 2024-04-01
+VL  - 104
+DO  - 10.1016/j.inffus.2023.102192
+UR  - https://doi.org/10.1016/j.inffus.2023.102192
+ER  - 
+
+TY  - JOUR
+TI  - Mapping stony rise landforms using a novel remote sensing, geophysical, and machine learning approach
+AU  - Fraser S.
+JO  - Geomorphology
+PY  - 2024
+DA  - 2024-04-01
+VL  - 450
+DO  - 10.1016/j.geomorph.2024.109070
+UR  - https://doi.org/10.1016/j.geomorph.2024.109070
+ER  - 
+
+TY  - JOUR
+TI  - Minor mining, major influence: Economic implications and policy challenges of artisanal gold mining
+AU  - Yu M.
+JO  - Resources Policy
+PY  - 2024
+DA  - 2024-04-01
+VL  - 91
+DO  - 10.1016/j.resourpol.2024.104886
+UR  - https://doi.org/10.1016/j.resourpol.2024.104886
+ER  - 
+
+TY  - JOUR
+TI  - Spatiotemporal mapping of urban trade and shopping patterns: A geospatial big data approach
+AU  - Feizizadeh B.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2024
+DA  - 2024-04-01
+VL  - 128
+DO  - 10.1016/j.jag.2024.103764
+UR  - https://doi.org/10.1016/j.jag.2024.103764
+ER  - 
+
+TY  - JOUR
+TI  - A dual-branch siamese spatial-spectral transformer attention network for Hyperspectral Image Change Detection
+AU  - Zhang Y.
+JO  - Expert Systems with Applications
+PY  - 2024
+DA  - 2024-03-15
+VL  - 238
+DO  - 10.1016/j.eswa.2023.122125
+UR  - https://doi.org/10.1016/j.eswa.2023.122125
+ER  - 
+
+TY  - JOUR
+TI  - InSAR and machine learning reveal new understanding of coastal subsidence risk in the Yellow River Delta, China
+AU  - Wang G.
+JO  - Science of the Total Environment
+PY  - 2024
+DA  - 2024-03-10
+VL  - 915
+DO  - 10.1016/j.scitotenv.2024.170203
+UR  - https://doi.org/10.1016/j.scitotenv.2024.170203
+ER  - 
+
+TY  - JOUR
+TI  - Progressive pseudo-label framework for unsupervised hyperspectral change detection
+AU  - Li Q.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2024
+DA  - 2024-03-01
+VL  - 127
+DO  - 10.1016/j.jag.2024.103663
+UR  - https://doi.org/10.1016/j.jag.2024.103663
+ER  - 
+
+TY  - JOUR
+TI  - Remote sensing detection and mapping of plastic greenhouses based on YOLOX+: A case study in Weifang, China
+AU  - Liu X.
+JO  - Computers and Electronics in Agriculture
+PY  - 2024
+DA  - 2024-03-01
+VL  - 218
+DO  - 10.1016/j.compag.2024.108702
+UR  - https://doi.org/10.1016/j.compag.2024.108702
+ER  - 
+
+TY  - JOUR
+TI  - Catalyzing net-zero carbon strategies: Enhancing CO2 flux Prediction from underground coal fires using optimized machine learning models
+AU  - Zhang H.
+JO  - Journal of Cleaner Production
+PY  - 2024
+DA  - 2024-02-15
+VL  - 441
+DO  - 10.1016/j.jclepro.2024.141043
+UR  - https://doi.org/10.1016/j.jclepro.2024.141043
+ER  - 
+
+TY  - JOUR
+TI  - A real-time SVM-based hardware accelerator for hyperspectral images classification in FPGA
+AU  - Martins L.A.
+JO  - Microprocessors and Microsystems
+PY  - 2024
+DA  - 2024-02-01
+VL  - 104
+DO  - 10.1016/j.micpro.2023.104998
+UR  - https://doi.org/10.1016/j.micpro.2023.104998
+ER  - 
+
+TY  - JOUR
+TI  - Geotechnical characterisation of coal spoil piles using high-resolution optical and multispectral data: A machine learning approach
+AU  - Thiruchittampalam S.
+JO  - Engineering Geology
+PY  - 2024
+DA  - 2024-02-01
+VL  - 329
+DO  - 10.1016/j.enggeo.2024.107406
+UR  - https://doi.org/10.1016/j.enggeo.2024.107406
+ER  - 
+
+TY  - JOUR
+TI  - Mapping vertical distribution of SOC and TN in reclaimed mine soils using point and imaging spectroscopy
+AU  - Peng S.
+JO  - Ecological Indicators
+PY  - 2024
+DA  - 2024-01-01
+VL  - 158
+DO  - 10.1016/j.ecolind.2023.111437
+UR  - https://doi.org/10.1016/j.ecolind.2023.111437
+ER  - 
+
+TY  - JOUR
+TI  - Evaluation and quantitative characterization for the ecological environment impact of open pit mining on vegetation destruction from landsat time series: A case study of Wulishan limestone mine
+AU  - Li N.
+JO  - Ecological Indicators
+PY  - 2024
+DA  - 2024-01-01
+VL  - 158
+DO  - 10.1016/j.ecolind.2023.111371
+UR  - https://doi.org/10.1016/j.ecolind.2023.111371
+ER  - 
+
+TY  - JOUR
+TI  - MFFSP: Multi-scale feature fusion scene parsing network for landslides detection based on high-resolution satellite images
+AU  - Li P.
+JO  - Engineering Applications of Artificial Intelligence
+PY  - 2024
+DA  - 2024-01-01
+VL  - 127
+DO  - 10.1016/j.engappai.2023.107337
+UR  - https://doi.org/10.1016/j.engappai.2023.107337
+ER  - 
+
+TY  - JOUR
+TI  - Winter wheat yield estimation at the field scale using sentinel-2 data and deep learning
+AU  - Xiao G.
+JO  - Computers and Electronics in Agriculture
+PY  - 2024
+DA  - 2024-01-01
+VL  - 216
+DO  - 10.1016/j.compag.2023.108555
+UR  - https://doi.org/10.1016/j.compag.2023.108555
+ER  - 
+
+TY  - JOUR
+TI  - Spatial variability of some heavy metals in arid harrats soils: Combining machine learning algorithms and synthetic indexes based-multitemporal Landsat 8/9 to establish background levels
+AU  - Sulieman M.M.
+JO  - Catena
+PY  - 2024
+DA  - 2024-01-01
+VL  - 234
+DO  - 10.1016/j.catena.2023.107579
+UR  - https://doi.org/10.1016/j.catena.2023.107579
+ER  - 
+
+TY  - JOUR
+TI  - Multiple vision architectures-based hybrid network for hyperspectral image classification
+AU  - Zhao F.
+JO  - Expert Systems with Applications
+PY  - 2023
+DA  - 2023-12-30
+VL  - 234
+DO  - 10.1016/j.eswa.2023.121032
+UR  - https://doi.org/10.1016/j.eswa.2023.121032
+ER  - 
+
+TY  - JOUR
+TI  - A novel multi-strategy hydrological feature extraction (MHFE) method to improve urban waterlogging risk prediction, a case study of Fuzhou City in China
+AU  - Huang H.
+JO  - Science of the Total Environment
+PY  - 2023
+DA  - 2023-12-15
+VL  - 904
+DO  - 10.1016/j.scitotenv.2023.165834
+UR  - https://doi.org/10.1016/j.scitotenv.2023.165834
+ER  - 
+
+TY  - JOUR
+TI  - Multiscale probability map guided index pooling with attention-based learning for road and building segmentation
+AU  - Bose S.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2023
+DA  - 2023-12-01
+VL  - 206
+SP  - 132-148
+DO  - 10.1016/j.isprsjprs.2023.11.002
+UR  - https://doi.org/10.1016/j.isprsjprs.2023.11.002
+ER  - 
+
+TY  - JOUR
+TI  - A comparative evaluation of deep convolutional neural network and deep neural network-based land use/land cover classifications of mining regions using fused multi-sensor satellite data
+AU  - Kumar A.
+JO  - Advances in Space Research
+PY  - 2023
+DA  - 2023-12-01
+VL  - 72
+IS  - 11
+SP  - 4663-4676
+DO  - 10.1016/j.asr.2023.08.057
+UR  - https://doi.org/10.1016/j.asr.2023.08.057
+ER  - 
+
+TY  - JOUR
+TI  - A triplet graph convolutional network with attention and similarity-driven dictionary learning for remote sensing image retrieval
+AU  - Regan J.
+JO  - Expert Systems with Applications
+PY  - 2023
+DA  - 2023-12-01
+VL  - 232
+DO  - 10.1016/j.eswa.2023.120579
+UR  - https://doi.org/10.1016/j.eswa.2023.120579
+ER  - 
+
+TY  - JOUR
+TI  - MFFCG – Multi feature fusion for hyperspectral image classification using graph attention network
+AU  - Bhatti U.A.
+JO  - Expert Systems with Applications
+PY  - 2023
+DA  - 2023-11-01
+VL  - 229
+DO  - 10.1016/j.eswa.2023.120496
+UR  - https://doi.org/10.1016/j.eswa.2023.120496
+ER  - 
+
+TY  - JOUR
+TI  - Improving agricultural field parcel delineation with a dual branch spatiotemporal fusion network by integrating multimodal satellite data
+AU  - Cai Z.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2023
+DA  - 2023-11-01
+VL  - 205
+SP  - 34-49
+DO  - 10.1016/j.isprsjprs.2023.09.021
+UR  - https://doi.org/10.1016/j.isprsjprs.2023.09.021
+ER  - 
+
+TY  - JOUR
+TI  - Atmospheric correction algorithm based on deep learning with spatial-spectral feature constraints for broadband optical satellites: Examples from the HY-1C Coastal Zone Imager
+AU  - Zhao X.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2023
+DA  - 2023-11-01
+VL  - 205
+SP  - 147-162
+DO  - 10.1016/j.isprsjprs.2023.10.006
+UR  - https://doi.org/10.1016/j.isprsjprs.2023.10.006
+ER  - 
+
+TY  - JOUR
+TI  - A dual-branch weakly supervised learning based network for accurate mapping of woody vegetation from remote sensing images
+AU  - Cheng Y.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2023
+DA  - 2023-11-01
+VL  - 124
+DO  - 10.1016/j.jag.2023.103499
+UR  - https://doi.org/10.1016/j.jag.2023.103499
+ER  - 
+
+TY  - JOUR
+TI  - Fine-grained agricultural and pastoral information extraction using Sentinel-1 and Sentinel-2 intra-year time series in Jingyang District, Deyang City
+AU  - Zhu L.
+JO  - Advances in Space Research
+PY  - 2023
+DA  - 2023-11-01
+VL  - 72
+IS  - 9
+SP  - 4031-4047
+DO  - 10.1016/j.asr.2023.07.061
+UR  - https://doi.org/10.1016/j.asr.2023.07.061
+ER  - 
+
+TY  - JOUR
+TI  - Identifying active retrogressive thaw slumps from ArcticDEM
+AU  - Huang L.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2023
+DA  - 2023-11-01
+VL  - 205
+SP  - 301-316
+DO  - 10.1016/j.isprsjprs.2023.10.008
+UR  - https://doi.org/10.1016/j.isprsjprs.2023.10.008
+ER  - 
+
+TY  - JOUR
+TI  - Active learning based on similarity level histogram and adaptive-scale sampling for very high resolution image classification
+AU  - Li G.
+JO  - Neural Networks
+PY  - 2023
+DA  - 2023-10-01
+VL  - 167
+SP  - 22-35
+DO  - 10.1016/j.neunet.2023.08.012
+UR  - https://doi.org/10.1016/j.neunet.2023.08.012
+ER  - 
+
+TY  - JOUR
+TI  - Ship detection in haze and low-light remote sensing images via colour balance and DCNN
+AU  - Song R.
+JO  - Applied Ocean Research
+PY  - 2023
+DA  - 2023-10-01
+VL  - 139
+DO  - 10.1016/j.apor.2023.103702
+UR  - https://doi.org/10.1016/j.apor.2023.103702
+ER  - 
+
+TY  - JOUR
+TI  - An efficient multiscale integrated attention method combined with hyperspectral system to identify the quality of rice with different storage periods and humidity
+AU  - Kang S.
+JO  - Computers and Electronics in Agriculture
+PY  - 2023
+DA  - 2023-10-01
+VL  - 213
+DO  - 10.1016/j.compag.2023.108259
+UR  - https://doi.org/10.1016/j.compag.2023.108259
+ER  - 
+
+TY  - JOUR
+TI  - Near-Infrared II Hyperspectral Imaging Improves the Accuracy of Pathological Sampling of Multiple Cancer Types
+AU  - Zhang L.
+JO  - Laboratory Investigation
+PY  - 2023
+DA  - 2023-10-01
+VL  - 103
+IS  - 10
+DO  - 10.1016/j.labinv.2023.100212
+UR  - https://doi.org/10.1016/j.labinv.2023.100212
+ER  - 
+
+TY  - JOUR
+TI  - Monitoring total suspended solids concentration in Poyang Lake via machine learning and Landsat images
+AU  - Chen J.
+JO  - Journal of Hydrology Regional Studies
+PY  - 2023
+DA  - 2023-10-01
+VL  - 49
+DO  - 10.1016/j.ejrh.2023.101499
+UR  - https://doi.org/10.1016/j.ejrh.2023.101499
+ER  - 
+
+TY  - JOUR
+TI  - Hg and As pollution in the soil-plant system evaluated by combining multispectral UAV-RS, geochemical survey and machine learning
+AU  - Salgado L.
+JO  - Environmental Pollution
+PY  - 2023
+DA  - 2023-09-15
+VL  - 333
+DO  - 10.1016/j.envpol.2023.122066
+UR  - https://doi.org/10.1016/j.envpol.2023.122066
+ER  - 
+
+TY  - JOUR
+TI  - From local context-aware to non-local: A road extraction network via guidance of multi-spectral image
+AU  - Du Y.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2023
+DA  - 2023-09-01
+VL  - 203
+SP  - 230-245
+DO  - 10.1016/j.isprsjprs.2023.07.026
+UR  - https://doi.org/10.1016/j.isprsjprs.2023.07.026
+ER  - 
+
+TY  - JOUR
+TI  - Monitoring direct drivers of small-scale tropical forest disturbance in near real-time with Sentinel-1 and -2 data
+AU  - Slagter B.
+JO  - Remote Sensing of Environment
+PY  - 2023
+DA  - 2023-09-01
+VL  - 295
+DO  - 10.1016/j.rse.2023.113655
+UR  - https://doi.org/10.1016/j.rse.2023.113655
+ER  - 
+
+TY  - JOUR
+TI  - Hierarchical extraction of cropland boundaries using Sentinel-2 time-series data in fragmented agricultural landscapes
+AU  - Song W.
+JO  - Computers and Electronics in Agriculture
+PY  - 2023
+DA  - 2023-09-01
+VL  - 212
+DO  - 10.1016/j.compag.2023.108097
+UR  - https://doi.org/10.1016/j.compag.2023.108097
+ER  - 
+
+TY  - JOUR
+TI  - A review on advancements in lithological mapping utilizing machine learning algorithms and remote sensing data
+AU  - EL-Omairi M.A.
+JO  - Heliyon
+PY  - 2023
+DA  - 2023-09-01
+VL  - 9
+IS  - 9
+DO  - 10.1016/j.heliyon.2023.e20168
+UR  - https://doi.org/10.1016/j.heliyon.2023.e20168
+ER  - 
+
+TY  - JOUR
+TI  - Inversion of soil heavy metals in metal tailings area based on different spectral transformation and modeling methods
+AU  - Yang N.
+JO  - Heliyon
+PY  - 2023
+DA  - 2023-09-01
+VL  - 9
+IS  - 9
+DO  - 10.1016/j.heliyon.2023.e19782
+UR  - https://doi.org/10.1016/j.heliyon.2023.e19782
+ER  - 
+
+TY  - JOUR
+TI  - Identification of white degradable and non-degradable plastics in food field: A dynamic residual network coupled with hyperspectral technology
+AU  - Xia X.
+JO  - Spectrochimica Acta Part A Molecular and Biomolecular Spectroscopy
+PY  - 2023
+DA  - 2023-08-05
+VL  - 296
+DO  - 10.1016/j.saa.2023.122686
+UR  - https://doi.org/10.1016/j.saa.2023.122686
+ER  - 
+
+TY  - JOUR
+TI  - A Multispectral Dataset for the Detection of Tuta Absoluta and Leveillula Taurica in Tomato Plants
+AU  - Georgantopoulos P.S.
+JO  - Smart Agricultural Technology
+PY  - 2023
+DA  - 2023-08-01
+VL  - 4
+DO  - 10.1016/j.atech.2022.100146
+UR  - https://doi.org/10.1016/j.atech.2022.100146
+ER  - 
+
+TY  - JOUR
+TI  - UAV-borne hyperspectral estimation of nitrogen content in tobacco leaves based on ensemble learning methods
+AU  - Zhang M.
+JO  - Computers and Electronics in Agriculture
+PY  - 2023
+DA  - 2023-08-01
+VL  - 211
+DO  - 10.1016/j.compag.2023.108008
+UR  - https://doi.org/10.1016/j.compag.2023.108008
+ER  - 
+
+TY  - JOUR
+TI  - Spatiotemporal characteristics of ozone and the formation sensitivity over the Fenwei Plain
+AU  - Ren H.H.
+JO  - Science of the Total Environment
+PY  - 2023
+DA  - 2023-07-10
+VL  - 881
+DO  - 10.1016/j.scitotenv.2023.163369
+UR  - https://doi.org/10.1016/j.scitotenv.2023.163369
+ER  - 
+
+TY  - JOUR
+TI  - Self-supervision assisted multimodal remote sensing image classification with coupled self-looping convolution networks
+AU  - Pande S.
+JO  - Neural Networks
+PY  - 2023
+DA  - 2023-07-01
+VL  - 164
+SP  - 1-20
+DO  - 10.1016/j.neunet.2023.04.019
+UR  - https://doi.org/10.1016/j.neunet.2023.04.019
+ER  - 
+
+TY  - JOUR
+TI  - Unsupervised ore/waste classification on open-cut mine faces using close-range hyperspectral data
+AU  - Windrim L.
+JO  - Geoscience Frontiers
+PY  - 2023
+DA  - 2023-07-01
+VL  - 14
+IS  - 4
+DO  - 10.1016/j.gsf.2023.101562
+UR  - https://doi.org/10.1016/j.gsf.2023.101562
+ER  - 
+
+TY  - JOUR
+TI  - Identifying mangroves through knowledge extracted from trained random forest models: An interpretable mangrove mapping approach (IMMA)
+AU  - Zhao C.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2023
+DA  - 2023-07-01
+VL  - 201
+SP  - 209-225
+DO  - 10.1016/j.isprsjprs.2023.05.025
+UR  - https://doi.org/10.1016/j.isprsjprs.2023.05.025
+ER  - 
+
+TY  - JOUR
+TI  - Mapping floods from remote sensing data and quantifying the effects of surface obstruction by clouds and vegetation
+AU  - Shastry A.
+JO  - Remote Sensing of Environment
+PY  - 2023
+DA  - 2023-06-01
+VL  - 291
+DO  - 10.1016/j.rse.2023.113556
+UR  - https://doi.org/10.1016/j.rse.2023.113556
+ER  - 
+
+TY  - JOUR
+TI  - Simultaneous extracting area and quantity of agricultural greenhouses in large scale with deep learning method and high-resolution remote sensing images
+AU  - Wang Q.
+JO  - Science of the Total Environment
+PY  - 2023
+DA  - 2023-05-10
+VL  - 872
+DO  - 10.1016/j.scitotenv.2023.162229
+UR  - https://doi.org/10.1016/j.scitotenv.2023.162229
+ER  - 
+
+TY  - JOUR
+TI  - A deep residual convolutional neural network for mineral classification
+AU  - Agrawal N.
+JO  - Advances in Space Research
+PY  - 2023
+DA  - 2023-04-15
+VL  - 71
+IS  - 8
+SP  - 3186-3202
+DO  - 10.1016/j.asr.2022.12.028
+UR  - https://doi.org/10.1016/j.asr.2022.12.028
+ER  - 
+
+TY  - JOUR
+TI  - Unsupervised detection of InSAR time series patterns based on PCA and K-means clustering
+AU  - Festa D.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2023
+DA  - 2023-04-01
+VL  - 118
+DO  - 10.1016/j.jag.2023.103276
+UR  - https://doi.org/10.1016/j.jag.2023.103276
+ER  - 
+
+TY  - JOUR
+TI  - Mapping soil available copper content in the mine tailings pond with combined simulated annealing deep neural network and UAV hyperspectral images
+AU  - Zhang Y.
+JO  - Environmental Pollution
+PY  - 2023
+DA  - 2023-03-01
+VL  - 320
+DO  - 10.1016/j.envpol.2022.120962
+UR  - https://doi.org/10.1016/j.envpol.2022.120962
+ER  - 
+
+TY  - JOUR
+TI  - Quantitative aflatoxin B1 detection and mining key wavelengths based on deep learning and hyperspectral imaging in subpixel level
+AU  - Zhu H.
+JO  - Computers and Electronics in Agriculture
+PY  - 2023
+DA  - 2023-03-01
+VL  - 206
+DO  - 10.1016/j.compag.2022.107561
+UR  - https://doi.org/10.1016/j.compag.2022.107561
+ER  - 
+
+TY  - JOUR
+TI  - Fast and label-free automated detection of microsatellite status in early colon cancer using artificial intelligence integrated infrared imaging
+AU  - Gerwert K.
+JO  - European Journal of Cancer
+PY  - 2023
+DA  - 2023-03-01
+VL  - 182
+SP  - 122-131
+DO  - 10.1016/j.ejca.2022.12.026
+UR  - https://doi.org/10.1016/j.ejca.2022.12.026
+ER  - 
+
+TY  - JOUR
+TI  - MOL: Towards accurate weakly supervised remote sensing object detection via Multi-view nOisy Learning
+AU  - Wang G.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2023
+DA  - 2023-02-01
+VL  - 196
+SP  - 457-470
+DO  - 10.1016/j.isprsjprs.2023.01.011
+UR  - https://doi.org/10.1016/j.isprsjprs.2023.01.011
+ER  - 
+
+TY  - JOUR
+TI  - Fusing high-resolution multispectral image with trajectory for user next travel location prediction
+AU  - Xu C.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2023
+DA  - 2023-02-01
+VL  - 116
+DO  - 10.1016/j.jag.2022.103135
+UR  - https://doi.org/10.1016/j.jag.2022.103135
+ER  - 
+
+TY  - JOUR
+TI  - Large-scale burn severity mapping in multispectral imagery using deep semantic segmentation models
+AU  - Hu X.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2023
+DA  - 2023-02-01
+VL  - 196
+SP  - 228-240
+DO  - 10.1016/j.isprsjprs.2022.12.026
+UR  - https://doi.org/10.1016/j.isprsjprs.2022.12.026
+ER  - 
+
+TY  - JOUR
+TI  - DBFGAN: Dual Branch Feature Guided Aggregation Network for remote sensing image
+AU  - Chu S.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2023
+DA  - 2023-02-01
+VL  - 116
+DO  - 10.1016/j.jag.2022.103141
+UR  - https://doi.org/10.1016/j.jag.2022.103141
+ER  - 
+
+TY  - JOUR
+TI  - Intelligent classification model of land resource use using deep learning in remote sensing images
+AU  - Liao Q.
+JO  - Ecological Modelling
+PY  - 2023
+DA  - 2023-01-01
+VL  - 475
+DO  - 10.1016/j.ecolmodel.2022.110231
+UR  - https://doi.org/10.1016/j.ecolmodel.2022.110231
+ER  - 
+
+TY  - JOUR
+TI  - Design of an optimized deep learning algorithm for automatic classification of high-resolution satellite dataset (LISS IV) for studying land-use patterns in a mining region
+AU  - Kumar A.
+JO  - Computers and Geosciences
+PY  - 2023
+DA  - 2023-01-01
+VL  - 170
+DO  - 10.1016/j.cageo.2022.105251
+UR  - https://doi.org/10.1016/j.cageo.2022.105251
+ER  - 
+
+TY  - JOUR
+TI  - A spatial distance-based spatial clustering algorithm for sparse image data
+AU  - Zhang T.f.
+JO  - Alexandria Engineering Journal
+PY  - 2022
+DA  - 2022-12-01
+VL  - 61
+IS  - 12
+SP  - 12609-12622
+DO  - 10.1016/j.aej.2022.06.045
+UR  - https://doi.org/10.1016/j.aej.2022.06.045
+ER  - 
+
+TY  - JOUR
+TI  - Efficiency of convolutional neural networks (CNN) based image classification for monitoring construction related activities: A case study on aggregate mining for concrete production
+AU  - Yeşilmen S.
+JO  - Case Studies in Construction Materials
+PY  - 2022
+DA  - 2022-12-01
+VL  - 17
+DO  - 10.1016/j.cscm.2022.e01372
+UR  - https://doi.org/10.1016/j.cscm.2022.e01372
+ER  - 
+
+TY  - JOUR
+TI  - Identifying distinct plastics in hyperspectral experimental lab-, aircraft-, and satellite data using machine/deep learning methods trained with synthetically mixed spectral data
+AU  - Zhou S.
+JO  - Remote Sensing of Environment
+PY  - 2022
+DA  - 2022-11-01
+VL  - 281
+DO  - 10.1016/j.rse.2022.113263
+UR  - https://doi.org/10.1016/j.rse.2022.113263
+ER  - 
+
+TY  - JOUR
+TI  - Effective delineation of rare metal-bearing granites from remote sensing data using machine learning methods: A case study from the Umm Naggat Area, Central Eastern Desert, Egypt
+AU  - Abdelkader M.A.
+JO  - Ore Geology Reviews
+PY  - 2022
+DA  - 2022-11-01
+VL  - 150
+DO  - 10.1016/j.oregeorev.2022.105184
+UR  - https://doi.org/10.1016/j.oregeorev.2022.105184
+ER  - 
+
+TY  - JOUR
+TI  - Using artificial intelligence and data fusion for environmental monitoring: A review and future perspectives
+AU  - Himeur Y.
+JO  - Information Fusion
+PY  - 2022
+DA  - 2022-10-01
+VL  - 86-87
+SP  - 44-75
+DO  - 10.1016/j.inffus.2022.06.003
+UR  - https://doi.org/10.1016/j.inffus.2022.06.003
+ER  - 
+
+TY  - JOUR
+TI  - Predicting individual apple tree yield using UAV multi-source remote sensing data and ensemble learning
+AU  - Chen R.
+JO  - Computers and Electronics in Agriculture
+PY  - 2022
+DA  - 2022-10-01
+VL  - 201
+DO  - 10.1016/j.compag.2022.107275
+UR  - https://doi.org/10.1016/j.compag.2022.107275
+ER  - 
+
+TY  - JOUR
+TI  - Deep learning high resolution burned area mapping by transfer learning from Landsat-8 to PlanetScope
+AU  - Martins V.S.
+JO  - Remote Sensing of Environment
+PY  - 2022
+DA  - 2022-10-01
+VL  - 280
+DO  - 10.1016/j.rse.2022.113203
+UR  - https://doi.org/10.1016/j.rse.2022.113203
+ER  - 
+
+TY  - JOUR
+TI  - Hyperspectral dark-field microscopy for pathogen detection based on spectral angle mapping
+AU  - Zheng L.
+JO  - Sensors and Actuators B Chemical
+PY  - 2022
+DA  - 2022-09-15
+VL  - 367
+DO  - 10.1016/j.snb.2022.132042
+UR  - https://doi.org/10.1016/j.snb.2022.132042
+ER  - 
+
+TY  - JOUR
+TI  - A Bayesian optimal convolutional neural network approach for classification of coal and gangue with multispectral imaging
+AU  - Hu F.
+JO  - Optics and Lasers in Engineering
+PY  - 2022
+DA  - 2022-09-01
+VL  - 156
+DO  - 10.1016/j.optlaseng.2022.107081
+UR  - https://doi.org/10.1016/j.optlaseng.2022.107081
+ER  - 
+
+TY  - JOUR
+TI  - A label-free technique to quantify and visualize gold nanoparticle accumulation at the single-cell level
+AU  - Wang C.
+JO  - Chemosphere
+PY  - 2022
+DA  - 2022-09-01
+VL  - 302
+DO  - 10.1016/j.chemosphere.2022.134857
+UR  - https://doi.org/10.1016/j.chemosphere.2022.134857
+ER  - 
+
+TY  - JOUR
+TI  - Greenwashing in the US metal industry? A novel approach combining SO2 concentrations from satellite data, a plant-level firm database and web text mining
+AU  - Schmidt S.
+JO  - Science of the Total Environment
+PY  - 2022
+DA  - 2022-08-20
+VL  - 835
+DO  - 10.1016/j.scitotenv.2022.155512
+UR  - https://doi.org/10.1016/j.scitotenv.2022.155512
+ER  - 
+
+TY  - JOUR
+TI  - Mask R-CNN based automated identification and extraction of oil well sites
+AU  - He H.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2022
+DA  - 2022-08-01
+VL  - 112
+DO  - 10.1016/j.jag.2022.102875
+UR  - https://doi.org/10.1016/j.jag.2022.102875
+ER  - 
+
+TY  - JOUR
+TI  - Multi-resolution terrestrial hyperspectral dataset for spectral unmixing problems
+AU  - Manohar Kumar C.V.S.S.
+JO  - Data in Brief
+PY  - 2022
+DA  - 2022-08-01
+VL  - 43
+DO  - 10.1016/j.dib.2022.108331
+UR  - https://doi.org/10.1016/j.dib.2022.108331
+ER  - 
+
+TY  - JOUR
+TI  - A multi-angle comprehensive solution based on deep learning to extract cultivated land information from high-resolution remote sensing images
+AU  - Liu Z.
+JO  - Ecological Indicators
+PY  - 2022
+DA  - 2022-08-01
+VL  - 141
+DO  - 10.1016/j.ecolind.2022.108961
+UR  - https://doi.org/10.1016/j.ecolind.2022.108961
+ER  - 
+
+TY  - JOUR
+TI  - Recent expansion of artisanal gold mining along the Bandama River (Côte d'Ivoire)
+AU  - Ngom N.M.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2022
+DA  - 2022-08-01
+VL  - 112
+DO  - 10.1016/j.jag.2022.102873
+UR  - https://doi.org/10.1016/j.jag.2022.102873
+ER  - 
+
+TY  - JOUR
+TI  - Impact assessment of humanitarian demining using object-based peri-urban land cover classification and morphological building detection from VHR Worldview imagery
+AU  - Killeen J.
+JO  - Remote Sensing Applications Society and Environment
+PY  - 2022
+DA  - 2022-08-01
+VL  - 27
+DO  - 10.1016/j.rsase.2022.100766
+UR  - https://doi.org/10.1016/j.rsase.2022.100766
+ER  - 
+
+TY  - JOUR
+TI  - Laser-Induced Breakdown Spectroscopy and Hyperspectral Imaging Data Fusion for improved Mineralogical Analysis of Copper Concentrates
+AU  - Fuentes R.
+JO  - IFAC Papersonline
+PY  - 2022
+DA  - 2022-08-01
+VL  - 55
+IS  - 21
+SP  - 85-90
+DO  - 10.1016/j.ifacol.2022.09.248
+UR  - https://doi.org/10.1016/j.ifacol.2022.09.248
+ER  - 
+
+TY  - JOUR
+TI  - Reconstruction of Sentinel-2 derived time series using robust Gaussian mixture models — Application to the detection of anomalous crop development
+AU  - Mouret F.
+JO  - Computers and Electronics in Agriculture
+PY  - 2022
+DA  - 2022-07-01
+VL  - 198
+DO  - 10.1016/j.compag.2022.106983
+UR  - https://doi.org/10.1016/j.compag.2022.106983
+ER  - 
+
+TY  - JOUR
+TI  - Cloud and cloud shadow detection for optical satellite imagery: Features, algorithms, validation, and prospects
+AU  - Li Z.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2022
+DA  - 2022-06-01
+VL  - 188
+SP  - 89-108
+DO  - 10.1016/j.isprsjprs.2022.03.020
+UR  - https://doi.org/10.1016/j.isprsjprs.2022.03.020
+ER  - 
+
+TY  - JOUR
+TI  - Rock lithological instance classification by hyperspectral images using dimensionality reduction and deep learning
+AU  - Galdames F.J.
+JO  - Chemometrics and Intelligent Laboratory Systems
+PY  - 2022
+DA  - 2022-05-15
+VL  - 224
+DO  - 10.1016/j.chemolab.2022.104538
+UR  - https://doi.org/10.1016/j.chemolab.2022.104538
+ER  - 
+
+TY  - JOUR
+TI  - Retrieving soil heavy metals concentrations based on GaoFen-5 hyperspectral satellite image at an opencast coal mine, Inner Mongolia, China
+AU  - Zhang B.
+JO  - Environmental Pollution
+PY  - 2022
+DA  - 2022-05-01
+VL  - 300
+DO  - 10.1016/j.envpol.2022.118981
+UR  - https://doi.org/10.1016/j.envpol.2022.118981
+ER  - 
+
+TY  - JOUR
+TI  - Application of hyperspectral characteristic wavelength selection based on weighted between-class to within-class variance ratio (WBWVR) in aflatoxin B concentration classification of maize flour
+AU  - Zhou Q.
+JO  - Infrared Physics and Technology
+PY  - 2022
+DA  - 2022-05-01
+VL  - 122
+DO  - 10.1016/j.infrared.2022.104095
+UR  - https://doi.org/10.1016/j.infrared.2022.104095
+ER  - 
+
+TY  - JOUR
+TI  - Extraction of rock and alteration geons by FODPSO segmentation and GP regression on the HyMap imagery: A case study of SW Birjand, Eastern Iran
+AU  - Shayeganpour S.
+JO  - Ore Geology Reviews
+PY  - 2022
+DA  - 2022-04-01
+VL  - 143
+DO  - 10.1016/j.oregeorev.2022.104767
+UR  - https://doi.org/10.1016/j.oregeorev.2022.104767
+ER  - 
+
+TY  - JOUR
+TI  - Unsupervised textural classification of rocks in large imagery datasets
+AU  - Merrill-Cifuentes J.
+JO  - Minerals Engineering
+PY  - 2022
+DA  - 2022-04-01
+VL  - 180
+DO  - 10.1016/j.mineng.2022.107496
+UR  - https://doi.org/10.1016/j.mineng.2022.107496
+ER  - 
+
+TY  - JOUR
+TI  - Mining satellite data for extracting chlorophyll a spatio-temporal patterns in the Mediterranean Sea
+AU  - Mattei F.
+JO  - Environmental Modelling and Software
+PY  - 2022
+DA  - 2022-04-01
+VL  - 150
+DO  - 10.1016/j.envsoft.2022.105353
+UR  - https://doi.org/10.1016/j.envsoft.2022.105353
+ER  - 
+
+TY  - JOUR
+TI  - Using soil library hyperspectral reflectance and machine learning to predict soil organic carbon: Assessing potential of airborne and spaceborne optical soil sensing
+AU  - Wang S.
+JO  - Remote Sensing of Environment
+PY  - 2022
+DA  - 2022-03-15
+VL  - 271
+DO  - 10.1016/j.rse.2022.112914
+UR  - https://doi.org/10.1016/j.rse.2022.112914
+ER  - 
+
+TY  - JOUR
+TI  - A unified deep learning framework for urban functional zone extraction based on multi-source heterogeneous data
+AU  - Lu W.
+JO  - Remote Sensing of Environment
+PY  - 2022
+DA  - 2022-03-01
+VL  - 270
+DO  - 10.1016/j.rse.2021.112830
+UR  - https://doi.org/10.1016/j.rse.2021.112830
+ER  - 
+
+TY  - JOUR
+TI  - Morphologically dilated convolutional neural network for hyperspectral image classification
+AU  - Kumar V.
+JO  - Signal Processing Image Communication
+PY  - 2022
+DA  - 2022-02-01
+VL  - 101
+DO  - 10.1016/j.image.2021.116549
+UR  - https://doi.org/10.1016/j.image.2021.116549
+ER  - 
+
+TY  - JOUR
+TI  - MCANet: A joint semantic segmentation framework of optical and SAR images for land use classification
+AU  - Li X.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2022
+DA  - 2022-02-01
+VL  - 106
+DO  - 10.1016/j.jag.2021.102638
+UR  - https://doi.org/10.1016/j.jag.2021.102638
+ER  - 
+
+TY  - JOUR
+TI  - Multimodal Earth observation data fusion: Graph-based approach in shared latent space
+AU  - Arun P.V.
+JO  - Information Fusion
+PY  - 2022
+DA  - 2022-02-01
+VL  - 78
+SP  - 20-39
+DO  - 10.1016/j.inffus.2021.09.004
+UR  - https://doi.org/10.1016/j.inffus.2021.09.004
+ER  - 
+
+TY  - JOUR
+TI  - Accurate hyperspectral imaging of mineralised outcrops: An example from lithium-bearing pegmatites at Uis, Namibia
+AU  - Booysen R.
+JO  - Remote Sensing of Environment
+PY  - 2022
+DA  - 2022-02-01
+VL  - 269
+DO  - 10.1016/j.rse.2021.112790
+UR  - https://doi.org/10.1016/j.rse.2021.112790
+ER  - 
+
+TY  - JOUR
+TI  - Combining UAV multispectral imagery and ecological factors to estimate leaf nitrogen and grain protein content of wheat
+AU  - Fu Z.
+JO  - European Journal of Agronomy
+PY  - 2022
+DA  - 2022-01-01
+VL  - 132
+DO  - 10.1016/j.eja.2021.126405
+UR  - https://doi.org/10.1016/j.eja.2021.126405
+ER  - 
+
+TY  - JOUR
+TI  - Deep neural networks-based relevant latent representation learning for hyperspectral image classification
+AU  - Sellami A.
+JO  - Pattern Recognition
+PY  - 2022
+DA  - 2022-01-01
+VL  - 121
+DO  - 10.1016/j.patcog.2021.108224
+UR  - https://doi.org/10.1016/j.patcog.2021.108224
+ER  - 
+
+TY  - JOUR
+TI  - An Intelligent deep learning based hyperspectral Signal classification scheme for complex measurement systems
+AU  - Mustafa Hilal A.
+JO  - Measurement Journal of the International Measurement Confederation
+PY  - 2022
+DA  - 2022-01-01
+VL  - 188
+DO  - 10.1016/j.measurement.2021.110540
+UR  - https://doi.org/10.1016/j.measurement.2021.110540
+ER  - 
+
+TY  - JOUR
+TI  - A review of machine learning in processing remote sensing data for mineral exploration
+AU  - Shirmard H.
+JO  - Remote Sensing of Environment
+PY  - 2022
+DA  - 2022-01-01
+VL  - 268
+DO  - 10.1016/j.rse.2021.112750
+UR  - https://doi.org/10.1016/j.rse.2021.112750
+ER  - 
+
+TY  - JOUR
+TI  - A cost-effective method to monitor vegetation changes in steppes ecosystems: A case study on remote sensing of fire and infrastructure effects in eastern Mongolia
+AU  - Dashpurev B.
+JO  - Ecological Indicators
+PY  - 2021
+DA  - 2021-12-01
+VL  - 132
+DO  - 10.1016/j.ecolind.2021.108331
+UR  - https://doi.org/10.1016/j.ecolind.2021.108331
+ER  - 
+
+TY  - JOUR
+TI  - Ground object information extraction from hyperspectral remote sensing images using deep learning algorithm
+AU  - Wang Z.
+JO  - Microprocessors and Microsystems
+PY  - 2021
+DA  - 2021-11-01
+VL  - 87
+DO  - 10.1016/j.micpro.2021.104394
+UR  - https://doi.org/10.1016/j.micpro.2021.104394
+ER  - 
+
+TY  - JOUR
+TI  - AComNN: Attention enhanced Compound Neural Network for financial time-series forecasting with cross-regional features
+AU  - Yang Z.
+JO  - Applied Soft Computing
+PY  - 2021
+DA  - 2021-11-01
+VL  - 111
+DO  - 10.1016/j.asoc.2021.107649
+UR  - https://doi.org/10.1016/j.asoc.2021.107649
+ER  - 
+
+TY  - JOUR
+TI  - Density saliency for clustered building detection and population capacity estimation
+AU  - Liu K.
+JO  - Neurocomputing
+PY  - 2021
+DA  - 2021-10-07
+VL  - 458
+SP  - 127-140
+DO  - 10.1016/j.neucom.2021.06.002
+UR  - https://doi.org/10.1016/j.neucom.2021.06.002
+ER  - 
+
+TY  - JOUR
+TI  - Random-forest based adjusting method for wind forecast of WRF model
+AU  - Wang A.
+JO  - Computers and Geosciences
+PY  - 2021
+DA  - 2021-10-01
+VL  - 155
+DO  - 10.1016/j.cageo.2021.104842
+UR  - https://doi.org/10.1016/j.cageo.2021.104842
+ER  - 
+
+TY  - JOUR
+TI  - Crop yield prediction from multi-spectral, multi-temporal remotely sensed imagery using recurrent 3D convolutional neural networks
+AU  - Qiao M.
+JO  - International Journal of Applied Earth Observation and Geoinformation
+PY  - 2021
+DA  - 2021-10-01
+VL  - 102
+DO  - 10.1016/j.jag.2021.102436
+UR  - https://doi.org/10.1016/j.jag.2021.102436
+ER  - 
+
+TY  - JOUR
+TI  - Ensemble of multiple CNN classifiers for HSI classification with Superpixel Smoothing
+AU  - Sikakollu P.
+JO  - Computers and Geosciences
+PY  - 2021
+DA  - 2021-09-01
+VL  - 154
+DO  - 10.1016/j.cageo.2021.104806
+UR  - https://doi.org/10.1016/j.cageo.2021.104806
+ER  - 
+
+TY  - JOUR
+TI  - Multi-scale, multi-sensor data integration for automated 3-D geological mapping
+AU  - Thiele S.T.
+JO  - Ore Geology Reviews
+PY  - 2021
+DA  - 2021-09-01
+VL  - 136
+DO  - 10.1016/j.oregeorev.2021.104252
+UR  - https://doi.org/10.1016/j.oregeorev.2021.104252
+ER  - 
+
+TY  - JOUR
+TI  - Joint feature extraction for multi-source data using similar double-concentrated network
+AU  - Zhu Y.
+JO  - Neurocomputing
+PY  - 2021
+DA  - 2021-08-25
+VL  - 450
+SP  - 70-79
+DO  - 10.1016/j.neucom.2021.03.088
+UR  - https://doi.org/10.1016/j.neucom.2021.03.088
+ER  - 
+
+TY  - JOUR
+TI  - The large footprint of small-scale artisanal gold mining in Ghana
+AU  - Barenblitt A.
+JO  - Science of the Total Environment
+PY  - 2021
+DA  - 2021-08-10
+VL  - 781
+DO  - 10.1016/j.scitotenv.2021.146644
+UR  - https://doi.org/10.1016/j.scitotenv.2021.146644
+ER  - 
+
+TY  - JOUR
+TI  - Object-based classification of vegetation species in a subtropical wetland using Sentinel-1 and Sentinel-2A images
+AU  - Ruiz L.F.C.
+JO  - Science of Remote Sensing
+PY  - 2021
+DA  - 2021-06-01
+VL  - 3
+DO  - 10.1016/j.srs.2021.100017
+UR  - https://doi.org/10.1016/j.srs.2021.100017
+ER  - 
+
+TY  - JOUR
+TI  - Multi-scale stacking attention pooling for remote sensing scene classification
+AU  - Bi Q.
+JO  - Neurocomputing
+PY  - 2021
+DA  - 2021-05-14
+VL  - 436
+SP  - 147-161
+DO  - 10.1016/j.neucom.2021.01.038
+UR  - https://doi.org/10.1016/j.neucom.2021.01.038
+ER  - 
+
+TY  - JOUR
+TI  - Large-scale rice mapping under different years based on time-series Sentinel-1 images using deep semantic segmentation model
+AU  - Wei P.
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+PY  - 2021
+DA  - 2021-04-01
+VL  - 174
+SP  - 198-214
+DO  - 10.1016/j.isprsjprs.2021.02.011
+UR  - https://doi.org/10.1016/j.isprsjprs.2021.02.011
+ER  - 
+
+TY  - JOUR
+TI  - Mining the features of spatial adjacency relationships to improve the classification of high resolution remote sensing images based on complex network
+AU  - Wang C.
+JO  - Applied Soft Computing
+PY  - 2021
+DA  - 2021-04-01
+VL  - 102
+DO  - 10.1016/j.asoc.2021.107089
+UR  - https://doi.org/10.1016/j.asoc.2021.107089
+ER  - 
+
+TY  - JOUR
+TI  - Mapping changes in artisanal and small-scale mining (ASM) landscape using machine and deep learning algorithms. - a proxy evaluation of the 2017 ban on ASM in Ghana
+AU  - Nyamekye C.
+JO  - Environmental Challenges
+PY  - 2021
+DA  - 2021-04-01
+VL  - 3
+DO  - 10.1016/j.envc.2021.100053
+UR  - https://doi.org/10.1016/j.envc.2021.100053
+ER  - 
+
+TY  - JOUR
+TI  - Salient object detection on hyperspectral images in wireless network using CNN and saliency optimization
+AU  - Huang C.
+JO  - Ad Hoc Networks
+PY  - 2021
+DA  - 2021-03-01
+VL  - 112
+DO  - 10.1016/j.adhoc.2020.102369
+UR  - https://doi.org/10.1016/j.adhoc.2020.102369
+ER  - 
+
+TY  - JOUR
+TI  - An overview of crop nitrogen status assessment using hyperspectral remote sensing: Current status and perspectives
+AU  - Fu Y.
+JO  - European Journal of Agronomy
+PY  - 2021
+DA  - 2021-03-01
+VL  - 124
+DO  - 10.1016/j.eja.2021.126241
+UR  - https://doi.org/10.1016/j.eja.2021.126241
+ER  - 
+
+TY  - JOUR
+TI  - Estimating the distribution trend of soil heavy metals in mining area from HyMap airborne hyperspectral imagery based on ensemble learning
+AU  - Tan K.
+JO  - Journal of Hazardous Materials
+PY  - 2021
+DA  - 2021-01-05
+VL  - 401
+DO  - 10.1016/j.jhazmat.2020.123288
+UR  - https://doi.org/10.1016/j.jhazmat.2020.123288
+ER  - 
+
+TY  - JOUR
+TI  - Image processing in synthesis and optimization of active vaccinal components
+AU  - Margin O.C.
+JO  - IFAC Papersonline
+PY  - 2021
+DA  - 2021-01-01
+VL  - 54
+IS  - 15
+SP  - 209-214
+DO  - 10.1016/j.ifacol.2021.10.257
+UR  - https://doi.org/10.1016/j.ifacol.2021.10.257
+ER  - 
+
+TY  - JOUR
+TI  - Deep Learning and Remote Sensing: Detection of Dumping Waste Using UAV
+AU  - Youme O.
+JO  - Procedia Computer Science
+PY  - 2021
+DA  - 2021-01-01
+VL  - 185
+SP  - 361-369
+DO  - 10.1016/j.procs.2021.05.037
+UR  - https://doi.org/10.1016/j.procs.2021.05.037
+ER  - 
+

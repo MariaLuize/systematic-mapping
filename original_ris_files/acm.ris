@@ -1,0 +1,235 @@
+TY  - JOUR
+AU  - Himeur, Yassine
+AU  - Rimal, Bhagawat
+AU  - Tiwary, Abhishek
+AU  - Amira, Abbes
+TI  - Using artificial intelligence and data fusion for environmental
+      monitoring: A review and future perspectives
+T2  - Inf. Fusion
+VL  - 86
+IS  - C
+SP  - 44–75
+PY  - 2022
+DA  - 2022/10
+PB  - Elsevier Science Publishers B. V.
+CY  - NLD
+SN  - 1566-2535
+DO  - 10.1016/j.inffus.2022.06.003
+UR  - https://doi.org/10.1016/j.inffus.2022.06.003
+UR  - http://dx.doi.org/10.1016/j.inffus.2022.06.003
+KW  - Evaluation metrics, Land cover and land use, Data fusion, Artificial intelligence, Remote sensing images, Environmental monitoring
+ER  - 
+
+TY  - JOUR
+AU  - Kumar, Ajay
+AU  - Gorai, Amit Kumar
+TI  - Design of an optimized deep learning algorithm for automatic
+      classification of high-resolution satellite dataset (LISS IV) for studying
+      land-use patterns in a mining region
+T2  - Comput. Geosci.
+VL  - 170
+IS  - C
+PY  - 2023
+DA  - 2023/1
+PB  - Pergamon Press, Inc.
+CY  - USA
+SN  - 0098-3004
+DO  - 10.1016/j.cageo.2022.105251
+UR  - https://doi.org/10.1016/j.cageo.2022.105251
+UR  - http://dx.doi.org/10.1016/j.cageo.2022.105251
+KW  - Jharia coalfield, LISS-IV satellite Image, Classification, Stochastic gradient descent momentum, DCNN
+ER  - 
+
+TY  - JOUR
+AU  - Yang, Aitao
+AU  - Li, Min
+AU  - Ding, Yao
+AU  - He, Yujie
+AU  - Bi, Meiqiao
+AU  - Zheng, Qinghe
+TI  - CTFN: Multi-scale CNN and transformer with graph encodings fusion network
+      for hyperspectral image classification
+T2  - Expert Syst. Appl.
+VL  - 288
+IS  - C
+PY  - 2025
+DA  - 2025/9
+PB  - Pergamon Press, Inc.
+CY  - USA
+SN  - 0957-4174
+DO  - 10.1016/j.eswa.2025.128063
+UR  - https://doi.org/10.1016/j.eswa.2025.128063
+UR  - http://dx.doi.org/10.1016/j.eswa.2025.128063
+KW  - Hyperspectral image classification, Convolution neural network, Transformer, Graph convolution network
+ER  - 
+
+TY  - JOUR
+AU  - Yuan, Jianjun
+AU  - Wu, Fujun
+AU  - Zhao, Luoming
+AU  - Zhang, Qixin
+AU  - Chen, Yaohong
+TI  - IMFF: A dual-space optimization network via multi-level feature fusion and
+      boundary-aware learning for high-resolution remote sensing scene
+      classification
+T2  - Expert Syst. Appl.
+VL  - 296
+IS  - PC
+PY  - 2026
+DA  - 2026/5
+PB  - Pergamon Press, Inc.
+CY  - USA
+SN  - 0957-4174
+DO  - 10.1016/j.eswa.2025.129163
+UR  - https://doi.org/10.1016/j.eswa.2025.129163
+UR  - http://dx.doi.org/10.1016/j.eswa.2025.129163
+KW  - Remote sensing classification, Dual-space optimization, Feature fusion, Information mining
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Zhengyang
+AU  - Tian, Shufang
+TI  - Ground object information extraction from hyperspectral remote sensing
+      images using deep learning algorithm
+T2  - Microprocess. Microsyst.
+VL  - 87
+IS  - C
+PY  - 2021
+DA  - 2021/11
+PB  - Elsevier Science Publishers B. V.
+CY  - NLD
+SN  - 0141-9331
+DO  - 10.1016/j.micpro.2021.104394
+UR  - https://doi.org/10.1016/j.micpro.2021.104394
+UR  - http://dx.doi.org/10.1016/j.micpro.2021.104394
+KW  - Convolutional neural network, Ground object information extraction, Hyperspectral remote sensing image, Deep learning
+ER  - 
+
+TY  - CPAPER
+AU  - Ruan, Ruyun
+AU  - Huang, Shoujin
+AU  - Su, Liyilei
+AU  - Khan, Rashid
+AU  - Huang, Bingding
+TI  - Predicting Microsatellite Instability from Pathological Images Using
+      Self-Supervised Learning Methods
+T2  - Proceedings of the 2023 International Conference on Advances in Artificial
+      Intelligence and Applications
+J2  - AAIA '23
+SP  - 223–228
+PY  - 2024
+DA  - 2024
+PB  - Association for Computing Machinery
+AB  - Microsatellite instability (MSI) is a phenotypic consequence of defect
+      deoxyribonucleic acid (DNA) mismatch repair function. The MSI status is a
+      crucial biomarker in assessing a cancer patient's response to
+      immunotherapy. Polymerase Chain Reaction (PCR) testing or
+      immunohistochemical detection were the gold-standard methods for
+      determining MSI. Recent studies have demonstrated that deep learning
+      approaches can rapidly and cost-effectively determine MSI status from
+      standard pathological images. This study employed several self-supervised
+      techniques, including ResNest, Transformer, and other deep learning
+      architectures, on The Cancer Genome Atlas (TCGA) pathological image
+      datasets to detect MSI status. The experimental results demonstrated that
+      all methods achieved an area under the curve (AUC) exceeding 0.90. These
+      results surpass the performance of a single traditional network structure
+      on the datasets, thereby validating the superiority of the
+      self-supervision training methods to predict MSI status from pathological
+      images. Our proposed self-supervised methods effectively bridge the
+      knowledge gap between natural and medical image-pretrained models.
+DO  - 10.1145/3603273.3635242
+C1  - New York, NY, USA
+UR  - https://doi.org/10.1145/3603273.3635242
+UR  - http://dx.doi.org/10.1145/3603273.3635242
+KW  - Deep learning, Microsatellite instability, Pathological image, Self-supervised
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Changying
+AU  - Shao, Fengjing
+AU  - Zhang, Zhimei
+AU  - Sui, Yi
+AU  - Li, Shujing
+TI  - Mining the features of spatial adjacency relationships to improve the
+      classification of high resolution remote sensing images based on complex
+      network
+T2  - Appl. Soft Comput.
+VL  - 102
+IS  - C
+PY  - 2021
+DA  - 2021/4
+PB  - Elsevier Science Publishers B. V.
+CY  - NLD
+SN  - 1568-4946
+DO  - 10.1016/j.asoc.2021.107089
+UR  - https://doi.org/10.1016/j.asoc.2021.107089
+UR  - http://dx.doi.org/10.1016/j.asoc.2021.107089
+KW  - Classification, Land cover, Complex network, Spatially adjacent, Remote sensing image
+ER  - 
+
+TY  - THES
+AU  - Gallwey, J
+TI  - Development of Mining Sector Applications for Emerging Remote Sensing and
+      Deep Learning Technologies
+PY  - 2021
+DA  - 2021
+AB  - This thesis uses neural networks and deep learning to address practical,
+      real-world problems in the mining sector. The main focus is on developing
+      novel applications in the area of object detection from remotely sensed
+      data. This area has many potential mining applications and is an important
+      part of moving towards data driven strategic decision making across the
+      mining sector. The scientific contributions of this research are twofold;
+      firstly, each of the three case studies demonstrate new applications which
+      couple remote sensing and neural network based technologies for improved
+      data driven decision making. Secondly, the thesis presents a framework to
+      guide implementation of these technologies in the mining sector, providing
+      a guide for researchers and professionals undertaking further studies of
+      this type. The first case study builds a fully connected neural network
+      method to locate supporting rock bolts from 3D laser scan data. This
+      method combines input features from the remote sensing and mobile robotics
+      research communities, generating accuracy scores up to 22% higher than
+      those found using either feature set in isolation. The neural network
+      approach also is compared to the widely used random forest classifier and
+      is shown to outperform this classifier on the test datasets. Additionally,
+      the algorithms' performance is enhanced by adding a confusion class to the
+      training data and by grouping the output predictions using density based
+      spatial clustering. The method is tested on two datasets, gathered using
+      different laser scanners, in different types of underground mines which
+      have different rock bolting patterns. In both cases the method is found to
+      be highly capable of detecting the rock bolts with recall scores of
+      0.87-0.96. The second case study investigates modern deep learning for
+      LiDAR data. Here, multiple transfer learning strategies and LiDAR data
+      representations are examined for the task of identifying historic mining
+      remains. A transfer learning approach based on a Lunar crater detection
+      model is used, due to the task similarities between both the underlying
+      data structures and the geometries of the objects to be detected. The
+      relationship between dataset resolution and detection accuracy is also
+      examined, with the results showing that the approach is capable of
+      detecting pits and shafts to a high degree of accuracy with precision and
+      recall scores between 0.80-0.92, provided the input data is of sufficient
+      quality and resolution. Alongside resolution, different LiDAR data
+      representations are explored, showing that the precision-recall balance
+      varies depending on the input LiDAR data representation. The third case
+      study creates a deep convolutional neural network model to detect
+      artisanal scale mining from multispectral satellite data. This model is
+      trained from initialisation without transfer learning and demonstrates
+      that accurate multispectral models can be built from a smaller training
+      dataset when appropriate design and data augmentation strategies are
+      adopted. Alongside the deep learning model, novel mosaicing algorithms are
+      developed both to improve cloud cover penetration and to decrease noise in
+      the final prediction maps. When applied to the study area, the results
+      from this model provide valuable information about the expansion,
+      migration and forest encroachment of artisanal scale mining in
+      southwestern Ghana over the last four years. Finally, this thesis presents
+      an implementation framework for these neural network based object
+      detection models, to generalise the findings from this research to new
+      mining sector deep learning tasks. This framework can be used to identify
+      applications which would benefit from neural network approaches; to build
+      the models; and to apply these algorithms in a real world environment. The
+      case study chapters confirm that the neural network models are capable of
+      interpreting remotely sensed data to a high degree of accuracy on real
+      world mining problems, while the framework guides the development of new
+      models to solve a wide range of related challenges.
+M3  - Ph.D. Thesis
+N1  - AAI28930393
+ER  - 
