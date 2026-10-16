@@ -1,4 +1,8 @@
-B.
+TY  - JOUR
+AU  - Wu, J.
+AU  - Su, X.
+AU  - Yan, Q.
+AU  - Ji,B.
 AU  - Yu, H.
 AU  - Fu, J.
 AU  - Zhang, J.
@@ -7963,6 +7967,6 @@ T2  - IEEE Transactions on Geoscience and Remote Sensing
 VL  - 62
 C7  - 5648523
 DO  - 10.1109/TGRS.2024.3494257
-UR  - http
+UR  - https://www.scopus.com/pages/publications/85208988908?origin=resultslist
 AB  - Sudden-onset natural disasters, such as destructive earthquakes, pose significant threats to human life and property. The use of high-resolution remote sensing (HRRS) images for automated assessment of building damage can rapidly and accurately provide spatial distribution information and statistical data on building damage, assisting in disaster response and relief efforts. However, the task is exceedingly challenging due to the diverse and intricate appearance of damaged buildings in HRRS images, coupled with interference from surrounding areas that exhibit certain damage characteristics as a result of the disaster. To overcome these issues, this article proposes a weakly supervised building damage assessment method based on scene change detection in pre-and post-disaster bitemporal images. This method fully leverages visual information of building boundaries and deeper semantic information of building scenes from pre-disaster images to guide the identification of building damage in post-disaster images. Specifically, the method first generates fine-grained subbuilding objects with detailed boundaries from pre-disaster images by combining semantic segmentation of buildings with superpixel segmentation. Then, bitemporal image scene blocks obtained using sub-building objects as clues are input into our proposed Siamese local-global visual transformer (SLgViT) network, enabling scene change detection guided by deep semantic information from pre-disaster images. Finally, the change detection results serve as the basis to depict pixel-level building damage in post-disaster images. The proposed SLgViT network is primarily composed of a specially designed local-global visual transformer (LgViT) module and a cross-Siamese interaction fusion (CSIF) module, both of which play a crucial role in the deep mining and integrated interaction of local and global semantic features from pre-and post-disaster images. It is noteworthy that our method operates in a weakly supervised manner. The training of the SLgViT network requires only scene patches centered around building objects from pre-and post-disaster bitemporal images, along with image-level annotations. Experiments conducted with satellite images from the 2010 Port-au-Prince, Haiti earthquake and unmanned aerial vehicle (UAV) images from the 2019 Changning, China earthquake have demonstrated the effectiveness and superior performance of the proposed method.
 ER  -

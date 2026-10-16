@@ -58,7 +58,7 @@ def fetch_abstract_by_doi(doi, api_key):
     #     pass
     return None
 
-def add_abstracts_to_ris(input_path, output_path, api_key):
+def add_abstracts_to_ris_old(input_path, output_path, api_key):
     if not os.path.exists(input_path):
         print(f"Arquivo de entrada não encontrado: {input_path}")
         return
@@ -98,6 +98,81 @@ def add_abstracts_to_ris(input_path, output_path, api_key):
     with open(output_path, 'w', encoding='utf-8') as f_out:
         f_out.write('\n\n'.join(updated_records) + '\n')
     
+    print(f"\n✓ Concluído! Arquivo atualizado salvo em: {output_path}")
+
+def add_abstracts_to_ris(input_path, output_path, api_key):
+    if not os.path.exists(input_path):
+        print(f"Arquivo de entrada não encontrado: {input_path}")
+        return
+
+    print("Lendo referências e verificando registros existentes...")
+    
+    with open(input_path, 'r', encoding='utf-8', errors='ignore') as f:
+        content = f.read()
+
+    records = content.split('ER  -')
+    total = len(records) - 1  
+
+    # Carrega registros já processados no arquivo de saída (caso exista) para retomar de onde parou
+    existing_dois_with_abs = set()
+    existing_records_map = {}
+    
+    if os.path.exists(output_path):
+        print("Arquivo de saída já existe. Carregando progresso anterior...")
+        with open(output_path, 'r', encoding='utf-8', errors='ignore') as f_out_existing:
+            existing_content = f_out_existing.read()
+        existing_records = existing_content.split('ER  -')
+        for rec in existing_records:
+            if not rec.strip():
+                continue
+            doi_m = re.search(r'^DO\s+-\s+(.*)$', rec, re.MULTILINE)
+            if doi_m:
+                doi_val = doi_m.group(1).strip()
+                if 'AB  -' in rec:
+                    existing_dois_with_abs.add(doi_val)
+                existing_records_map[doi_val] = rec.strip() + '\nER  -'
+
+    updated_records = []
+
+    for idx, record in enumerate(records):
+        record_clean = record.strip()
+        if not record_clean:
+            continue
+        
+        doi_match = re.search(r'^DO\s+-\s+(.*)$', record_clean, re.MULTILINE)
+        doi = doi_match.group(1).strip() if doi_match else None
+        has_abstract = re.search(r'^AB\s+-', record_clean, re.MULTILINE)
+        
+        # Se já temos o registro salvo com abstract no output, reaproveita ele
+        if doi and doi in existing_records_map:
+            print(f"[{idx+1}/{total}] DOI {doi} já processado anteriormente. Mantendo.")
+            updated_records.append(existing_records_map[doi])
+            continue
+
+        lines = record_clean.split('\n')
+        
+        # Se tem DOI mas não tem abstract nem no original nem nos salvos
+        if doi and not has_abstract and doi not in existing_dois_with_abs:
+            print(f"[{idx+1}/{total}] Buscando abstract para o DOI: {doi}...")
+            abstract = fetch_abstract_by_doi(doi, api_key)
+            time.sleep(0.3)  # Evitar throttling da API
+            
+            if abstract:
+                abstract_clean = abstract.replace('\n', ' ').replace('\r', '')
+                lines.append(f"AB  - {abstract_clean}")
+                print(" -> Abstract adicionado com sucesso!")
+            else:
+                print(" -> Abstract não encontrado na API.")
+        elif has_abstract:
+            print(f"[{idx+1}/{total}] Abstract já presente no registro original para DOI: {doi}.")
+
+        current_record_str = '\n'.join(lines) + '\nER  -'
+        updated_records.append(current_record_str)
+        
+        # SALVAMENTO IMEDIATO: Grava no arquivo a cada alteração/iteração para não perder progresso
+        with open(output_path, 'w', encoding='utf-8') as f_out:
+            f_out.write('\n\n'.join(updated_records) + '\n')
+
     print(f"\n✓ Concluído! Arquivo atualizado salvo em: {output_path}")
 
 

@@ -8070,13 +8070,3 @@ N1  - Export Date: 05 October 2026
 N1  - Cited By: 0
 AB  - This study evaluates hyperspectral imaging (HSI) as a cost-effective alternative to the Mineral Liberation Analyser (MLA), which is constrained by high cost, operational complexity, and time-intensive sample preparation. The research aimed to classify minerals and estimate their proportions using deep learning and regression techniques. Standard mineral samples (Magnetite, Ilmenite, Quartz) with particle sizes of 100–300 μm were prepared under controlled illumination for model development. Mineral classification was performed using a one-dimensional convolutional neural network (1D CNN), achieving an accuracy of 87.4%. However, mixed minerals within individual pixels reduced classification precision. To address this, the concept of spectral unmixing was applied, and regression analysis was identified as more suitable for predicting mineral proportions. The regression model demonstrated strong performance (RMSE = 9.90, R2 = 0.91, R = 0.96), explaining over 91.3% of data variability and enabling estimation of intermediate proportions for mixed pixels (e.g. 20–50% Ilmenite). These findings highlight HSI combined with regression as a reliable and efficient approach for mineral composition assessment, overcoming key limitations of MLA.
 ER  -
-
-TY  - JOUR
-AU  - Wang, Z.-K.
-AU  - Chen, L.
-AU  - Cheng, X.-Y.
-AU  - Xia, Y.
-AU  - Li, X.-J.
-AU  - Hu, X.
-TI  - Inversion of reclaimed soil organic carbon content in
-ER  -

@@ -1,11 +1,3 @@
-t
-M3  - Conference review
-DB  - Scopus
-N1  - EID: 2-s2.0-85185773216
-N1  - Export Date: 05 October 2026
-N1  - Cited By: 0
-ER  -
-
 TY  - JOUR
 AU  - Xu, H.
 AU  - Zeng, Z.
@@ -8178,13 +8170,4 @@ N1  - EID: 2-s2.0-85129196026
 N1  - Export Date: 05 October 2026
 N1  - Cited By: 1
 AB  - Thi The evolution of hyperspectral sensors has allowed the combination of spatial and spectral resolutions, which has given birth to a new technology known by hyperspectral imaging (HSI). Thanks to its discriminate capacity of objects, it has served humanity in many fields such as mineralogy, medicine, agriculture. It has become of interest to researchers. Despite their advantages, its large hyperspectral dimensionality imposes several problems such as computation time, storage, and the risk of confusion in prediction during classification. Reducing its dimensionality is one of the solutions introduced to overcome this kind of constraint. In this work, we proposed a selection filter based on a genetic algorithm (GA) and its compound fitness function (CF) that is based on the calculation of several functions: the amount of information of the selected bands with the measurement of the information mutual, as well as the inter-band correlation with the Pearson coefficient, and the Jeffries - Matusita distance between the selected bands. The classifier retained in the process of the proposed method is SVM-RBF that was able to show its robustness in front of the KNN. Three HSI: SALINAS, INDIAN PINE, PAVIA were used to test the reliability of the proposed method on a variety of data. Other distances are used to compare the results which showed that the GA-CF-SVM method was able to achieve the objective with high classification accuracy in short computing time. The number of used bands has been reduced from 103 to 40 for Pavia with a classification accuracy of 95.18%.s.
-ER  -
-
-TY  - JOUR
-AU  - Chen, J.
-AU  - Xu, W.
-AU  - Yu, Y.
-AU  - Peng, C.
-AU  - Gong, W.
-TI  - Reliable Label-Supervised Pixel Attention Mechanism for Weakly Supervised Building Segme
 ER  -

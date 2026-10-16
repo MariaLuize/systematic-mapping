@@ -3,7 +3,7 @@
 
 ROOT='/app'
 FILES_DIR='./original_ris_files'
-FILE_NAME='export_33c5d528-ebbf-4878-96aa-bc4ee1aa5119_2026-10-05T181520.829246286_7'
+FILE_NAME='export_33c5d528-ebbf-4878-96aa-bc4ee1aa5119_2026-10-05T181520.829246286_2'
 
 python3 -u data_retrivel.py "$FILES_DIR" "$FILE_NAME"
 
