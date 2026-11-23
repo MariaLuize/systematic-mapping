@@ -1,2 +1,6 @@
 .vscode
 .env
+.venv
+/rpapers_pdf
+extracao_revisao_sistematica*
+~lock*
