@@ -32,9 +32,11 @@ class MiningPaperExtraction(BaseModel):
             "classificação de mineração em solo exposto — incluindo tanto o modelo proposto "
             "quanto os baselines/modelos comparados experimentalmente (ex.: 'AuxTransUNet', "
             "'U-Net', 'DeepLab v3 (ResNet50)', 'DeepLab v3+ (ResNet50)', 'ViT-Unet', "
-            "'R50-ViT-Unet', 'TransUNet', 'Swin-Unet', 'SegFormer', 'Random Forest', "
-            "'SVM', 'NDVI thresholding'). "
-            "NÃO inclua as configurações dos modelos utilizados (ex: função de ativação, função de loss, Adam, FocalLoss e etc"
+            "'R50-ViT-Unet', 'TransUNet', 'Swin-Unet', 'SegFormer', 'DCNN', 'DNN', "
+            "'Random Forest', 'SVM', 'NDVI thresholding'). "
+            "Use nomes curtos e padronizados em inglês/sigla técnica. "
+            "NÃO inclua hiperparâmetros, configurações ou componentes internos de treino "
+            "(ex.: função de ativação, função de loss, Adam, FocalLoss, learning rate). "
             "NÃO inclua modelos citados apenas na Introdução, Trabalhos Relacionados ou "
             "referências sem execução experimental no artigo, nem métodos usados apenas como "
             "pré-processamento ou geração de rótulos/dados de apoio."
@@ -49,7 +51,24 @@ class MiningPaperExtraction(BaseModel):
             "Scene Classification",
         ]
     ] = Field(
-        description="Formulação espacial da saída do modelo. Escolha apenas dentre as opções permitidas.Pixel Classification faz referencia a modelos de machine learning que agem no nivel do pixel"
+        description=(
+                "Formulação(ões) espacial(is) da saída do(s) modelo(s) avaliado(s) nos "
+                "experimentos. Retorne TODOS os tipos aplicáveis quando o artigo usar mais de "
+                "uma etapa ou mais de um modelo (ex.: 'Bounding Box' + 'Semantic Segmentation' "
+                "em pipelines de localização seguida de segmentação semântica, ou 'Pixel Classification' "
+                "+ 'Scene Classification' quando comparar classificadores por pixel e por patch). "
+                "Opções permitidas: "
+                "- 'Semantic Segmentation': segmentação densa de imagem (ex.: U-Net, SegNet, "
+                "DeepLab, Swin-Unet, SegFormer) que prevê máscara densa por pixel a partir de "
+                "arquitetura de segmentação; "
+                "- 'Instance Segmentation': segmentação individualizada de instâncias/objetos "
+                "(ex.: YOLOv8-seg, YOLOv11x-seg, Mask2Former); "
+                "- 'Bounding Box': detecção de objetos/regiões por caixas delimitadoras; "
+                "- 'Pixel Classification': classificação que avalia/rotula cada pixel individualmente "
+                "(seja por ML clássico como Random Forest/SVM ou redes neurais densas/MLPs por pixel); "
+                "- 'Scene Classification': classificação de recortes/patches/objetos inteiros "
+                "(ex.: patch ou cena completa), sem máscara de segmentação semântica densa."
+        )
     )
     rq1_3_alvo: List[str] = Field(
         description=(
